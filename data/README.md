@@ -17,4 +17,4 @@ python collect.py    # polite requests → data/raw/
 python clean.py      # tidy CSV → data/processed/ and data/sample/
 ```
 
-See the **Data** section in the root [README](../README.md) for source, collection date, record counts, and what is left out of the repository.
+See the **Data** section in the root [README](../README.md) for source, collection date, record counts, and repository contents.
