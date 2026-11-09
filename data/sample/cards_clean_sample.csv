@@ -1,0 +1,26 @@
+card_id,card_name,set_id,set_name,release_date,age_years,rarity,category,local_id,variant_price_source,market_price_usd,collected_at_utc,source_url
+base1-10,Mewtwo,base1,Base Set,1999-01-09,27.83,Rare,Pokemon,10,holo:holofoil,89.58,2026-11-09T03:32:52.460965+00:00,https://api.tcgdex.net/v2/en/cards/base1-10
+base1-55,Nidoran♂,base1,Base Set,1999-01-09,27.83,Common,Pokemon,55,normal:normal,0.92,2026-11-09T03:32:52.460965+00:00,https://api.tcgdex.net/v2/en/cards/base1-55
+base1-75,Lass,base1,Base Set,1999-01-09,27.83,Rare,Trainer,75,normal:normal,3.78,2026-11-09T03:32:52.460965+00:00,https://api.tcgdex.net/v2/en/cards/base1-75
+base5-35,Dark Flareon,base5,Team Rocket,2000-04-24,26.54,Uncommon,Pokemon,35,normal:1st-edition,21.81,2026-11-09T03:32:52.460965+00:00,https://api.tcgdex.net/v2/en/cards/base5-35
+ex1-27,Combusken,ex1,Ruby & Sapphire,2003-07-01,23.36,Uncommon,Pokemon,27,normal:reverse-holofoil,25.22,2026-11-09T03:32:52.460965+00:00,https://api.tcgdex.net/v2/en/cards/ex1-27
+ex1-49,Aron,ex1,Ruby & Sapphire,2003-07-01,23.36,Common,Pokemon,49,normal:reverse-holofoil,18.55,2026-11-09T03:32:52.460965+00:00,https://api.tcgdex.net/v2/en/cards/ex1-49
+ex1-61,Numel,ex1,Ruby & Sapphire,2003-07-01,23.36,Common,Pokemon,61,normal:reverse-holofoil,20.55,2026-11-09T03:32:52.460965+00:00,https://api.tcgdex.net/v2/en/cards/ex1-61
+dp1-15,Skuntank,dp1,Diamond & Pearl,2007-05-01,19.53,Rare Holo,Pokemon,15,top:reverse-holofoil,8.78,2026-11-09T03:32:52.460965+00:00,https://api.tcgdex.net/v2/en/cards/dp1-15
+dp1-64,Staravia,dp1,Diamond & Pearl,2007-05-01,19.53,Uncommon,Pokemon,64,top:reverse-holofoil,3.16,2026-11-09T03:32:52.460965+00:00,https://api.tcgdex.net/v2/en/cards/dp1-64
+bw1-62,Sawk,bw1,Black & White,2011-04-25,15.54,Rare,Pokemon,62,normal:reverse-holofoil,2.39,2026-11-09T03:32:52.460965+00:00,https://api.tcgdex.net/v2/en/cards/bw1-62
+bw1-84,Pidove,bw1,Black & White,2011-04-25,15.54,Common,Pokemon,84,normal:reverse-holofoil,1.48,2026-11-09T03:32:52.460965+00:00,https://api.tcgdex.net/v2/en/cards/bw1-84
+bw1-99,Pokémon Communication,bw1,Black & White,2011-04-25,15.54,Uncommon,Trainer,99,normal:reverse-holofoil,1.06,2026-11-09T03:32:52.460965+00:00,https://api.tcgdex.net/v2/en/cards/bw1-99
+xy1-96,Xerneas,xy1,XY,2014-02-05,12.76,Rare,Pokemon,96,top:reverse-holofoil,2.32,2026-11-09T03:32:52.460965+00:00,https://api.tcgdex.net/v2/en/cards/xy1-96
+sm1-143,Solgaleo GX,sm1,Sun & Moon,2017-02-03,9.76,Ultra Rare,Pokemon,143,top:holofoil,7.3,2026-11-09T03:32:52.460965+00:00,https://api.tcgdex.net/v2/en/cards/sm1-143
+sm1-149,Team Skull Grunt,sm1,Sun & Moon,2017-02-03,9.76,Ultra Rare,Trainer,149,top:holofoil,8.16,2026-11-09T03:32:52.460965+00:00,https://api.tcgdex.net/v2/en/cards/sm1-149
+sm1-44,Wishiwashi,sm1,Sun & Moon,2017-02-03,9.76,Uncommon,Pokemon,44,top:reverse-holofoil,0.57,2026-11-09T03:32:52.460965+00:00,https://api.tcgdex.net/v2/en/cards/sm1-44
+sm1-80,Umbreon GX,sm1,Sun & Moon,2017-02-03,9.76,Ultra Rare,Pokemon,80,top:holofoil,25.87,2026-11-09T03:32:52.460965+00:00,https://api.tcgdex.net/v2/en/cards/sm1-80
+swsh1-122,Drapion,swsh1,Sword & Shield,2020-02-07,6.75,Rare,Pokemon,122,top:reverse-holofoil,0.4,2026-11-09T03:32:52.460965+00:00,https://api.tcgdex.net/v2/en/cards/swsh1-122
+swsh1-42,Krabby,swsh1,Sword & Shield,2020-02-07,6.75,Common,Pokemon,42,top:reverse-holofoil,0.34,2026-11-09T03:32:52.460965+00:00,https://api.tcgdex.net/v2/en/cards/swsh1-42
+swsh1-44,Kingler,swsh1,Sword & Shield,2020-02-07,6.75,Uncommon,Pokemon,44,top:reverse-holofoil,0.44,2026-11-09T03:32:52.460965+00:00,https://api.tcgdex.net/v2/en/cards/swsh1-44
+swsh3-150,Bunnelby,swsh3,Darkness Ablaze,2020-08-14,6.24,Common,Pokemon,150,normal:reverse-holofoil,0.45,2026-11-09T03:32:52.460965+00:00,https://api.tcgdex.net/v2/en/cards/swsh3-150
+swsh3-82,Sinistea,swsh3,Darkness Ablaze,2020-08-14,6.24,Common,Pokemon,82,normal:reverse-holofoil,0.29,2026-11-09T03:32:52.460965+00:00,https://api.tcgdex.net/v2/en/cards/swsh3-82
+swsh3-93,Hippopotas,swsh3,Darkness Ablaze,2020-08-14,6.24,Common,Pokemon,93,normal:reverse-holofoil,0.23,2026-11-09T03:32:52.460965+00:00,https://api.tcgdex.net/v2/en/cards/swsh3-93
+sv01-005,Cacnea,sv01,Scarlet & Violet,2023-03-31,3.61,Common,Pokemon,005,top:reverse-holofoil,0.3,2026-11-09T03:32:52.460965+00:00,https://api.tcgdex.net/v2/en/cards/sv01-005
+sv01-051,Bruxish,sv01,Scarlet & Violet,2023-03-31,3.61,Common,Pokemon,051,top:normal,0.2,2026-11-09T03:32:52.460965+00:00,https://api.tcgdex.net/v2/en/cards/sv01-051

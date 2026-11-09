@@ -1,0 +1,8 @@
+{
+  "cleaned_at_utc": "2026-11-09T03:37:24.157821+00:00",
+  "n_rows_clean": 394,
+  "n_rows_sample": 25,
+  "reference_date_for_age": "2026-11-09",
+  "full_csv": "data/processed/cards_clean.csv",
+  "sample_csv": "data/sample/cards_clean_sample.csv"
+}

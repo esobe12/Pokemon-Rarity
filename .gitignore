@@ -17,3 +17,9 @@ venv/
 data/raw/
 data/private/
 *.csv.bak
+
+# Python packaging / env
+.eggs/
+*.egg-info/
+dist/
+build/
