@@ -4,7 +4,7 @@
 
 | Path | In git? | Description |
 |------|---------|-------------|
-| [`raw/`](raw/) | **No** | Full raw API JSON (per-card files, `cards_raw.json`, `manifest.json`). |
+| [`raw/`](raw/) | Yes | Full raw API JSON (per-card files, `cards_raw.json`, set payloads, `manifest.json`). |
 | [`processed/cards_clean.csv`](processed/cards_clean.csv) | Yes | Full tidy dataset after cleaning. |
 | [`sample/cards_clean_sample.csv`](sample/cards_clean_sample.csv) | Yes | Small sample for quick inspection. |
 | [`data_dictionary.md`](data_dictionary.md) | Yes | Field definitions for the cleaned table. |

@@ -8,7 +8,7 @@ Polite collection:
   - Pauses between requests
   - Checks HTTP status codes and stops clearly on repeated failures
 
-Raw responses are written under data/raw/ (not committed).
+Raw responses are written under data/raw/ (committed in this repository).
 """
 
 from __future__ import annotations
@@ -159,7 +159,7 @@ def main() -> None:
 
     print(
         f"Done. Wrote {len(card_payloads)} raw cards and manifest to {RAW_DIR}/ "
-        "(keep this directory local; see README Data section)."
+        "(see README Data section)."
     )
 
 
