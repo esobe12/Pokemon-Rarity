@@ -1,0 +1,123 @@
+{
+  "category": "Pokemon",
+  "id": "xy1-146",
+  "illustrator": "5ban Graphics",
+  "image": "https://assets.tcgdex.net/en/xy/xy1/146",
+  "localId": "146",
+  "name": "Xerneas EX",
+  "rarity": "Ultra Rare",
+  "set": {
+    "cardCount": {
+      "official": 146,
+      "total": 146
+    },
+    "id": "xy1",
+    "logo": "https://assets.tcgdex.net/en/xy/xy1/logo",
+    "name": "XY",
+    "symbol": "https://assets.tcgdex.net/univ/xy/xy1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "variantId": "generated"
+    }
+  ],
+  "dexId": [
+    716
+  ],
+  "hp": 170,
+  "types": [
+    "Fairy"
+  ],
+  "stage": "Basic",
+  "suffix": "EX",
+  "attacks": [
+    {
+      "cost": [
+        "Fairy",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Break Through",
+      "effect": "This attack does 30 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)",
+      "damage": 60
+    },
+    {
+      "cost": [
+        "Fairy",
+        "Fairy",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "X Blast",
+      "effect": "This Pok\u00e9mon can't use X Blast during your next turn.",
+      "damage": 140
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metal",
+      "value": "\u00d72"
+    }
+  ],
+  "resistances": [
+    {
+      "type": "Darkness",
+      "value": "-20"
+    }
+  ],
+  "retreat": 2,
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-03-17T23:24:59Z",
+  "thirdParty": {
+    "cardmarket": 281433,
+    "tcgplayer": 90672
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.808Z",
+      "unit": "EUR",
+      "idProduct": 281433,
+      "avg": 3.33,
+      "low": 0.08,
+      "trend": 2.81,
+      "avg1": 0.92,
+      "avg7": 3.55,
+      "avg30": 1.6,
+      "avg-holo": 2.33,
+      "low-holo": 0.1,
+      "trend-holo": 1.99,
+      "avg1-holo": 2.5,
+      "avg7-holo": 2.46,
+      "avg30-holo": 1.86
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:45.058Z",
+      "holofoil": {
+        "productId": 90672,
+        "lowPrice": 66,
+        "midPrice": 113.57,
+        "highPrice": 872.74,
+        "marketPrice": 119.54,
+        "directLowPrice": 79.99
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/xy1-146",
+  "_set_releaseDate": "2014-02-05",
+  "_set_name": "XY",
+  "_set_id": "xy1"
+}

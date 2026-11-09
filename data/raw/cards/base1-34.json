@@ -1,0 +1,218 @@
+{
+  "category": "Pokemon",
+  "id": "base1-34",
+  "illustrator": "Ken Sugimori",
+  "image": "https://assets.tcgdex.net/en/base/base1/34",
+  "localId": "34",
+  "name": "Machoke",
+  "rarity": "Uncommon",
+  "set": {
+    "cardCount": {
+      "official": 102,
+      "total": 102
+    },
+    "id": "base1",
+    "logo": "https://assets.tcgdex.net/en/base/base1/logo",
+    "name": "Base Set"
+  },
+  "variants": {
+    "firstEdition": true,
+    "holo": false,
+    "normal": true,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "subtype": "unlimited",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 273729,
+        "tcgplayer": 42376
+      },
+      "variantId": "3a83wf50tz7q114spsx7dw6v5",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.790Z",
+          "unit": "EUR",
+          "idProduct": 273729,
+          "avg": 2.02,
+          "low": 0.02,
+          "trend": 0.81,
+          "avg1": 3.29,
+          "avg7": 1.04,
+          "avg30": 1.63,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0.2,
+          "avg1-holo": 0.2,
+          "avg7-holo": 0.2,
+          "avg30-holo": 0.2
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:37.264Z",
+          "normal": {
+            "productId": 42376,
+            "lowPrice": 0.15,
+            "midPrice": 0.78,
+            "highPrice": 200,
+            "marketPrice": 1.31,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "shadowless",
+      "size": "standard",
+      "stamp": [
+        "1st-edition"
+      ],
+      "thirdParty": {
+        "tcgplayer": 107031,
+        "cardmarket": 660194
+      },
+      "variantId": "gx8bq2hefwadd3utcibq3oc56sjf4jqdz709e",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.790Z",
+          "unit": "EUR",
+          "idProduct": 660194,
+          "avg": 17.8,
+          "low": 0.99,
+          "trend": 27.25,
+          "avg1": 6.99,
+          "avg7": 29.96,
+          "avg30": 22.52,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "shadowless",
+      "size": "standard",
+      "thirdParty": {
+        "tcgplayer": 107031,
+        "cardmarket": 660194
+      },
+      "variantId": "2tszcx1bpt4e79y5us0p570b9n",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.790Z",
+          "unit": "EUR",
+          "idProduct": 660194,
+          "avg": 17.8,
+          "low": 0.99,
+          "trend": 27.25,
+          "avg1": 6.99,
+          "avg7": 29.96,
+          "avg30": 22.52,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "1999-2000-copyright",
+      "size": "standard",
+      "variantId": "qi4g3e7tzbkcyhfflvx7zmvunxwjcq3pvp"
+    }
+  ],
+  "dexId": [
+    67
+  ],
+  "hp": 80,
+  "types": [
+    "Fighting"
+  ],
+  "evolveFrom": "Machop",
+  "description": "Its muscular body is so powerful that it must wear a power-save belt to help regulate its motions.",
+  "stage": "Stage1",
+  "attacks": [
+    {
+      "cost": [
+        "Fighting",
+        "Fighting",
+        "Colorless"
+      ],
+      "name": "Karate Chop",
+      "effect": "Does 50 damage minus 10 for each damage counter on Machoke.",
+      "damage": "50-"
+    },
+    {
+      "cost": [
+        "Fighting",
+        "Fighting",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Submission",
+      "effect": "Machoke does 20 damage to itself.",
+      "damage": 60
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psychic",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 3,
+  "legal": {
+    "standard": false,
+    "expanded": false
+  },
+  "updated": "2026-08-20T08:25:49+01:00",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.790Z",
+      "unit": "EUR",
+      "idProduct": 273729,
+      "avg": 2.02,
+      "low": 0.02,
+      "trend": 0.81,
+      "avg1": 3.29,
+      "avg7": 1.04,
+      "avg30": 1.63,
+      "avg-holo": null,
+      "low-holo": null,
+      "trend-holo": 0.2,
+      "avg1-holo": 0.2,
+      "avg7-holo": 0.2,
+      "avg30-holo": 0.2
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:37.264Z",
+      "normal": {
+        "productId": 42376,
+        "lowPrice": 0.15,
+        "midPrice": 0.78,
+        "highPrice": 200,
+        "marketPrice": 1.31,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/base1-34",
+  "_set_releaseDate": "1999-01-09",
+  "_set_name": "Base Set",
+  "_set_id": "base1"
+}

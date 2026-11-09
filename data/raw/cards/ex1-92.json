@@ -1,0 +1,253 @@
+{
+  "category": "Trainer",
+  "id": "ex1-92",
+  "illustrator": "Hiromichi Sugiyama",
+  "image": "https://assets.tcgdex.net/en/ex/ex1/92",
+  "localId": "92",
+  "name": "Switch",
+  "rarity": "Common",
+  "set": {
+    "cardCount": {
+      "official": 109,
+      "total": 109
+    },
+    "id": "ex1",
+    "logo": "https://assets.tcgdex.net/en/ex/ex1/logo",
+    "name": "Ruby & Sapphire",
+    "symbol": "https://assets.tcgdex.net/univ/ex/ex1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": true,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 275740,
+        "tcgplayer": 89709
+      },
+      "variantId": "endfynwn4n10gzq",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.824Z",
+          "unit": "EUR",
+          "idProduct": 275740,
+          "avg": 0.11,
+          "low": 0.02,
+          "trend": 0.29,
+          "avg1": 0.2,
+          "avg7": 0.45,
+          "avg30": 0.23,
+          "avg-holo": null,
+          "low-holo": 0.49,
+          "trend-holo": 4.05,
+          "avg1-holo": 1,
+          "avg7-holo": 4.35,
+          "avg30-holo": 3.21
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:38.905Z",
+          "normal": {
+            "productId": 89709,
+            "lowPrice": 0.15,
+            "midPrice": 0.44,
+            "highPrice": 19.66,
+            "marketPrice": 0.37,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": {
+            "productId": 89709,
+            "lowPrice": 3.66,
+            "midPrice": 7.17,
+            "highPrice": 158.08,
+            "marketPrice": 7.97,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    {
+      "type": "reverse",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 275740,
+        "tcgplayer": 89709
+      },
+      "variantId": "cm4kqul3x1bwlz1f",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.824Z",
+          "unit": "EUR",
+          "idProduct": 275740,
+          "avg": 0.11,
+          "low": 0.02,
+          "trend": 0.29,
+          "avg1": 0.2,
+          "avg7": 0.45,
+          "avg30": 0.23,
+          "avg-holo": null,
+          "low-holo": 0.49,
+          "trend-holo": 4.05,
+          "avg1-holo": 1,
+          "avg7-holo": 4.35,
+          "avg30-holo": 3.21
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:38.905Z",
+          "normal": {
+            "productId": 89709,
+            "lowPrice": 0.15,
+            "midPrice": 0.44,
+            "highPrice": 19.66,
+            "marketPrice": 0.37,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": {
+            "productId": 89709,
+            "lowPrice": 3.66,
+            "midPrice": 7.17,
+            "highPrice": 158.08,
+            "marketPrice": 7.97,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "no-e-reader",
+      "size": "standard",
+      "thirdParty": {
+        "tcgplayer": 560537
+      },
+      "variantId": "2fnyg4g537p3q525725k9p4qa97",
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "normal",
+      "size": "standard",
+      "stamp": [
+        "reed-weichler"
+      ],
+      "thirdParty": {
+        "tcgplayer": 477442
+      },
+      "variantId": "1t06ikeqvv0boawin32pqrsc4t2ry",
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "normal",
+      "size": "standard",
+      "stamp": [
+        "chris-fulop"
+      ],
+      "thirdParty": {
+        "tcgplayer": 477440
+      },
+      "variantId": "2fnyg4g536ti0ce2vdsbp0wdf2y",
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "normal",
+      "size": "standard",
+      "stamp": [
+        "tsuguyoshi-yamato"
+      ],
+      "thirdParty": {
+        "tcgplayer": 477441
+      },
+      "variantId": "zqq5g2u9p8fny8v5045adylslmxf8388",
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "normal",
+      "size": "standard",
+      "stamp": [
+        "kevin-nguyen"
+      ],
+      "thirdParty": {
+        "tcgplayer": 477443
+      },
+      "variantId": "23hmnvtwdrep22w3ym6a4tb2ritu",
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": null
+      }
+    }
+  ],
+  "cameoDexIds": [
+    74,
+    255
+  ],
+  "retreat": 0,
+  "effect": "Switch 1 of your Active Pok\u00e9mon with 1 of your Benched Pok\u00e9mon.",
+  "trainerType": "Item",
+  "legal": {
+    "standard": false,
+    "expanded": false
+  },
+  "updated": "2026-09-29T10:19:00+01:00",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.824Z",
+      "unit": "EUR",
+      "idProduct": 275740,
+      "avg": 0.11,
+      "low": 0.02,
+      "trend": 0.29,
+      "avg1": 0.2,
+      "avg7": 0.45,
+      "avg30": 0.23,
+      "avg-holo": null,
+      "low-holo": 0.49,
+      "trend-holo": 4.05,
+      "avg1-holo": 1,
+      "avg7-holo": 4.35,
+      "avg30-holo": 3.21
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:38.905Z",
+      "normal": {
+        "productId": 89709,
+        "lowPrice": 0.15,
+        "midPrice": 0.44,
+        "highPrice": 19.66,
+        "marketPrice": 0.37,
+        "directLowPrice": null
+      },
+      "reverse-holofoil": {
+        "productId": 89709,
+        "lowPrice": 3.66,
+        "midPrice": 7.17,
+        "highPrice": 158.08,
+        "marketPrice": 7.97,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/ex1-92",
+  "_set_releaseDate": "2003-07-01",
+  "_set_name": "Ruby & Sapphire",
+  "_set_id": "ex1"
+}

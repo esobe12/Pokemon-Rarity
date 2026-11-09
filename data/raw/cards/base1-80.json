@@ -1,0 +1,179 @@
+{
+  "category": "Trainer",
+  "id": "base1-80",
+  "illustrator": "Keiji Kinebuchi",
+  "image": "https://assets.tcgdex.net/en/base/base1/80",
+  "localId": "80",
+  "name": "Defender",
+  "rarity": "Uncommon",
+  "set": {
+    "cardCount": {
+      "official": 102,
+      "total": 102
+    },
+    "id": "base1",
+    "logo": "https://assets.tcgdex.net/en/base/base1/logo",
+    "name": "Base Set"
+  },
+  "variants": {
+    "firstEdition": true,
+    "holo": false,
+    "normal": true,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "subtype": "unlimited",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 273775,
+        "tcgplayer": 42426
+      },
+      "variantId": "3a83wf50tz7q114spsx7dw6v5",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.790Z",
+          "unit": "EUR",
+          "idProduct": 273775,
+          "avg": 1.71,
+          "low": 0.02,
+          "trend": 1.58,
+          "avg1": 0.9,
+          "avg7": 1.38,
+          "avg30": 1.58,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:37.264Z",
+          "normal": {
+            "productId": 42426,
+            "lowPrice": 0.3,
+            "midPrice": 1,
+            "highPrice": 17.94,
+            "marketPrice": 1.31,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "shadowless",
+      "size": "standard",
+      "stamp": [
+        "1st-edition"
+      ],
+      "thirdParty": {
+        "tcgplayer": 107077,
+        "cardmarket": 660135
+      },
+      "variantId": "gx8bq2hefwadd3utcibq3oc56sjf4jqdz709e",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.790Z",
+          "unit": "EUR",
+          "idProduct": 660135,
+          "avg": 173.32,
+          "low": 4,
+          "trend": 96.5,
+          "avg1": 14.98,
+          "avg7": 106.98,
+          "avg30": 25.44,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "shadowless",
+      "size": "standard",
+      "thirdParty": {
+        "tcgplayer": 107077,
+        "cardmarket": 660135
+      },
+      "variantId": "2tszcx1bpt4e79y5us0p570b9n",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.790Z",
+          "unit": "EUR",
+          "idProduct": 660135,
+          "avg": 173.32,
+          "low": 4,
+          "trend": 96.5,
+          "avg1": 14.98,
+          "avg7": 106.98,
+          "avg30": 25.44,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "1999-2000-copyright",
+      "size": "standard",
+      "variantId": "qi4g3e7tzbkcyhfflvx7zmvunxwjcq3pvp"
+    }
+  ],
+  "effect": "Attach Defender to 1 of your Pok\u00e9mon. At the end of your opponent's next turn, discard Defender. Damage done to that Pok\u00e9mon by attacks is reduced by 20 (after applying Weakness and Resistance).",
+  "legal": {
+    "standard": false,
+    "expanded": false
+  },
+  "updated": "2026-08-20T08:25:49+01:00",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.790Z",
+      "unit": "EUR",
+      "idProduct": 273775,
+      "avg": 1.71,
+      "low": 0.02,
+      "trend": 1.58,
+      "avg1": 0.9,
+      "avg7": 1.38,
+      "avg30": 1.58,
+      "avg-holo": null,
+      "low-holo": null,
+      "trend-holo": 0,
+      "avg1-holo": null,
+      "avg7-holo": null,
+      "avg30-holo": null
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:37.264Z",
+      "normal": {
+        "productId": 42426,
+        "lowPrice": 0.3,
+        "midPrice": 1,
+        "highPrice": 17.94,
+        "marketPrice": 1.31,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/base1-80",
+  "_set_releaseDate": "1999-01-09",
+  "_set_name": "Base Set",
+  "_set_id": "base1"
+}

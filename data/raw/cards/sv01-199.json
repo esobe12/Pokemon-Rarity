@@ -1,0 +1,109 @@
+{
+  "category": "Pokemon",
+  "id": "sv01-199",
+  "illustrator": "Miki Tanaka",
+  "image": "https://assets.tcgdex.net/en/sv/sv01/199",
+  "localId": "199",
+  "name": "Tarountula",
+  "rarity": "Illustration rare",
+  "set": {
+    "cardCount": {
+      "official": 198,
+      "total": 258
+    },
+    "id": "sv01",
+    "logo": "https://assets.tcgdex.net/en/sv/sv01/logo",
+    "name": "Scarlet & Violet",
+    "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": true,
+    "normal": false,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "holo",
+      "size": "standard",
+      "variantId": "jr7oetx1mqug9"
+    }
+  ],
+  "dexId": [
+    917
+  ],
+  "cameoDexIds": [
+    123
+  ],
+  "hp": 40,
+  "types": [
+    "Grass"
+  ],
+  "description": "The thread it secretes from its rear is as strong as wire. The secret behind the thread's strength is the topic of ongoing research.",
+  "stage": "Basic",
+  "attacks": [
+    {
+      "cost": [
+        "Grass",
+        "Colorless"
+      ],
+      "name": "String Shot",
+      "effect": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed.",
+      "damage": 20
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 1,
+  "regulationMark": "G",
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-09-06T11:00:03+01:00",
+  "thirdParty": {
+    "cardmarket": 702495,
+    "tcgplayer": 490293
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.808Z",
+      "unit": "EUR",
+      "idProduct": 702495,
+      "avg": 6.73,
+      "low": 1.49,
+      "trend": 5.58,
+      "avg1": 5,
+      "avg7": 6.09,
+      "avg30": 6.65,
+      "avg-holo": null,
+      "low-holo": null,
+      "trend-holo": 0,
+      "avg1-holo": null,
+      "avg7-holo": null,
+      "avg30-holo": null
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:50.355Z",
+      "holofoil": {
+        "productId": 490293,
+        "lowPrice": 7.15,
+        "midPrice": 12,
+        "highPrice": 500,
+        "marketPrice": 10.95,
+        "directLowPrice": 12.54
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/sv01-199",
+  "_set_releaseDate": "2023-03-31",
+  "_set_name": "Scarlet & Violet",
+  "_set_id": "sv01"
+}

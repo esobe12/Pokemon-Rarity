@@ -1,0 +1,180 @@
+{
+  "category": "Energy",
+  "id": "base1-96",
+  "illustrator": "Keiji Kinebuchi",
+  "image": "https://assets.tcgdex.net/en/base/base1/96",
+  "localId": "96",
+  "name": "Double Colorless Energy",
+  "rarity": "Uncommon",
+  "set": {
+    "cardCount": {
+      "official": 102,
+      "total": 102
+    },
+    "id": "base1",
+    "logo": "https://assets.tcgdex.net/en/base/base1/logo",
+    "name": "Base Set"
+  },
+  "variants": {
+    "firstEdition": true,
+    "holo": false,
+    "normal": true,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "subtype": "unlimited",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 273791,
+        "tcgplayer": 42440
+      },
+      "variantId": "3a83wf50tz7q114spsx7dw6v5",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.824Z",
+          "unit": "EUR",
+          "idProduct": 273791,
+          "avg": 4.5,
+          "low": 0.09,
+          "trend": 4.79,
+          "avg1": 6.07,
+          "avg7": 4.94,
+          "avg30": 4.82,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 2.72,
+          "avg1-holo": 2,
+          "avg7-holo": 2.06,
+          "avg30-holo": 1.56
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:37.264Z",
+          "normal": {
+            "productId": 42440,
+            "lowPrice": 2.25,
+            "midPrice": 4.29,
+            "highPrice": 96.78,
+            "marketPrice": 6.91,
+            "directLowPrice": 9.98
+          }
+        }
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "shadowless",
+      "size": "standard",
+      "stamp": [
+        "1st-edition"
+      ],
+      "thirdParty": {
+        "tcgplayer": 107099,
+        "cardmarket": 660106
+      },
+      "variantId": "gx8bq2hefwadd3utcibq3oc56sjf4jqdz709e",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.824Z",
+          "unit": "EUR",
+          "idProduct": 660106,
+          "avg": 14.63,
+          "low": 8.99,
+          "trend": 27.84,
+          "avg1": 12.31,
+          "avg7": 32.81,
+          "avg30": 21.89,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "shadowless",
+      "size": "standard",
+      "thirdParty": {
+        "tcgplayer": 107099,
+        "cardmarket": 660106
+      },
+      "variantId": "2tszcx1bpt4e79y5us0p570b9n",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.824Z",
+          "unit": "EUR",
+          "idProduct": 660106,
+          "avg": 14.63,
+          "low": 8.99,
+          "trend": 27.84,
+          "avg1": 12.31,
+          "avg7": 32.81,
+          "avg30": 21.89,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "1999-2000-copyright",
+      "size": "standard",
+      "variantId": "qi4g3e7tzbkcyhfflvx7zmvunxwjcq3pvp"
+    }
+  ],
+  "effect": "Provides {C}{C} energy.\nDoesn't count as a basic Energy card.",
+  "energyType": "Special",
+  "legal": {
+    "standard": false,
+    "expanded": false
+  },
+  "updated": "2026-09-04T23:45:25+01:00",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.824Z",
+      "unit": "EUR",
+      "idProduct": 273791,
+      "avg": 4.5,
+      "low": 0.09,
+      "trend": 4.79,
+      "avg1": 6.07,
+      "avg7": 4.94,
+      "avg30": 4.82,
+      "avg-holo": null,
+      "low-holo": null,
+      "trend-holo": 2.72,
+      "avg1-holo": 2,
+      "avg7-holo": 2.06,
+      "avg30-holo": 1.56
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:37.264Z",
+      "normal": {
+        "productId": 42440,
+        "lowPrice": 2.25,
+        "midPrice": 4.29,
+        "highPrice": 96.78,
+        "marketPrice": 6.91,
+        "directLowPrice": 9.98
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/base1-96",
+  "_set_releaseDate": "1999-01-09",
+  "_set_name": "Base Set",
+  "_set_id": "base1"
+}

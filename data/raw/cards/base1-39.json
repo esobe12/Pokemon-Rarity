@@ -1,0 +1,217 @@
+{
+  "category": "Pokemon",
+  "id": "base1-39",
+  "illustrator": "Tomoaki Imakuni",
+  "image": "https://assets.tcgdex.net/en/base/base1/39",
+  "localId": "39",
+  "name": "Porygon",
+  "rarity": "Uncommon",
+  "set": {
+    "cardCount": {
+      "official": 102,
+      "total": 102
+    },
+    "id": "base1",
+    "logo": "https://assets.tcgdex.net/en/base/base1/logo",
+    "name": "Base Set"
+  },
+  "variants": {
+    "firstEdition": true,
+    "holo": false,
+    "normal": true,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "subtype": "unlimited",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 273734,
+        "tcgplayer": 42381
+      },
+      "variantId": "3a83wf50tz7q114spsx7dw6v5",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.808Z",
+          "unit": "EUR",
+          "idProduct": 273734,
+          "avg": 3.96,
+          "low": 0.02,
+          "trend": 3.95,
+          "avg1": 1.37,
+          "avg7": 3.44,
+          "avg30": 3.62,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 3.5,
+          "avg1-holo": 3.5,
+          "avg7-holo": 2.25,
+          "avg30-holo": 2.25
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:37.264Z",
+          "normal": {
+            "productId": 42381,
+            "lowPrice": 0.75,
+            "midPrice": 2.6,
+            "highPrice": 96.95,
+            "marketPrice": 3.57,
+            "directLowPrice": 2.23
+          }
+        }
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "shadowless",
+      "size": "standard",
+      "stamp": [
+        "1st-edition"
+      ],
+      "thirdParty": {
+        "tcgplayer": 107036,
+        "cardmarket": 660189
+      },
+      "variantId": "gx8bq2hefwadd3utcibq3oc56sjf4jqdz709e",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.808Z",
+          "unit": "EUR",
+          "idProduct": 660189,
+          "avg": 23.51,
+          "low": 6.5,
+          "trend": 21.09,
+          "avg1": 4,
+          "avg7": 20.07,
+          "avg30": 15.66,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "shadowless",
+      "size": "standard",
+      "thirdParty": {
+        "tcgplayer": 107036,
+        "cardmarket": 660189
+      },
+      "variantId": "2tszcx1bpt4e79y5us0p570b9n",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.808Z",
+          "unit": "EUR",
+          "idProduct": 660189,
+          "avg": 23.51,
+          "low": 6.5,
+          "trend": 21.09,
+          "avg1": 4,
+          "avg7": 20.07,
+          "avg30": 15.66,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "1999-2000-copyright",
+      "size": "standard",
+      "variantId": "qi4g3e7tzbkcyhfflvx7zmvunxwjcq3pvp"
+    }
+  ],
+  "dexId": [
+    137
+  ],
+  "hp": 30,
+  "types": [
+    "Colorless"
+  ],
+  "description": "A Pok\u00e9mon that consists entirely of programming code. Capable of moving freely in cyberspace.",
+  "stage": "Basic",
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Conversion 1",
+      "effect": "If the Defending Pok\u00e9mon has a Weakness, you may change it to a type of your choice other than Colorless."
+    },
+    {
+      "cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Conversion 2",
+      "effect": "Change Porygon's Resistance to a type of your choice other than Colorless."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "\u00d72"
+    }
+  ],
+  "resistances": [
+    {
+      "type": "Psychic",
+      "value": "-30"
+    }
+  ],
+  "retreat": 1,
+  "legal": {
+    "standard": false,
+    "expanded": false
+  },
+  "updated": "2026-08-20T08:25:49+01:00",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.808Z",
+      "unit": "EUR",
+      "idProduct": 273734,
+      "avg": 3.96,
+      "low": 0.02,
+      "trend": 3.95,
+      "avg1": 1.37,
+      "avg7": 3.44,
+      "avg30": 3.62,
+      "avg-holo": null,
+      "low-holo": null,
+      "trend-holo": 3.5,
+      "avg1-holo": 3.5,
+      "avg7-holo": 2.25,
+      "avg30-holo": 2.25
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:37.264Z",
+      "normal": {
+        "productId": 42381,
+        "lowPrice": 0.75,
+        "midPrice": 2.6,
+        "highPrice": 96.95,
+        "marketPrice": 3.57,
+        "directLowPrice": 2.23
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/base1-39",
+  "_set_releaseDate": "1999-01-09",
+  "_set_name": "Base Set",
+  "_set_id": "base1"
+}

@@ -1,0 +1,111 @@
+{
+  "category": "Pokemon",
+  "id": "xy1-49",
+  "illustrator": "Atsuko Nishida",
+  "image": "https://assets.tcgdex.net/en/xy/xy1/49",
+  "localId": "49",
+  "name": "Spoink",
+  "rarity": "Common",
+  "set": {
+    "cardCount": {
+      "official": 146,
+      "total": 146
+    },
+    "id": "xy1",
+    "logo": "https://assets.tcgdex.net/en/xy/xy1/logo",
+    "name": "XY",
+    "symbol": "https://assets.tcgdex.net/univ/xy/xy1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "variantId": "generated"
+    }
+  ],
+  "dexId": [
+    325
+  ],
+  "hp": 60,
+  "types": [
+    "Psychic"
+  ],
+  "description": "It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.",
+  "stage": "Basic",
+  "attacks": [
+    {
+      "cost": [
+        "Psychic"
+      ],
+      "name": "Splash",
+      "damage": 10
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psychic",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 1,
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-08-15T22:53:34+01:00",
+  "thirdParty": {
+    "cardmarket": 281386,
+    "tcgplayer": 89480
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.824Z",
+      "unit": "EUR",
+      "idProduct": 281386,
+      "avg": 0.12,
+      "low": 0.02,
+      "trend": 0.12,
+      "avg1": 0.02,
+      "avg7": 0.12,
+      "avg30": 0.13,
+      "avg-holo": 0.45,
+      "low-holo": 0.2,
+      "trend-holo": 0.6,
+      "avg1-holo": 0.4,
+      "avg7-holo": 0.5,
+      "avg30-holo": 0.66
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:45.058Z",
+      "normal": {
+        "productId": 89480,
+        "lowPrice": 0.04,
+        "midPrice": 0.25,
+        "highPrice": 19.66,
+        "marketPrice": 0.25,
+        "directLowPrice": null
+      },
+      "reverse-holofoil": {
+        "productId": 89480,
+        "lowPrice": 0.27,
+        "midPrice": 0.71,
+        "highPrice": 23.49,
+        "marketPrice": 0.76,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/xy1-49",
+  "_set_releaseDate": "2014-02-05",
+  "_set_name": "XY",
+  "_set_id": "xy1"
+}

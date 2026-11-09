@@ -1,0 +1,94 @@
+{
+  "category": "Trainer",
+  "id": "swsh1-162",
+  "illustrator": "Toyste Beach",
+  "image": "https://assets.tcgdex.net/en/swsh/swsh1/162",
+  "localId": "162",
+  "name": "Energy Switch",
+  "rarity": "Uncommon",
+  "set": {
+    "cardCount": {
+      "official": 202,
+      "total": 216
+    },
+    "id": "swsh1",
+    "logo": "https://assets.tcgdex.net/en/swsh/swsh1/logo",
+    "name": "Sword & Shield",
+    "symbol": "https://assets.tcgdex.net/univ/swsh/swsh1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": true,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "variantId": "generated"
+    },
+    {
+      "type": "reverse",
+      "size": "standard",
+      "variantId": "generated"
+    }
+  ],
+  "effect": "Move a basic Energy from 1 of your Pok\u00e9mon to another of your Pok\u00e9mon.",
+  "trainerType": "Item",
+  "regulationMark": "D",
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-08-16T22:12:40+01:00",
+  "thirdParty": {
+    "cardmarket": 436904,
+    "tcgplayer": 208488
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.802Z",
+      "unit": "EUR",
+      "idProduct": 436904,
+      "avg": 0.16,
+      "low": 0.02,
+      "trend": 0.17,
+      "avg1": 0.3,
+      "avg7": 0.18,
+      "avg30": 0.15,
+      "avg-holo": 0.95,
+      "low-holo": 0.05,
+      "trend-holo": 0.75,
+      "avg1-holo": 1,
+      "avg7-holo": 0.95,
+      "avg30-holo": 0.86
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:48.878Z",
+      "normal": {
+        "productId": 208488,
+        "lowPrice": 0.01,
+        "midPrice": 0.21,
+        "highPrice": 19.66,
+        "marketPrice": 0.19,
+        "directLowPrice": null
+      },
+      "reverse-holofoil": {
+        "productId": 208488,
+        "lowPrice": 0.2,
+        "midPrice": 0.44,
+        "highPrice": 14.16,
+        "marketPrice": 0.44,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/swsh1-162",
+  "_set_releaseDate": "2020-02-07",
+  "_set_name": "Sword & Shield",
+  "_set_id": "swsh1"
+}

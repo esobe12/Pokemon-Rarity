@@ -1,0 +1,121 @@
+{
+  "category": "Pokemon",
+  "id": "swsh1-106",
+  "illustrator": "Masakazu Fukuda",
+  "image": "https://assets.tcgdex.net/en/swsh/swsh1/106",
+  "localId": "106",
+  "name": "Mudsdale",
+  "rarity": "Rare",
+  "set": {
+    "cardCount": {
+      "official": 202,
+      "total": 216
+    },
+    "id": "swsh1",
+    "logo": "https://assets.tcgdex.net/en/swsh/swsh1/logo",
+    "name": "Sword & Shield",
+    "symbol": "https://assets.tcgdex.net/univ/swsh/swsh1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": true,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "variantId": "generated"
+    },
+    {
+      "type": "reverse",
+      "size": "standard",
+      "variantId": "generated"
+    }
+  ],
+  "dexId": [
+    750
+  ],
+  "hp": 150,
+  "types": [
+    "Fighting"
+  ],
+  "evolveFrom": "Mudbray",
+  "description": "Mud that hardens around a Mudsdale's legs sets harder than stone. It's so hard that it allows this Pok\u00e9mon to scrap a truck with a single kick.",
+  "stage": "Stage1",
+  "attacks": [
+    {
+      "cost": [
+        "Fighting",
+        "Fighting",
+        "Fighting"
+      ],
+      "name": "Double Impact",
+      "effect": "Flip 2 coins. This attack does 120 damage for each heads.",
+      "damage": "120\u00d7"
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 3,
+  "regulationMark": "D",
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-08-16T22:12:40+01:00",
+  "thirdParty": {
+    "cardmarket": 436649,
+    "tcgplayer": 208415
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.790Z",
+      "unit": "EUR",
+      "idProduct": 436649,
+      "avg": 0.25,
+      "low": 0.02,
+      "trend": 0.19,
+      "avg1": 0.15,
+      "avg7": 0.21,
+      "avg30": 0.23,
+      "avg-holo": 0.77,
+      "low-holo": 0.05,
+      "trend-holo": 1.02,
+      "avg1-holo": 0.95,
+      "avg7-holo": 1.11,
+      "avg30-holo": 0.95
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:48.878Z",
+      "reverse-holofoil": {
+        "productId": 208415,
+        "lowPrice": 0.22,
+        "midPrice": 0.49,
+        "highPrice": 9.2,
+        "marketPrice": 0.56,
+        "directLowPrice": 0.32
+      },
+      "normal": {
+        "productId": 208415,
+        "lowPrice": 0.04,
+        "midPrice": 0.28,
+        "highPrice": 5.1,
+        "marketPrice": 0.28,
+        "directLowPrice": 0.1
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/swsh1-106",
+  "_set_releaseDate": "2020-02-07",
+  "_set_name": "Sword & Shield",
+  "_set_id": "swsh1"
+}

@@ -1,0 +1,114 @@
+{
+  "category": "Pokemon",
+  "id": "xy1-40",
+  "illustrator": "5ban Graphics",
+  "image": "https://assets.tcgdex.net/en/xy/xy1/40",
+  "localId": "40",
+  "name": "Frogadier",
+  "rarity": "Uncommon",
+  "set": {
+    "cardCount": {
+      "official": 146,
+      "total": 146
+    },
+    "id": "xy1",
+    "logo": "https://assets.tcgdex.net/en/xy/xy1/logo",
+    "name": "XY",
+    "symbol": "https://assets.tcgdex.net/univ/xy/xy1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "variantId": "generated"
+    }
+  ],
+  "dexId": [
+    657
+  ],
+  "hp": 80,
+  "types": [
+    "Water"
+  ],
+  "evolveFrom": "Froakie",
+  "description": "It can throw bubble-covered pebbles with precise control, hitting empty cans up to a hundred feet away.",
+  "stage": "Stage1",
+  "attacks": [
+    {
+      "cost": [
+        "Water",
+        "Colorless"
+      ],
+      "name": "Lick",
+      "effect": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed.",
+      "damage": 30
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 1,
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-08-15T22:53:34+01:00",
+  "thirdParty": {
+    "cardmarket": 281377,
+    "tcgplayer": 85570
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.790Z",
+      "unit": "EUR",
+      "idProduct": 281377,
+      "avg": 0.26,
+      "low": 0.02,
+      "trend": 0.25,
+      "avg1": 0.04,
+      "avg7": 0.28,
+      "avg30": 0.28,
+      "avg-holo": 1.53,
+      "low-holo": 0.1,
+      "trend-holo": 2.03,
+      "avg1-holo": 0.7,
+      "avg7-holo": 1.81,
+      "avg30-holo": 1.52
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:45.058Z",
+      "normal": {
+        "productId": 85570,
+        "lowPrice": 0.15,
+        "midPrice": 0.39,
+        "highPrice": 24.99,
+        "marketPrice": 0.4,
+        "directLowPrice": null
+      },
+      "reverse-holofoil": {
+        "productId": 85570,
+        "lowPrice": 0.35,
+        "midPrice": 1.5,
+        "highPrice": 39.99,
+        "marketPrice": 1.81,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/xy1-40",
+  "_set_releaseDate": "2014-02-05",
+  "_set_name": "XY",
+  "_set_id": "xy1"
+}

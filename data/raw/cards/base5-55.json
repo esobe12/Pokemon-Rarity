@@ -1,0 +1,216 @@
+{
+  "category": "Pokemon",
+  "id": "base5-55",
+  "illustrator": "Atsuko Nishida",
+  "image": "https://assets.tcgdex.net/en/base/base5/55",
+  "localId": "55",
+  "name": "Eevee",
+  "rarity": "Common",
+  "set": {
+    "cardCount": {
+      "official": 82,
+      "total": 83
+    },
+    "id": "base5",
+    "logo": "https://assets.tcgdex.net/en/base/base5/logo",
+    "name": "Team Rocket",
+    "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol"
+  },
+  "variants": {
+    "firstEdition": true,
+    "holo": false,
+    "normal": true,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 274108,
+        "tcgplayer": 85078
+      },
+      "variantId": "endfynwn4n10gzq",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.808Z",
+          "unit": "EUR",
+          "idProduct": 274108,
+          "avg": 3.3,
+          "low": 0.05,
+          "trend": 3.39,
+          "avg1": 8.1,
+          "avg7": 3.58,
+          "avg30": 2.88,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 4.04,
+          "avg1-holo": 3,
+          "avg7-holo": 1.62,
+          "avg30-holo": 1.62
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:37.633Z",
+          "1st-edition": {
+            "productId": 85078,
+            "lowPrice": 5.03,
+            "midPrice": 8.66,
+            "highPrice": 174.43,
+            "marketPrice": 8.97,
+            "directLowPrice": 174.43
+          },
+          "unlimited": {
+            "productId": 85078,
+            "lowPrice": 0.5,
+            "midPrice": 2,
+            "highPrice": 96.95,
+            "marketPrice": 4.84,
+            "directLowPrice": 19.99
+          }
+        }
+      }
+    },
+    {
+      "type": "normal",
+      "size": "standard",
+      "stamp": [
+        "1st-edition"
+      ],
+      "thirdParty": {
+        "cardmarket": 274108,
+        "tcgplayer": 85078
+      },
+      "variantId": "2fnyg4g532wu2uft0spaa3eefrz",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.808Z",
+          "unit": "EUR",
+          "idProduct": 274108,
+          "avg": 3.3,
+          "low": 0.05,
+          "trend": 3.39,
+          "avg1": 8.1,
+          "avg7": 3.58,
+          "avg30": 2.88,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 4.04,
+          "avg1-holo": 3,
+          "avg7-holo": 1.62,
+          "avg30-holo": 1.62
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:37.633Z",
+          "1st-edition": {
+            "productId": 85078,
+            "lowPrice": 5.03,
+            "midPrice": 8.66,
+            "highPrice": 174.43,
+            "marketPrice": 8.97,
+            "directLowPrice": 174.43
+          },
+          "unlimited": {
+            "productId": 85078,
+            "lowPrice": 0.5,
+            "midPrice": 2,
+            "highPrice": 96.95,
+            "marketPrice": 4.84,
+            "directLowPrice": 19.99
+          }
+        }
+      }
+    }
+  ],
+  "dexId": [
+    133
+  ],
+  "hp": 40,
+  "types": [
+    "Colorless"
+  ],
+  "description": "A rare and unique Pok\u00e9mon about which little is known, as few have been captured.",
+  "stage": "Basic",
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Tackle",
+      "damage": 10
+    },
+    {
+      "cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Sand-attack",
+      "effect": "If the Defending Pok\u00e9mon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+      "damage": 10
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "\u00d72"
+    }
+  ],
+  "resistances": [
+    {
+      "type": "Psychic",
+      "value": "-30"
+    }
+  ],
+  "retreat": 1,
+  "legal": {
+    "standard": false,
+    "expanded": false
+  },
+  "updated": "2026-11-01T11:32:06Z",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.808Z",
+      "unit": "EUR",
+      "idProduct": 274108,
+      "avg": 3.3,
+      "low": 0.05,
+      "trend": 3.39,
+      "avg1": 8.1,
+      "avg7": 3.58,
+      "avg30": 2.88,
+      "avg-holo": null,
+      "low-holo": null,
+      "trend-holo": 4.04,
+      "avg1-holo": 3,
+      "avg7-holo": 1.62,
+      "avg30-holo": 1.62
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:37.633Z",
+      "1st-edition": {
+        "productId": 85078,
+        "lowPrice": 5.03,
+        "midPrice": 8.66,
+        "highPrice": 174.43,
+        "marketPrice": 8.97,
+        "directLowPrice": 174.43
+      },
+      "unlimited": {
+        "productId": 85078,
+        "lowPrice": 0.5,
+        "midPrice": 2,
+        "highPrice": 96.95,
+        "marketPrice": 4.84,
+        "directLowPrice": 19.99
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/base5-55",
+  "_set_releaseDate": "2000-04-24",
+  "_set_name": "Team Rocket",
+  "_set_id": "base5"
+}

@@ -1,0 +1,118 @@
+{
+  "category": "Pokemon",
+  "id": "xy1-104",
+  "illustrator": "kawayoo",
+  "image": "https://assets.tcgdex.net/en/xy/xy1/104",
+  "localId": "104",
+  "name": "Skitty",
+  "rarity": "Common",
+  "set": {
+    "cardCount": {
+      "official": 146,
+      "total": 146
+    },
+    "id": "xy1",
+    "logo": "https://assets.tcgdex.net/en/xy/xy1/logo",
+    "name": "XY",
+    "symbol": "https://assets.tcgdex.net/univ/xy/xy1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "variantId": "generated"
+    }
+  ],
+  "dexId": [
+    300
+  ],
+  "hp": 50,
+  "types": [
+    "Colorless"
+  ],
+  "description": "It can't stop itself from chasing moving things, and it runs in a circle, chasing its own tail.",
+  "stage": "Basic",
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Heal Bell",
+      "effect": "Heal 10 damage from each of your Pok\u00e9mon."
+    },
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Tail Whap",
+      "damage": 10
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 1,
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-08-15T22:53:34+01:00",
+  "thirdParty": {
+    "cardmarket": 281441,
+    "tcgplayer": 89271
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.824Z",
+      "unit": "EUR",
+      "idProduct": 281441,
+      "avg": 0.2,
+      "low": 0.02,
+      "trend": 0.21,
+      "avg1": 0.19,
+      "avg7": 0.21,
+      "avg30": 0.19,
+      "avg-holo": 0.84,
+      "low-holo": 0.15,
+      "trend-holo": 0.83,
+      "avg1-holo": 0.45,
+      "avg7-holo": 0.73,
+      "avg30-holo": 0.81
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:45.058Z",
+      "normal": {
+        "productId": 89271,
+        "lowPrice": 0.2,
+        "midPrice": 0.43,
+        "highPrice": 19.66,
+        "marketPrice": 0.42,
+        "directLowPrice": null
+      },
+      "reverse-holofoil": {
+        "productId": 89271,
+        "lowPrice": 2.06,
+        "midPrice": 2.32,
+        "highPrice": 27.98,
+        "marketPrice": 2.31,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/xy1-104",
+  "_set_releaseDate": "2014-02-05",
+  "_set_name": "XY",
+  "_set_id": "xy1"
+}

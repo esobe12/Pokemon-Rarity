@@ -1,0 +1,129 @@
+{
+  "category": "Pokemon",
+  "id": "sm1-84",
+  "illustrator": "kawayoo",
+  "image": "https://assets.tcgdex.net/en/sm/sm1/84",
+  "localId": "84",
+  "name": "Krokorok",
+  "rarity": "Uncommon",
+  "set": {
+    "cardCount": {
+      "official": 149,
+      "total": 172
+    },
+    "id": "sm1",
+    "logo": "https://assets.tcgdex.net/en/sm/sm1/logo",
+    "name": "Sun & Moon",
+    "symbol": "https://assets.tcgdex.net/univ/sm/sm1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "variantId": "generated"
+    }
+  ],
+  "dexId": [
+    552
+  ],
+  "hp": 90,
+  "types": [
+    "Darkness"
+  ],
+  "evolveFrom": "Sandile",
+  "description": "They move in groups of a few individuals. A female is often the leader of the group, and the males will gather food.",
+  "stage": "Stage1",
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Knock Off",
+      "effect": "Discard a random card from your opponent\u2019s hand.",
+      "damage": 20
+    },
+    {
+      "cost": [
+        "Darkness",
+        "Darkness",
+        "Colorless"
+      ],
+      "name": "Darkness Fang",
+      "damage": 60
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "\u00d72"
+    }
+  ],
+  "resistances": [
+    {
+      "type": "Psychic",
+      "value": "-20"
+    }
+  ],
+  "retreat": 2,
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-08-16T21:23:08+01:00",
+  "thirdParty": {
+    "cardmarket": 295395,
+    "tcgplayer": 126956
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.802Z",
+      "unit": "EUR",
+      "idProduct": 295395,
+      "avg": 0.06,
+      "low": 0.02,
+      "trend": 0.05,
+      "avg1": 0.03,
+      "avg7": 0.03,
+      "avg30": 0.05,
+      "avg-holo": 0.26,
+      "low-holo": 0.1,
+      "trend-holo": 0.33,
+      "avg1-holo": 0.5,
+      "avg7-holo": 0.3,
+      "avg30-holo": 0.3
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:47.014Z",
+      "normal": {
+        "productId": 126956,
+        "lowPrice": 0.01,
+        "midPrice": 0.2,
+        "highPrice": 19.66,
+        "marketPrice": 0.15,
+        "directLowPrice": null
+      },
+      "reverse-holofoil": {
+        "productId": 126956,
+        "lowPrice": 0.1,
+        "midPrice": 0.3,
+        "highPrice": 19.66,
+        "marketPrice": 0.27,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/sm1-84",
+  "_set_releaseDate": "2017-02-03",
+  "_set_name": "Sun & Moon",
+  "_set_id": "sm1"
+}

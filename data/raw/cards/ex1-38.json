@@ -1,0 +1,207 @@
+{
+  "category": "Pokemon",
+  "id": "ex1-38",
+  "illustrator": "Ken Sugimori",
+  "image": "https://assets.tcgdex.net/en/ex/ex1/38",
+  "localId": "38",
+  "name": "Linoone",
+  "rarity": "Uncommon",
+  "set": {
+    "cardCount": {
+      "official": 109,
+      "total": 109
+    },
+    "id": "ex1",
+    "logo": "https://assets.tcgdex.net/en/ex/ex1/logo",
+    "name": "Ruby & Sapphire",
+    "symbol": "https://assets.tcgdex.net/univ/ex/ex1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": true,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 275686,
+        "tcgplayer": 86803
+      },
+      "variantId": "endfynwn4n10gzq",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.816Z",
+          "unit": "EUR",
+          "idProduct": 275686,
+          "avg": 1,
+          "low": 0.15,
+          "trend": 0.98,
+          "avg1": 1.7,
+          "avg7": 0.9,
+          "avg30": 1.06,
+          "avg-holo": 4.99,
+          "low-holo": 1,
+          "trend-holo": 4.34,
+          "avg1-holo": 4.99,
+          "avg7-holo": 3.93,
+          "avg30-holo": 3.23
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:38.905Z",
+          "normal": {
+            "productId": 86803,
+            "lowPrice": 1.25,
+            "midPrice": 2.14,
+            "highPrice": 31.48,
+            "marketPrice": 2.15,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": {
+            "productId": 86803,
+            "lowPrice": 6.38,
+            "midPrice": 11.95,
+            "highPrice": 62.38,
+            "marketPrice": 9.6,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    {
+      "type": "reverse",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 275686,
+        "tcgplayer": 86803
+      },
+      "variantId": "cm4kqul3x1bwlz1f",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.816Z",
+          "unit": "EUR",
+          "idProduct": 275686,
+          "avg": 1,
+          "low": 0.15,
+          "trend": 0.98,
+          "avg1": 1.7,
+          "avg7": 0.9,
+          "avg30": 1.06,
+          "avg-holo": 4.99,
+          "low-holo": 1,
+          "trend-holo": 4.34,
+          "avg1-holo": 4.99,
+          "avg7-holo": 3.93,
+          "avg30-holo": 3.23
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:38.905Z",
+          "normal": {
+            "productId": 86803,
+            "lowPrice": 1.25,
+            "midPrice": 2.14,
+            "highPrice": 31.48,
+            "marketPrice": 2.15,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": {
+            "productId": 86803,
+            "lowPrice": 6.38,
+            "midPrice": 11.95,
+            "highPrice": 62.38,
+            "marketPrice": 9.6,
+            "directLowPrice": null
+          }
+        }
+      }
+    }
+  ],
+  "dexId": [
+    264
+  ],
+  "hp": 70,
+  "types": [
+    "Colorless"
+  ],
+  "evolveFrom": "Zigzagoon",
+  "stage": "Stage1",
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Seek Out",
+      "effect": "Search your deck for up to 2 cards and put them into your hand. Shuffle your deck afterward."
+    },
+    {
+      "cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Continuous Headbutt",
+      "effect": "Flip a coin until you get tails. This attack does 40 damage times the number of heads.",
+      "damage": "40\u00d7"
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 1,
+  "legal": {
+    "standard": false,
+    "expanded": false
+  },
+  "updated": "2026-08-19T20:52:03Z",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.816Z",
+      "unit": "EUR",
+      "idProduct": 275686,
+      "avg": 1,
+      "low": 0.15,
+      "trend": 0.98,
+      "avg1": 1.7,
+      "avg7": 0.9,
+      "avg30": 1.06,
+      "avg-holo": 4.99,
+      "low-holo": 1,
+      "trend-holo": 4.34,
+      "avg1-holo": 4.99,
+      "avg7-holo": 3.93,
+      "avg30-holo": 3.23
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:38.905Z",
+      "normal": {
+        "productId": 86803,
+        "lowPrice": 1.25,
+        "midPrice": 2.14,
+        "highPrice": 31.48,
+        "marketPrice": 2.15,
+        "directLowPrice": null
+      },
+      "reverse-holofoil": {
+        "productId": 86803,
+        "lowPrice": 6.38,
+        "midPrice": 11.95,
+        "highPrice": 62.38,
+        "marketPrice": 9.6,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/ex1-38",
+  "_set_releaseDate": "2003-07-01",
+  "_set_name": "Ruby & Sapphire",
+  "_set_id": "ex1"
+}

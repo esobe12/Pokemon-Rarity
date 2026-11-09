@@ -1,0 +1,207 @@
+{
+  "category": "Pokemon",
+  "id": "swsh3-26",
+  "illustrator": "Megumi Higuchi",
+  "image": "https://assets.tcgdex.net/en/swsh/swsh3/26",
+  "localId": "26",
+  "name": "Pansear",
+  "rarity": "Common",
+  "set": {
+    "cardCount": {
+      "official": 189,
+      "total": 201
+    },
+    "id": "swsh3",
+    "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo",
+    "name": "Darkness Ablaze",
+    "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": true,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 483004,
+        "tcgplayer": 219239
+      },
+      "variantId": "endfynwn4n10gzq",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.808Z",
+          "unit": "EUR",
+          "idProduct": 483004,
+          "avg": 0.03,
+          "low": 0.02,
+          "trend": 0.02,
+          "avg1": 0.06,
+          "avg7": 0.03,
+          "avg30": 0.03,
+          "avg-holo": 0.19,
+          "low-holo": 0.03,
+          "trend-holo": 0.19,
+          "avg1-holo": 0.02,
+          "avg7-holo": 0.15,
+          "avg30-holo": 0.18
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:49.049Z",
+          "reverse-holofoil": {
+            "productId": 219239,
+            "lowPrice": 0.05,
+            "midPrice": 0.31,
+            "highPrice": 19.66,
+            "marketPrice": 0.31,
+            "directLowPrice": null
+          },
+          "normal": {
+            "productId": 219239,
+            "lowPrice": 0.01,
+            "midPrice": 0.19,
+            "highPrice": 25.15,
+            "marketPrice": 0.15,
+            "directLowPrice": 0.04
+          }
+        }
+      }
+    },
+    {
+      "type": "reverse",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 483004,
+        "tcgplayer": 219239
+      },
+      "variantId": "cm4kqul3x1bwlz1f",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.808Z",
+          "unit": "EUR",
+          "idProduct": 483004,
+          "avg": 0.03,
+          "low": 0.02,
+          "trend": 0.02,
+          "avg1": 0.06,
+          "avg7": 0.03,
+          "avg30": 0.03,
+          "avg-holo": 0.19,
+          "low-holo": 0.03,
+          "trend-holo": 0.19,
+          "avg1-holo": 0.02,
+          "avg7-holo": 0.15,
+          "avg30-holo": 0.18
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:49.049Z",
+          "reverse-holofoil": {
+            "productId": 219239,
+            "lowPrice": 0.05,
+            "midPrice": 0.31,
+            "highPrice": 19.66,
+            "marketPrice": 0.31,
+            "directLowPrice": null
+          },
+          "normal": {
+            "productId": 219239,
+            "lowPrice": 0.01,
+            "midPrice": 0.19,
+            "highPrice": 25.15,
+            "marketPrice": 0.15,
+            "directLowPrice": 0.04
+          }
+        }
+      }
+    }
+  ],
+  "dexId": [
+    513
+  ],
+  "hp": 60,
+  "types": [
+    "Fire"
+  ],
+  "description": "This Pok\u00e9mon lives in caves in volcanoes. The fire within the tuft on its head can reach 600 degrees Fahrenheit.",
+  "stage": "Basic",
+  "attacks": [
+    {
+      "cost": [
+        "Fire"
+      ],
+      "name": "Live Coal",
+      "damage": 10
+    },
+    {
+      "cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Bite",
+      "damage": 20
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Water",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 1,
+  "regulationMark": "D",
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-10-19T09:46:55+01:00",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.808Z",
+      "unit": "EUR",
+      "idProduct": 483004,
+      "avg": 0.03,
+      "low": 0.02,
+      "trend": 0.02,
+      "avg1": 0.06,
+      "avg7": 0.03,
+      "avg30": 0.03,
+      "avg-holo": 0.19,
+      "low-holo": 0.03,
+      "trend-holo": 0.19,
+      "avg1-holo": 0.02,
+      "avg7-holo": 0.15,
+      "avg30-holo": 0.18
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:49.049Z",
+      "reverse-holofoil": {
+        "productId": 219239,
+        "lowPrice": 0.05,
+        "midPrice": 0.31,
+        "highPrice": 19.66,
+        "marketPrice": 0.31,
+        "directLowPrice": null
+      },
+      "normal": {
+        "productId": 219239,
+        "lowPrice": 0.01,
+        "midPrice": 0.19,
+        "highPrice": 25.15,
+        "marketPrice": 0.15,
+        "directLowPrice": 0.04
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/swsh3-26",
+  "_set_releaseDate": "2020-08-14",
+  "_set_name": "Darkness Ablaze",
+  "_set_id": "swsh3"
+}

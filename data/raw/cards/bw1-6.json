@@ -1,0 +1,214 @@
+{
+  "category": "Pokemon",
+  "id": "bw1-6",
+  "illustrator": "5ban Graphics",
+  "image": "https://assets.tcgdex.net/en/bw/bw1/6",
+  "localId": "6",
+  "name": "Serperior",
+  "rarity": "Rare",
+  "set": {
+    "cardCount": {
+      "official": 114,
+      "total": 115
+    },
+    "id": "bw1",
+    "logo": "https://assets.tcgdex.net/en/bw/bw1/logo",
+    "name": "Black & White",
+    "symbol": "https://assets.tcgdex.net/univ/bw/bw1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": true,
+    "normal": false,
+    "reverse": true,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "holo",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 279744,
+        "tcgplayer": 89070
+      },
+      "variantId": "jr7oetx1mqug9",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.808Z",
+          "unit": "EUR",
+          "idProduct": 279744,
+          "avg": 2.04,
+          "low": 0.2,
+          "trend": 2.17,
+          "avg1": 2.34,
+          "avg7": 1.94,
+          "avg30": 2.59,
+          "avg-holo": 2.99,
+          "low-holo": 0.4,
+          "trend-holo": 2.41,
+          "avg1-holo": 1.75,
+          "avg7-holo": 2.24,
+          "avg30-holo": 2.38
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:43.407Z",
+          "holofoil": {
+            "productId": 89070,
+            "lowPrice": 1.99,
+            "midPrice": 3.33,
+            "highPrice": 57.9,
+            "marketPrice": 3.33,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": {
+            "productId": 89070,
+            "lowPrice": 2.35,
+            "midPrice": 4.29,
+            "highPrice": 45.38,
+            "marketPrice": 4.32,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    {
+      "type": "reverse",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 279744,
+        "tcgplayer": 89070
+      },
+      "variantId": "cm4kqul3x1bwlz1f",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.808Z",
+          "unit": "EUR",
+          "idProduct": 279744,
+          "avg": 2.04,
+          "low": 0.2,
+          "trend": 2.17,
+          "avg1": 2.34,
+          "avg7": 1.94,
+          "avg30": 2.59,
+          "avg-holo": 2.99,
+          "low-holo": 0.4,
+          "trend-holo": 2.41,
+          "avg1-holo": 1.75,
+          "avg7-holo": 2.24,
+          "avg30-holo": 2.38
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:43.407Z",
+          "holofoil": {
+            "productId": 89070,
+            "lowPrice": 1.99,
+            "midPrice": 3.33,
+            "highPrice": 57.9,
+            "marketPrice": 3.33,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": {
+            "productId": 89070,
+            "lowPrice": 2.35,
+            "midPrice": 4.29,
+            "highPrice": 45.38,
+            "marketPrice": 4.32,
+            "directLowPrice": null
+          }
+        }
+      }
+    }
+  ],
+  "dexId": [
+    497
+  ],
+  "hp": 130,
+  "types": [
+    "Grass"
+  ],
+  "evolveFrom": "Servine",
+  "description": "They raise their heads to intimidate opponents but only give it their all when fighting a powerful opponent.",
+  "stage": "Stage2",
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Royal Heal",
+      "effect": "At any time between turns, heal 10 damage from each of your Pok\u00e9mon."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Grass",
+        "Colorless"
+      ],
+      "name": "Leaf Tornado",
+      "effect": "Move as many Grass Energy attached to your Pok\u00e9mon to your other Pok\u00e9mon in any way you like.",
+      "damage": 60
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "\u00d72"
+    }
+  ],
+  "resistances": [
+    {
+      "type": "Water",
+      "value": "-20"
+    }
+  ],
+  "retreat": 1,
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-11-01T11:34:09Z",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.808Z",
+      "unit": "EUR",
+      "idProduct": 279744,
+      "avg": 2.04,
+      "low": 0.2,
+      "trend": 2.17,
+      "avg1": 2.34,
+      "avg7": 1.94,
+      "avg30": 2.59,
+      "avg-holo": 2.99,
+      "low-holo": 0.4,
+      "trend-holo": 2.41,
+      "avg1-holo": 1.75,
+      "avg7-holo": 2.24,
+      "avg30-holo": 2.38
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:43.407Z",
+      "holofoil": {
+        "productId": 89070,
+        "lowPrice": 1.99,
+        "midPrice": 3.33,
+        "highPrice": 57.9,
+        "marketPrice": 3.33,
+        "directLowPrice": null
+      },
+      "reverse-holofoil": {
+        "productId": 89070,
+        "lowPrice": 2.35,
+        "midPrice": 4.29,
+        "highPrice": 45.38,
+        "marketPrice": 4.32,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/bw1-6",
+  "_set_releaseDate": "2011-04-25",
+  "_set_name": "Black & White",
+  "_set_id": "bw1"
+}

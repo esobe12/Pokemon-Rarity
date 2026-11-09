@@ -1,0 +1,211 @@
+{
+  "category": "Pokemon",
+  "id": "swsh3-71",
+  "illustrator": "SATOSHI NAKAI",
+  "image": "https://assets.tcgdex.net/en/swsh/swsh3/71",
+  "localId": "71",
+  "name": "Granbull",
+  "rarity": "Rare",
+  "set": {
+    "cardCount": {
+      "official": 189,
+      "total": 201
+    },
+    "id": "swsh3",
+    "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo",
+    "name": "Darkness Ablaze",
+    "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": true,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 483234,
+        "tcgplayer": 219446
+      },
+      "variantId": "endfynwn4n10gzq",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.808Z",
+          "unit": "EUR",
+          "idProduct": 483234,
+          "avg": 0.12,
+          "low": 0.02,
+          "trend": 0.13,
+          "avg1": 0.14,
+          "avg7": 0.14,
+          "avg30": 0.13,
+          "avg-holo": 0.31,
+          "low-holo": 0.12,
+          "trend-holo": 0.21,
+          "avg1-holo": 0.44,
+          "avg7-holo": 0.33,
+          "avg30-holo": 0.51
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:49.049Z",
+          "normal": {
+            "productId": 219446,
+            "lowPrice": 0.05,
+            "midPrice": 0.23,
+            "highPrice": 15,
+            "marketPrice": 0.21,
+            "directLowPrice": 0.1
+          },
+          "reverse-holofoil": {
+            "productId": 219446,
+            "lowPrice": 0.2,
+            "midPrice": 0.45,
+            "highPrice": 13.68,
+            "marketPrice": 0.45,
+            "directLowPrice": 0.38
+          }
+        }
+      }
+    },
+    {
+      "type": "reverse",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 483234,
+        "tcgplayer": 219446
+      },
+      "variantId": "cm4kqul3x1bwlz1f",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.808Z",
+          "unit": "EUR",
+          "idProduct": 483234,
+          "avg": 0.12,
+          "low": 0.02,
+          "trend": 0.13,
+          "avg1": 0.14,
+          "avg7": 0.14,
+          "avg30": 0.13,
+          "avg-holo": 0.31,
+          "low-holo": 0.12,
+          "trend-holo": 0.21,
+          "avg1-holo": 0.44,
+          "avg7-holo": 0.33,
+          "avg30-holo": 0.51
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:49.049Z",
+          "normal": {
+            "productId": 219446,
+            "lowPrice": 0.05,
+            "midPrice": 0.23,
+            "highPrice": 15,
+            "marketPrice": 0.21,
+            "directLowPrice": 0.1
+          },
+          "reverse-holofoil": {
+            "productId": 219446,
+            "lowPrice": 0.2,
+            "midPrice": 0.45,
+            "highPrice": 13.68,
+            "marketPrice": 0.45,
+            "directLowPrice": 0.38
+          }
+        }
+      }
+    }
+  ],
+  "dexId": [
+    210
+  ],
+  "hp": 130,
+  "types": [
+    "Psychic"
+  ],
+  "evolveFrom": "Snubbull",
+  "description": "Although it's popular with young people, Granbull is timid and sensitive, so it's totally incompetent as a watchdog.",
+  "stage": "Stage1",
+  "attacks": [
+    {
+      "cost": [
+        "Psychic",
+        "Colorless"
+      ],
+      "name": "Jaw Lock",
+      "effect": "During your opponent's next turn, the Defending Pok\u00e9mon can't retreat.",
+      "damage": 50
+    },
+    {
+      "cost": [
+        "Psychic",
+        "Psychic",
+        "Colorless"
+      ],
+      "name": "Headbutt Bounce",
+      "damage": 130
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metal",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 2,
+  "regulationMark": "D",
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-10-19T09:46:55+01:00",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.808Z",
+      "unit": "EUR",
+      "idProduct": 483234,
+      "avg": 0.12,
+      "low": 0.02,
+      "trend": 0.13,
+      "avg1": 0.14,
+      "avg7": 0.14,
+      "avg30": 0.13,
+      "avg-holo": 0.31,
+      "low-holo": 0.12,
+      "trend-holo": 0.21,
+      "avg1-holo": 0.44,
+      "avg7-holo": 0.33,
+      "avg30-holo": 0.51
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:49.049Z",
+      "normal": {
+        "productId": 219446,
+        "lowPrice": 0.05,
+        "midPrice": 0.23,
+        "highPrice": 15,
+        "marketPrice": 0.21,
+        "directLowPrice": 0.1
+      },
+      "reverse-holofoil": {
+        "productId": 219446,
+        "lowPrice": 0.2,
+        "midPrice": 0.45,
+        "highPrice": 13.68,
+        "marketPrice": 0.45,
+        "directLowPrice": 0.38
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/swsh3-71",
+  "_set_releaseDate": "2020-08-14",
+  "_set_name": "Darkness Ablaze",
+  "_set_id": "swsh3"
+}

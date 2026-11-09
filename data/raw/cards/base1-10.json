@@ -1,0 +1,213 @@
+{
+  "category": "Pokemon",
+  "id": "base1-10",
+  "illustrator": "Ken Sugimori",
+  "image": "https://assets.tcgdex.net/en/base/base1/10",
+  "localId": "10",
+  "name": "Mewtwo",
+  "rarity": "Rare",
+  "set": {
+    "cardCount": {
+      "official": 102,
+      "total": 102
+    },
+    "id": "base1",
+    "logo": "https://assets.tcgdex.net/en/base/base1/logo",
+    "name": "Base Set"
+  },
+  "variants": {
+    "firstEdition": true,
+    "holo": true,
+    "normal": false,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "holo",
+      "subtype": "unlimited",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 273705,
+        "tcgplayer": 42347
+      },
+      "variantId": "4ffrmhcfiaejakhepqdkx7o",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.802Z",
+          "unit": "EUR",
+          "idProduct": 273705,
+          "avg": 28.23,
+          "low": 3.5,
+          "trend": 62.84,
+          "avg1": 181.25,
+          "avg7": 47.4,
+          "avg30": 34.38,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 16.9,
+          "avg1-holo": 3.87,
+          "avg7-holo": 10.59,
+          "avg30-holo": 14.57
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:37.264Z",
+          "holofoil": {
+            "productId": 42347,
+            "lowPrice": 39,
+            "midPrice": 75,
+            "highPrice": 500,
+            "marketPrice": 89.58,
+            "directLowPrice": 105.99
+          }
+        }
+      }
+    },
+    {
+      "type": "holo",
+      "subtype": "shadowless",
+      "size": "standard",
+      "stamp": [
+        "1st-edition"
+      ],
+      "thirdParty": {
+        "tcgplayer": 107005,
+        "cardmarket": 660218
+      },
+      "variantId": "mtltux8qtgdu4exu903oasum21juxbvx6lx",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.802Z",
+          "unit": "EUR",
+          "idProduct": 660218,
+          "avg": 800.83,
+          "low": 49.99,
+          "trend": 741.32,
+          "avg1": 340,
+          "avg7": 651.25,
+          "avg30": 508.83,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "holo",
+      "subtype": "shadowless",
+      "size": "standard",
+      "thirdParty": {
+        "tcgplayer": 107005,
+        "cardmarket": 660218
+      },
+      "variantId": "3takscxpcqoqcfnxk1ivs2y6",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.802Z",
+          "unit": "EUR",
+          "idProduct": 660218,
+          "avg": 800.83,
+          "low": 49.99,
+          "trend": 741.32,
+          "avg1": 340,
+          "avg7": 651.25,
+          "avg30": 508.83,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "holo",
+      "subtype": "1999-2000-copyright",
+      "size": "standard",
+      "variantId": "zqq5g2u9n0st0gren5bssktmac2ywqaw"
+    }
+  ],
+  "dexId": [
+    150
+  ],
+  "hp": 60,
+  "types": [
+    "Psychic"
+  ],
+  "description": "A scientist created this Pok\u00e9mon after years of horrific gene-splicing and DNA engineering experiments.",
+  "stage": "Basic",
+  "attacks": [
+    {
+      "cost": [
+        "Psychic",
+        "Colorless"
+      ],
+      "name": "Psychic",
+      "effect": "Does 10 damage plus 10 more damage for each Energy card attached to the Defending Pok\u00e9mon.",
+      "damage": "10+"
+    },
+    {
+      "cost": [
+        "Psychic",
+        "Psychic"
+      ],
+      "name": "Barrier",
+      "effect": "Discard 1 Energy card attached to Mewtwo in order to use this attack. During your opponent's next turn, prevent all effects of attacks, including damage, done to Mewtwo."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psychic",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 3,
+  "legal": {
+    "standard": false,
+    "expanded": false
+  },
+  "updated": "2026-09-04T23:45:25+01:00",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.802Z",
+      "unit": "EUR",
+      "idProduct": 273705,
+      "avg": 28.23,
+      "low": 3.5,
+      "trend": 62.84,
+      "avg1": 181.25,
+      "avg7": 47.4,
+      "avg30": 34.38,
+      "avg-holo": null,
+      "low-holo": null,
+      "trend-holo": 16.9,
+      "avg1-holo": 3.87,
+      "avg7-holo": 10.59,
+      "avg30-holo": 14.57
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:37.264Z",
+      "holofoil": {
+        "productId": 42347,
+        "lowPrice": 39,
+        "midPrice": 75,
+        "highPrice": 500,
+        "marketPrice": 89.58,
+        "directLowPrice": 105.99
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/base1-10",
+  "_set_releaseDate": "1999-01-09",
+  "_set_name": "Base Set",
+  "_set_id": "base1"
+}

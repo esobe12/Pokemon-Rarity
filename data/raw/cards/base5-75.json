@@ -1,0 +1,180 @@
+{
+  "category": "Trainer",
+  "id": "base5-75",
+  "illustrator": "Sumiyoshi Kizuki",
+  "image": "https://assets.tcgdex.net/en/base/base5/75",
+  "localId": "75",
+  "name": "Digger",
+  "rarity": "Uncommon",
+  "set": {
+    "cardCount": {
+      "official": 82,
+      "total": 83
+    },
+    "id": "base5",
+    "logo": "https://assets.tcgdex.net/en/base/base5/logo",
+    "name": "Team Rocket",
+    "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol"
+  },
+  "variants": {
+    "firstEdition": true,
+    "holo": false,
+    "normal": true,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 274128,
+        "tcgplayer": 84815
+      },
+      "variantId": "endfynwn4n10gzq",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.802Z",
+          "unit": "EUR",
+          "idProduct": 274128,
+          "avg": 1.82,
+          "low": 0.07,
+          "trend": 1.39,
+          "avg1": 2,
+          "avg7": 1.46,
+          "avg30": 1.88,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0.15,
+          "avg1-holo": 0.15,
+          "avg7-holo": 0.15,
+          "avg30-holo": 0.15
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:37.633Z",
+          "1st-edition": {
+            "productId": 84815,
+            "lowPrice": 0.5,
+            "midPrice": 2,
+            "highPrice": 18.93,
+            "marketPrice": 2.24,
+            "directLowPrice": 4.44
+          },
+          "unlimited": {
+            "productId": 84815,
+            "lowPrice": 0.35,
+            "midPrice": 0.99,
+            "highPrice": 6.75,
+            "marketPrice": 1.38,
+            "directLowPrice": 0.65
+          }
+        }
+      }
+    },
+    {
+      "type": "normal",
+      "size": "standard",
+      "stamp": [
+        "1st-edition"
+      ],
+      "thirdParty": {
+        "cardmarket": 274128,
+        "tcgplayer": 84815
+      },
+      "variantId": "2fnyg4g532wu2uft0spaa3eefrz",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.802Z",
+          "unit": "EUR",
+          "idProduct": 274128,
+          "avg": 1.82,
+          "low": 0.07,
+          "trend": 1.39,
+          "avg1": 2,
+          "avg7": 1.46,
+          "avg30": 1.88,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0.15,
+          "avg1-holo": 0.15,
+          "avg7-holo": 0.15,
+          "avg30-holo": 0.15
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:37.633Z",
+          "1st-edition": {
+            "productId": 84815,
+            "lowPrice": 0.5,
+            "midPrice": 2,
+            "highPrice": 18.93,
+            "marketPrice": 2.24,
+            "directLowPrice": 4.44
+          },
+          "unlimited": {
+            "productId": 84815,
+            "lowPrice": 0.35,
+            "midPrice": 0.99,
+            "highPrice": 6.75,
+            "marketPrice": 1.38,
+            "directLowPrice": 0.65
+          }
+        }
+      }
+    }
+  ],
+  "cameoDexIds": [
+    84
+  ],
+  "effect": "Flip a coin. If tails, do 10 damage to your Active Pok\u00e9mon. If heads, your opponent flips a coin. If tails, your opponent does 10 damage to his or her Active Pok\u00e9mon. If heads, you flip a coin. Keep doing this until a player gets tails.",
+  "legal": {
+    "standard": false,
+    "expanded": false
+  },
+  "updated": "2026-11-01T11:32:06Z",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.802Z",
+      "unit": "EUR",
+      "idProduct": 274128,
+      "avg": 1.82,
+      "low": 0.07,
+      "trend": 1.39,
+      "avg1": 2,
+      "avg7": 1.46,
+      "avg30": 1.88,
+      "avg-holo": null,
+      "low-holo": null,
+      "trend-holo": 0.15,
+      "avg1-holo": 0.15,
+      "avg7-holo": 0.15,
+      "avg30-holo": 0.15
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:37.633Z",
+      "1st-edition": {
+        "productId": 84815,
+        "lowPrice": 0.5,
+        "midPrice": 2,
+        "highPrice": 18.93,
+        "marketPrice": 2.24,
+        "directLowPrice": 4.44
+      },
+      "unlimited": {
+        "productId": 84815,
+        "lowPrice": 0.35,
+        "midPrice": 0.99,
+        "highPrice": 6.75,
+        "marketPrice": 1.38,
+        "directLowPrice": 0.65
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/base5-75",
+  "_set_releaseDate": "2000-04-24",
+  "_set_name": "Team Rocket",
+  "_set_id": "base5"
+}

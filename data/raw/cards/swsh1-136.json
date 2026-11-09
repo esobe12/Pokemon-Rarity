@@ -1,0 +1,125 @@
+{
+  "category": "Pokemon",
+  "id": "swsh1-136",
+  "illustrator": "kirisAki",
+  "image": "https://assets.tcgdex.net/en/swsh/swsh1/136",
+  "localId": "136",
+  "name": "Cufant",
+  "rarity": "Common",
+  "set": {
+    "cardCount": {
+      "official": 202,
+      "total": 216
+    },
+    "id": "swsh1",
+    "logo": "https://assets.tcgdex.net/en/swsh/swsh1/logo",
+    "name": "Sword & Shield",
+    "symbol": "https://assets.tcgdex.net/univ/swsh/swsh1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": true,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "variantId": "generated"
+    },
+    {
+      "type": "reverse",
+      "size": "standard",
+      "variantId": "generated"
+    }
+  ],
+  "dexId": [
+    878
+  ],
+  "hp": 100,
+  "types": [
+    "Metal"
+  ],
+  "description": "If a job requires serious strength, this Pok\u00e9mon will excel at it. Its copper body tarnishes in the rain, turning a vibrant green color.",
+  "stage": "Basic",
+  "attacks": [
+    {
+      "cost": [
+        "Metal",
+        "Metal"
+      ],
+      "name": "Stomp",
+      "effect": "Flip a coin. If heads, this attack does 20 more damage.",
+      "damage": "20+"
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "\u00d72"
+    }
+  ],
+  "resistances": [
+    {
+      "type": "Grass",
+      "value": "-30"
+    }
+  ],
+  "retreat": 3,
+  "regulationMark": "D",
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-08-16T22:12:40+01:00",
+  "thirdParty": {
+    "cardmarket": 436789,
+    "tcgplayer": 208447
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.802Z",
+      "unit": "EUR",
+      "idProduct": 436789,
+      "avg": 0.05,
+      "low": 0.02,
+      "trend": 0.08,
+      "avg1": 0.04,
+      "avg7": 0.07,
+      "avg30": 0.05,
+      "avg-holo": 0.21,
+      "low-holo": 0.02,
+      "trend-holo": 0.26,
+      "avg1-holo": 0.05,
+      "avg7-holo": 0.2,
+      "avg30-holo": 0.27
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:48.878Z",
+      "reverse-holofoil": {
+        "productId": 208447,
+        "lowPrice": 0.09,
+        "midPrice": 0.37,
+        "highPrice": 19.66,
+        "marketPrice": 0.38,
+        "directLowPrice": 0.26
+      },
+      "normal": {
+        "productId": 208447,
+        "lowPrice": 0.01,
+        "midPrice": 0.2,
+        "highPrice": 19.66,
+        "marketPrice": 0.13,
+        "directLowPrice": 0.08
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/swsh1-136",
+  "_set_releaseDate": "2020-02-07",
+  "_set_name": "Sword & Shield",
+  "_set_id": "swsh1"
+}

@@ -1,0 +1,219 @@
+{
+  "category": "Pokemon",
+  "id": "base1-27",
+  "illustrator": "Ken Sugimori",
+  "image": "https://assets.tcgdex.net/en/base/base1/27",
+  "localId": "27",
+  "name": "Farfetch'd",
+  "rarity": "Uncommon",
+  "set": {
+    "cardCount": {
+      "official": 102,
+      "total": 102
+    },
+    "id": "base1",
+    "logo": "https://assets.tcgdex.net/en/base/base1/logo",
+    "name": "Base Set"
+  },
+  "variants": {
+    "firstEdition": true,
+    "holo": false,
+    "normal": true,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "subtype": "unlimited",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 273722,
+        "tcgplayer": 42368
+      },
+      "variantId": "3a83wf50tz7q114spsx7dw6v5",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.816Z",
+          "unit": "EUR",
+          "idProduct": 273722,
+          "avg": 1.86,
+          "low": 0.02,
+          "trend": 2.27,
+          "avg1": 2.05,
+          "avg7": 1.85,
+          "avg30": 2.07,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 8.04,
+          "avg1-holo": 5,
+          "avg7-holo": 5.76,
+          "avg30-holo": 5.76
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:37.264Z",
+          "normal": {
+            "productId": 42368,
+            "lowPrice": 0.18,
+            "midPrice": 1,
+            "highPrice": 96.51,
+            "marketPrice": 2.07,
+            "directLowPrice": 0.77
+          }
+        }
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "shadowless",
+      "size": "standard",
+      "stamp": [
+        "1st-edition"
+      ],
+      "thirdParty": {
+        "tcgplayer": 107024,
+        "cardmarket": 660201
+      },
+      "variantId": "gx8bq2hefwadd3utcibq3oc56sjf4jqdz709e",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.816Z",
+          "unit": "EUR",
+          "idProduct": 660201,
+          "avg": 35.98,
+          "low": 3,
+          "trend": 66.76,
+          "avg1": 6.25,
+          "avg7": 61.35,
+          "avg30": 30.87,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "shadowless",
+      "size": "standard",
+      "thirdParty": {
+        "tcgplayer": 107024,
+        "cardmarket": 660201
+      },
+      "variantId": "2tszcx1bpt4e79y5us0p570b9n",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.816Z",
+          "unit": "EUR",
+          "idProduct": 660201,
+          "avg": 35.98,
+          "low": 3,
+          "trend": 66.76,
+          "avg1": 6.25,
+          "avg7": 61.35,
+          "avg30": 30.87,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "1999-2000-copyright",
+      "size": "standard",
+      "variantId": "qi4g3e7tzbkcyhfflvx7zmvunxwjcq3pvp"
+    }
+  ],
+  "dexId": [
+    83
+  ],
+  "hp": 50,
+  "types": [
+    "Colorless"
+  ],
+  "description": "The sprig of green onions it holds is its weapon. This sprig is used much like a metal sword.",
+  "stage": "Basic",
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Leek Slap",
+      "effect": "Flip a coin. If tails, this attack does nothing. Either way, you can't use this attack again as long as Farfetch'd stays in play (even putting Farfetch'd on the Bench won't let you use it again.)",
+      "damage": 30
+    },
+    {
+      "cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Pot Smash",
+      "damage": 30
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "\u00d72"
+    }
+  ],
+  "resistances": [
+    {
+      "type": "Fighting",
+      "value": "-30"
+    }
+  ],
+  "retreat": 1,
+  "legal": {
+    "standard": false,
+    "expanded": false
+  },
+  "updated": "2026-08-20T08:25:49+01:00",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.816Z",
+      "unit": "EUR",
+      "idProduct": 273722,
+      "avg": 1.86,
+      "low": 0.02,
+      "trend": 2.27,
+      "avg1": 2.05,
+      "avg7": 1.85,
+      "avg30": 2.07,
+      "avg-holo": null,
+      "low-holo": null,
+      "trend-holo": 8.04,
+      "avg1-holo": 5,
+      "avg7-holo": 5.76,
+      "avg30-holo": 5.76
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:37.264Z",
+      "normal": {
+        "productId": 42368,
+        "lowPrice": 0.18,
+        "midPrice": 1,
+        "highPrice": 96.51,
+        "marketPrice": 2.07,
+        "directLowPrice": 0.77
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/base1-27",
+  "_set_releaseDate": "1999-01-09",
+  "_set_name": "Base Set",
+  "_set_id": "base1"
+}

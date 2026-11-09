@@ -1,0 +1,122 @@
+{
+  "category": "Pokemon",
+  "id": "dp1-82",
+  "illustrator": "Kouki Saitou",
+  "image": "https://assets.tcgdex.net/en/dp/dp1/82",
+  "localId": "82",
+  "name": "Gastly",
+  "rarity": "Common",
+  "set": {
+    "cardCount": {
+      "official": 130,
+      "total": 130
+    },
+    "id": "dp1",
+    "logo": "https://assets.tcgdex.net/en/dp/dp1/logo",
+    "name": "Diamond & Pearl",
+    "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": true,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "variantId": "endfynwn4n10gzq"
+    },
+    {
+      "type": "reverse",
+      "size": "standard",
+      "variantId": "cm4kqul3x1bwlz1f"
+    }
+  ],
+  "dexId": [
+    92
+  ],
+  "hp": 50,
+  "types": [
+    "Psychic"
+  ],
+  "description": "This Pok\u00e9mon's body is 95% made up of gases, which are blown away by strong gusts of wind.",
+  "stage": "Basic",
+  "attacks": [
+    {
+      "cost": [
+        "Psychic"
+      ],
+      "name": "Pain Payback",
+      "effect": "Move 1 damage counter from Gastly to 1 of your opponent's Pok\u00e9mon."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+10"
+    }
+  ],
+  "resistances": [
+    {
+      "type": "Colorless",
+      "value": "-20"
+    }
+  ],
+  "retreat": 1,
+  "legal": {
+    "standard": false,
+    "expanded": false
+  },
+  "updated": "2026-08-15T23:30:13+01:00",
+  "thirdParty": {
+    "cardmarket": 277581,
+    "tcgplayer": 85652
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.795Z",
+      "unit": "EUR",
+      "idProduct": 277581,
+      "avg": 0.37,
+      "low": 0.02,
+      "trend": 0.34,
+      "avg1": 0.93,
+      "avg7": 0.36,
+      "avg30": 0.35,
+      "avg-holo": 4.93,
+      "low-holo": 0.1,
+      "trend-holo": 4.76,
+      "avg1-holo": 2,
+      "avg7-holo": 4.49,
+      "avg30-holo": 3.38
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:41.069Z",
+      "normal": {
+        "productId": 85652,
+        "lowPrice": 0.4,
+        "midPrice": 1.04,
+        "highPrice": 96.95,
+        "marketPrice": 2.2,
+        "directLowPrice": 2.64
+      },
+      "reverse-holofoil": {
+        "productId": 85652,
+        "lowPrice": 8.39,
+        "midPrice": 29,
+        "highPrice": 44.99,
+        "marketPrice": 14.18,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/dp1-82",
+  "_set_releaseDate": "2007-05-01",
+  "_set_name": "Diamond & Pearl",
+  "_set_id": "dp1"
+}

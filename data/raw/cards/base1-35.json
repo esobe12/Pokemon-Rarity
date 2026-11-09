@@ -1,0 +1,211 @@
+{
+  "category": "Pokemon",
+  "id": "base1-35",
+  "illustrator": "Mitsuhiro Arita",
+  "image": "https://assets.tcgdex.net/en/base/base1/35",
+  "localId": "35",
+  "name": "Magikarp",
+  "rarity": "Uncommon",
+  "set": {
+    "cardCount": {
+      "official": 102,
+      "total": 102
+    },
+    "id": "base1",
+    "logo": "https://assets.tcgdex.net/en/base/base1/logo",
+    "name": "Base Set"
+  },
+  "variants": {
+    "firstEdition": true,
+    "holo": false,
+    "normal": true,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "subtype": "unlimited",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 273730,
+        "tcgplayer": 42377
+      },
+      "variantId": "3a83wf50tz7q114spsx7dw6v5",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.802Z",
+          "unit": "EUR",
+          "idProduct": 273730,
+          "avg": 3.99,
+          "low": 0.04,
+          "trend": 5.93,
+          "avg1": 2.22,
+          "avg7": 3.66,
+          "avg30": 3.94,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 2.2,
+          "avg1-holo": 7.5,
+          "avg7-holo": 3.82,
+          "avg30-holo": 3.82
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:37.264Z",
+          "normal": {
+            "productId": 42377,
+            "lowPrice": 0.25,
+            "midPrice": 1.9,
+            "highPrice": 96.95,
+            "marketPrice": 3.97,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "shadowless",
+      "size": "standard",
+      "stamp": [
+        "1st-edition"
+      ],
+      "thirdParty": {
+        "tcgplayer": 107032,
+        "cardmarket": 660193
+      },
+      "variantId": "gx8bq2hefwadd3utcibq3oc56sjf4jqdz709e",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.802Z",
+          "unit": "EUR",
+          "idProduct": 660193,
+          "avg": 43.43,
+          "low": 14,
+          "trend": 36.33,
+          "avg1": 20.75,
+          "avg7": 46.38,
+          "avg30": 42.67,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "shadowless",
+      "size": "standard",
+      "thirdParty": {
+        "tcgplayer": 107032,
+        "cardmarket": 660193
+      },
+      "variantId": "2tszcx1bpt4e79y5us0p570b9n",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.802Z",
+          "unit": "EUR",
+          "idProduct": 660193,
+          "avg": 43.43,
+          "low": 14,
+          "trend": 36.33,
+          "avg1": 20.75,
+          "avg7": 46.38,
+          "avg30": 42.67,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "1999-2000-copyright",
+      "size": "standard",
+      "variantId": "qi4g3e7tzbkcyhfflvx7zmvunxwjcq3pvp"
+    }
+  ],
+  "dexId": [
+    129
+  ],
+  "hp": 30,
+  "types": [
+    "Water"
+  ],
+  "description": "In the distant past, it was stronger than its horribly weak descendants that exist today.",
+  "stage": "Basic",
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Tackle",
+      "damage": 10
+    },
+    {
+      "cost": [
+        "Water"
+      ],
+      "name": "Flail",
+      "effect": "Does 10 damage times number of damage counters on Magikarp.",
+      "damage": "10x"
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 1,
+  "legal": {
+    "standard": false,
+    "expanded": false
+  },
+  "updated": "2026-08-20T08:25:49+01:00",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.802Z",
+      "unit": "EUR",
+      "idProduct": 273730,
+      "avg": 3.99,
+      "low": 0.04,
+      "trend": 5.93,
+      "avg1": 2.22,
+      "avg7": 3.66,
+      "avg30": 3.94,
+      "avg-holo": null,
+      "low-holo": null,
+      "trend-holo": 2.2,
+      "avg1-holo": 7.5,
+      "avg7-holo": 3.82,
+      "avg30-holo": 3.82
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:37.264Z",
+      "normal": {
+        "productId": 42377,
+        "lowPrice": 0.25,
+        "midPrice": 1.9,
+        "highPrice": 96.95,
+        "marketPrice": 3.97,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/base1-35",
+  "_set_releaseDate": "1999-01-09",
+  "_set_name": "Base Set",
+  "_set_id": "base1"
+}

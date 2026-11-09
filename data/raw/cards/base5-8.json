@@ -1,0 +1,249 @@
+{
+  "category": "Pokemon",
+  "id": "base5-8",
+  "illustrator": "Kagemaru Himeno",
+  "image": "https://assets.tcgdex.net/en/base/base5/8",
+  "localId": "8",
+  "name": "Dark Gyarados",
+  "rarity": "Rare",
+  "set": {
+    "cardCount": {
+      "official": 82,
+      "total": 83
+    },
+    "id": "base5",
+    "logo": "https://assets.tcgdex.net/en/base/base5/logo",
+    "name": "Team Rocket",
+    "symbol": "https://assets.tcgdex.net/univ/base/base5/symbol"
+  },
+  "variants": {
+    "firstEdition": true,
+    "holo": true,
+    "normal": false,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "holo",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 274061,
+        "tcgplayer": 84606
+      },
+      "variantId": "jr7oetx1mqug9",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.802Z",
+          "unit": "EUR",
+          "idProduct": 274061,
+          "avg": 179.18,
+          "low": 10,
+          "trend": 265.55,
+          "avg1": 41.66,
+          "avg7": 97.57,
+          "avg30": 153.25,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 31.28,
+          "avg1-holo": 24.75,
+          "avg7-holo": 25.65,
+          "avg30-holo": 25.61
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:37.633Z",
+          "1st-edition-holofoil": {
+            "productId": 84606,
+            "lowPrice": 133.99,
+            "midPrice": 217.99,
+            "highPrice": 3301.11,
+            "marketPrice": 201.57,
+            "directLowPrice": 277.72
+          },
+          "unlimited-holofoil": {
+            "productId": 84606,
+            "lowPrice": 51,
+            "midPrice": 65.99,
+            "highPrice": 183.71,
+            "marketPrice": 75.51,
+            "directLowPrice": 61.95
+          }
+        }
+      }
+    },
+    {
+      "type": "holo",
+      "size": "standard",
+      "stamp": [
+        "1st-edition"
+      ],
+      "thirdParty": {
+        "cardmarket": 274061,
+        "tcgplayer": 84606
+      },
+      "variantId": "3a83wf50ts0izj268xwv3crwi",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.802Z",
+          "unit": "EUR",
+          "idProduct": 274061,
+          "avg": 179.18,
+          "low": 10,
+          "trend": 265.55,
+          "avg1": 41.66,
+          "avg7": 97.57,
+          "avg30": 153.25,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 31.28,
+          "avg1-holo": 24.75,
+          "avg7-holo": 25.65,
+          "avg30-holo": 25.61
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:37.633Z",
+          "1st-edition-holofoil": {
+            "productId": 84606,
+            "lowPrice": 133.99,
+            "midPrice": 217.99,
+            "highPrice": 3301.11,
+            "marketPrice": 201.57,
+            "directLowPrice": 277.72
+          },
+          "unlimited-holofoil": {
+            "productId": 84606,
+            "lowPrice": 51,
+            "midPrice": 65.99,
+            "highPrice": 183.71,
+            "marketPrice": 75.51,
+            "directLowPrice": 61.95
+          }
+        }
+      }
+    },
+    {
+      "type": "holo",
+      "size": "standard",
+      "stamp": [
+        "pre-release"
+      ],
+      "thirdParty": {
+        "cardmarket": 275574
+      },
+      "variantId": "3a83wf50typ2p5qsrlm6y3f8o",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.802Z",
+          "unit": "EUR",
+          "idProduct": 275574,
+          "avg": 66.16,
+          "low": 16,
+          "trend": 63.11,
+          "avg1": 54.99,
+          "avg7": 49.88,
+          "avg30": 54.4,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 24.82,
+          "avg1-holo": 22.45,
+          "avg7-holo": 24.97,
+          "avg30-holo": 23.89
+        },
+        "tcgplayer": null
+      }
+    }
+  ],
+  "dexId": [
+    130
+  ],
+  "hp": 70,
+  "types": [
+    "Water"
+  ],
+  "evolveFrom": "Magikarp",
+  "description": "Normally found only in the deep ocean, it has recently been seen in shallow waters as well.",
+  "stage": "Stage1",
+  "abilities": [
+    {
+      "type": "Pokemon Power",
+      "name": "Final Beam",
+      "effect": "When Dark Gyarados is Knocked Out by an attack, flip a coin. If heads, this power does 20 damage for each Water Energy attached to Dark Gyarados to the Pok\u00e9mon that Knocked Out Dark Gyarados. Apply Weakness and Resistance. This power doesn't work if Dark Gyarados is Asleep, Confused, or Paralyzed."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Water",
+        "Water",
+        "Water"
+      ],
+      "name": "Ice Beam",
+      "effect": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed.",
+      "damage": 30
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "\u00d72"
+    }
+  ],
+  "resistances": [
+    {
+      "type": "Fighting",
+      "value": "-30"
+    }
+  ],
+  "retreat": 2,
+  "legal": {
+    "standard": false,
+    "expanded": false
+  },
+  "updated": "2026-11-01T11:32:06Z",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.802Z",
+      "unit": "EUR",
+      "idProduct": 274061,
+      "avg": 179.18,
+      "low": 10,
+      "trend": 265.55,
+      "avg1": 41.66,
+      "avg7": 97.57,
+      "avg30": 153.25,
+      "avg-holo": null,
+      "low-holo": null,
+      "trend-holo": 31.28,
+      "avg1-holo": 24.75,
+      "avg7-holo": 25.65,
+      "avg30-holo": 25.61
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:37.633Z",
+      "1st-edition-holofoil": {
+        "productId": 84606,
+        "lowPrice": 133.99,
+        "midPrice": 217.99,
+        "highPrice": 3301.11,
+        "marketPrice": 201.57,
+        "directLowPrice": 277.72
+      },
+      "unlimited-holofoil": {
+        "productId": 84606,
+        "lowPrice": 51,
+        "midPrice": 65.99,
+        "highPrice": 183.71,
+        "marketPrice": 75.51,
+        "directLowPrice": 61.95
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/base5-8",
+  "_set_releaseDate": "2000-04-24",
+  "_set_name": "Team Rocket",
+  "_set_id": "base5"
+}

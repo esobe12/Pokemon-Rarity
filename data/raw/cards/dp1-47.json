@@ -1,0 +1,133 @@
+{
+  "category": "Pokemon",
+  "id": "dp1-47",
+  "illustrator": "Kouki Saitou",
+  "image": "https://assets.tcgdex.net/en/dp/dp1/47",
+  "localId": "47",
+  "name": "Dusclops",
+  "rarity": "Uncommon",
+  "set": {
+    "cardCount": {
+      "official": 130,
+      "total": 130
+    },
+    "id": "dp1",
+    "logo": "https://assets.tcgdex.net/en/dp/dp1/logo",
+    "name": "Diamond & Pearl",
+    "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": true,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "variantId": "endfynwn4n10gzq"
+    },
+    {
+      "type": "reverse",
+      "size": "standard",
+      "variantId": "cm4kqul3x1bwlz1f"
+    }
+  ],
+  "dexId": [
+    356
+  ],
+  "hp": 80,
+  "types": [
+    "Psychic"
+  ],
+  "evolveFrom": "Duskull",
+  "description": "Its body is hollow. It is said that those who look into its body are sucked into the void.",
+  "stage": "Stage1",
+  "attacks": [
+    {
+      "cost": [
+        "Psychic",
+        "Colorless"
+      ],
+      "name": "Roam",
+      "effect": "Flip a coin. If heads, put 2 damage counters on each of your opponent's Pok\u00e9mon. If tails, put 2 damage counters on 1 of your Pok\u00e9mon."
+    },
+    {
+      "cost": [
+        "Psychic",
+        "Psychic"
+      ],
+      "name": "Gravity Wave",
+      "effect": "Does 10 damage to each of your opponent's Benched Pok\u00e9mon that doesn't have a Retreat Cost. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)",
+      "damage": 30
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "resistances": [
+    {
+      "type": "Colorless",
+      "value": "-20"
+    }
+  ],
+  "retreat": 2,
+  "legal": {
+    "standard": false,
+    "expanded": false
+  },
+  "updated": "2026-08-19T20:52:03Z",
+  "thirdParty": {
+    "cardmarket": 277546,
+    "tcgplayer": 85028
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.802Z",
+      "unit": "EUR",
+      "idProduct": 277546,
+      "avg": 0.27,
+      "low": 0.03,
+      "trend": 0.25,
+      "avg1": 0.13,
+      "avg7": 0.23,
+      "avg30": 0.23,
+      "avg-holo": 2.07,
+      "low-holo": 0.5,
+      "trend-holo": 2.86,
+      "avg1-holo": 0.92,
+      "avg7-holo": 2.74,
+      "avg30-holo": 1.96
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:41.069Z",
+      "normal": {
+        "productId": 85028,
+        "lowPrice": 0.3,
+        "midPrice": 0.51,
+        "highPrice": 16.22,
+        "marketPrice": 0.56,
+        "directLowPrice": null
+      },
+      "reverse-holofoil": {
+        "productId": 85028,
+        "lowPrice": 2.93,
+        "midPrice": 4.12,
+        "highPrice": 79.38,
+        "marketPrice": 4.75,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/dp1-47",
+  "_set_releaseDate": "2007-05-01",
+  "_set_name": "Diamond & Pearl",
+  "_set_id": "dp1"
+}

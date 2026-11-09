@@ -1,0 +1,127 @@
+{
+  "category": "Pokemon",
+  "id": "sm1-87",
+  "illustrator": "match",
+  "image": "https://assets.tcgdex.net/en/sm/sm1/87",
+  "localId": "87",
+  "name": "Alolan Dugtrio",
+  "rarity": "Rare",
+  "set": {
+    "cardCount": {
+      "official": 149,
+      "total": 172
+    },
+    "id": "sm1",
+    "logo": "https://assets.tcgdex.net/en/sm/sm1/logo",
+    "name": "Sun & Moon",
+    "symbol": "https://assets.tcgdex.net/univ/sm/sm1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "variantId": "generated"
+    }
+  ],
+  "dexId": [
+    51
+  ],
+  "hp": 100,
+  "types": [
+    "Metal"
+  ],
+  "evolveFrom": "Alolan Diglett",
+  "description": "Its shining gold hair provides it with protection. It's reputed that keeping any of its fallen hairs will bring bad luck.",
+  "stage": "Stage1",
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Tangling Hair",
+      "effect": "Your opponent\u2019s Active Pok\u00e9mon\u2019s Retreat Cost is Colorless more."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Dig Under",
+      "effect": "This attack does 50 damage to 1 of your opponent\u2019s Pok\u00e9mon. This damage isn\u2019t affected by Weakness or Resistance."
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "\u00d72"
+    }
+  ],
+  "resistances": [
+    {
+      "type": "Psychic",
+      "value": "-20"
+    }
+  ],
+  "retreat": 2,
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-08-16T21:23:08+01:00",
+  "thirdParty": {
+    "cardmarket": 295398,
+    "tcgplayer": 126959
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.808Z",
+      "unit": "EUR",
+      "idProduct": 295398,
+      "avg": 0.6,
+      "low": 0.04,
+      "trend": 0.85,
+      "avg1": 0.5,
+      "avg7": 0.68,
+      "avg30": 0.53,
+      "avg-holo": 0.48,
+      "low-holo": 0.04,
+      "trend-holo": 0.5,
+      "avg1-holo": 0.49,
+      "avg7-holo": 0.5,
+      "avg30-holo": 0.5
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:47.014Z",
+      "holofoil": {
+        "productId": 126959,
+        "lowPrice": 0.22,
+        "midPrice": 0.5,
+        "highPrice": 19.66,
+        "marketPrice": 0.47,
+        "directLowPrice": null
+      },
+      "reverse-holofoil": {
+        "productId": 126959,
+        "lowPrice": 0.2,
+        "midPrice": 0.6,
+        "highPrice": 19.66,
+        "marketPrice": 0.62,
+        "directLowPrice": 0.61
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/sm1-87",
+  "_set_releaseDate": "2017-02-03",
+  "_set_name": "Sun & Moon",
+  "_set_id": "sm1"
+}

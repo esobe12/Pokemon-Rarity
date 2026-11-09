@@ -1,0 +1,126 @@
+{
+  "category": "Pokemon",
+  "id": "xy1-42",
+  "illustrator": "MAHOU",
+  "image": "https://assets.tcgdex.net/en/xy/xy1/42",
+  "localId": "42",
+  "name": "Pikachu",
+  "rarity": "Common",
+  "set": {
+    "cardCount": {
+      "official": 146,
+      "total": 146
+    },
+    "id": "xy1",
+    "logo": "https://assets.tcgdex.net/en/xy/xy1/logo",
+    "name": "XY",
+    "symbol": "https://assets.tcgdex.net/univ/xy/xy1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "variantId": "generated"
+    }
+  ],
+  "dexId": [
+    25
+  ],
+  "hp": 60,
+  "types": [
+    "Lightning"
+  ],
+  "description": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
+  "stage": "Basic",
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Nuzzle",
+      "effect": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+    },
+    {
+      "cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Quick Attack",
+      "effect": "Flip a coin. If heads, this attack does 10 more damage.",
+      "damage": "20+"
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "\u00d72"
+    }
+  ],
+  "resistances": [
+    {
+      "type": "Metal",
+      "value": "-20"
+    }
+  ],
+  "retreat": 1,
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-08-15T22:53:34+01:00",
+  "thirdParty": {
+    "cardmarket": 281379,
+    "tcgplayer": 88106
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.795Z",
+      "unit": "EUR",
+      "idProduct": 281379,
+      "avg": 7.68,
+      "low": 0.1,
+      "trend": 3.05,
+      "avg1": 16.33,
+      "avg7": 6.05,
+      "avg30": 7.52,
+      "avg-holo": 13.15,
+      "low-holo": 5,
+      "trend-holo": 16.56,
+      "avg1-holo": 10,
+      "avg7-holo": 12.72,
+      "avg30-holo": 12.71
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:45.058Z",
+      "normal": {
+        "productId": 88106,
+        "lowPrice": 0.95,
+        "midPrice": 3.08,
+        "highPrice": 29.99,
+        "marketPrice": 3.15,
+        "directLowPrice": 2.59
+      },
+      "reverse-holofoil": {
+        "productId": 88106,
+        "lowPrice": 6.99,
+        "midPrice": 18.02,
+        "highPrice": 99.68,
+        "marketPrice": 14.81,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/xy1-42",
+  "_set_releaseDate": "2014-02-05",
+  "_set_name": "XY",
+  "_set_id": "xy1"
+}

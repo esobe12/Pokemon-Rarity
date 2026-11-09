@@ -1,0 +1,207 @@
+{
+  "category": "Pokemon",
+  "id": "swsh3-6",
+  "illustrator": "Mina Nakai",
+  "image": "https://assets.tcgdex.net/en/swsh/swsh3/6",
+  "localId": "6",
+  "name": "Pansage",
+  "rarity": "Common",
+  "set": {
+    "cardCount": {
+      "official": 189,
+      "total": 201
+    },
+    "id": "swsh3",
+    "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo",
+    "name": "Darkness Ablaze",
+    "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": true,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 482904,
+        "tcgplayer": 219074
+      },
+      "variantId": "endfynwn4n10gzq",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.824Z",
+          "unit": "EUR",
+          "idProduct": 482904,
+          "avg": 0.06,
+          "low": 0.02,
+          "trend": 0.05,
+          "avg1": 0.08,
+          "avg7": 0.03,
+          "avg30": 0.06,
+          "avg-holo": 0.13,
+          "low-holo": 0.04,
+          "trend-holo": 0.11,
+          "avg1-holo": 0.08,
+          "avg7-holo": 0.16,
+          "avg30-holo": 0.16
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:49.049Z",
+          "normal": {
+            "productId": 219074,
+            "lowPrice": 0.01,
+            "midPrice": 0.17,
+            "highPrice": 25.08,
+            "marketPrice": 0.09,
+            "directLowPrice": 0.01
+          },
+          "reverse-holofoil": {
+            "productId": 219074,
+            "lowPrice": 0.08,
+            "midPrice": 0.3,
+            "highPrice": 19.66,
+            "marketPrice": 0.31,
+            "directLowPrice": 0.19
+          }
+        }
+      }
+    },
+    {
+      "type": "reverse",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 482904,
+        "tcgplayer": 219074
+      },
+      "variantId": "cm4kqul3x1bwlz1f",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.824Z",
+          "unit": "EUR",
+          "idProduct": 482904,
+          "avg": 0.06,
+          "low": 0.02,
+          "trend": 0.05,
+          "avg1": 0.08,
+          "avg7": 0.03,
+          "avg30": 0.06,
+          "avg-holo": 0.13,
+          "low-holo": 0.04,
+          "trend-holo": 0.11,
+          "avg1-holo": 0.08,
+          "avg7-holo": 0.16,
+          "avg30-holo": 0.16
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:49.049Z",
+          "normal": {
+            "productId": 219074,
+            "lowPrice": 0.01,
+            "midPrice": 0.17,
+            "highPrice": 25.08,
+            "marketPrice": 0.09,
+            "directLowPrice": 0.01
+          },
+          "reverse-holofoil": {
+            "productId": 219074,
+            "lowPrice": 0.08,
+            "midPrice": 0.3,
+            "highPrice": 19.66,
+            "marketPrice": 0.31,
+            "directLowPrice": 0.19
+          }
+        }
+      }
+    }
+  ],
+  "dexId": [
+    511
+  ],
+  "hp": 60,
+  "types": [
+    "Grass"
+  ],
+  "description": "It's good at finding berries and gathers them from all over. It's kind enough to share them with friends.",
+  "stage": "Basic",
+  "attacks": [
+    {
+      "cost": [
+        "Grass"
+      ],
+      "name": "Seed Bomb",
+      "damage": 10
+    },
+    {
+      "cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Bite",
+      "damage": 20
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 1,
+  "regulationMark": "D",
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-10-19T09:46:55+01:00",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.824Z",
+      "unit": "EUR",
+      "idProduct": 482904,
+      "avg": 0.06,
+      "low": 0.02,
+      "trend": 0.05,
+      "avg1": 0.08,
+      "avg7": 0.03,
+      "avg30": 0.06,
+      "avg-holo": 0.13,
+      "low-holo": 0.04,
+      "trend-holo": 0.11,
+      "avg1-holo": 0.08,
+      "avg7-holo": 0.16,
+      "avg30-holo": 0.16
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:49.049Z",
+      "normal": {
+        "productId": 219074,
+        "lowPrice": 0.01,
+        "midPrice": 0.17,
+        "highPrice": 25.08,
+        "marketPrice": 0.09,
+        "directLowPrice": 0.01
+      },
+      "reverse-holofoil": {
+        "productId": 219074,
+        "lowPrice": 0.08,
+        "midPrice": 0.3,
+        "highPrice": 19.66,
+        "marketPrice": 0.31,
+        "directLowPrice": 0.19
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/swsh3-6",
+  "_set_releaseDate": "2020-08-14",
+  "_set_name": "Darkness Ablaze",
+  "_set_id": "swsh3"
+}

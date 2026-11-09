@@ -1,0 +1,129 @@
+{
+  "category": "Pokemon",
+  "id": "xy1-90",
+  "illustrator": "Kagemaru Himeno",
+  "image": "https://assets.tcgdex.net/en/xy/xy1/90",
+  "localId": "90",
+  "name": "Wigglytuff",
+  "rarity": "Rare",
+  "set": {
+    "cardCount": {
+      "official": 146,
+      "total": 146
+    },
+    "id": "xy1",
+    "logo": "https://assets.tcgdex.net/en/xy/xy1/logo",
+    "name": "XY",
+    "symbol": "https://assets.tcgdex.net/univ/xy/xy1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "variantId": "generated"
+    }
+  ],
+  "dexId": [
+    40
+  ],
+  "hp": 100,
+  "types": [
+    "Fairy"
+  ],
+  "evolveFrom": "Jigglypuff",
+  "description": "Their fur feels so good that if two of them snuggle together, they won't want to be separated.",
+  "stage": "Stage1",
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Balloon Barrage",
+      "effect": "This attack does 20 damage times the amount of Energy attached to this Pok\u00e9mon.",
+      "damage": "20\u00d7"
+    },
+    {
+      "cost": [
+        "Fairy",
+        "Fairy",
+        "Colorless"
+      ],
+      "name": "Double-Edge",
+      "effect": "This Pok\u00e9mon does 10 damage to itself.",
+      "damage": 90
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Metal",
+      "value": "\u00d72"
+    }
+  ],
+  "resistances": [
+    {
+      "type": "Darkness",
+      "value": "-20"
+    }
+  ],
+  "retreat": 2,
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-08-15T22:53:34+01:00",
+  "thirdParty": {
+    "cardmarket": 281426,
+    "tcgplayer": 90602
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.808Z",
+      "unit": "EUR",
+      "idProduct": 281426,
+      "avg": 2.58,
+      "low": 0.28,
+      "trend": 2.81,
+      "avg1": 1.39,
+      "avg7": 1.98,
+      "avg30": 2.24,
+      "avg-holo": 3.82,
+      "low-holo": 0.45,
+      "trend-holo": 6.57,
+      "avg1-holo": 7.5,
+      "avg7-holo": 5.43,
+      "avg30-holo": 3.68
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:45.058Z",
+      "normal": {
+        "productId": 90602,
+        "lowPrice": 0.4,
+        "midPrice": 1.78,
+        "highPrice": 27.88,
+        "marketPrice": 1.64,
+        "directLowPrice": null
+      },
+      "reverse-holofoil": {
+        "productId": 90602,
+        "lowPrice": 2.5,
+        "midPrice": 4.32,
+        "highPrice": 95.54,
+        "marketPrice": 4.19,
+        "directLowPrice": 95.54
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/xy1-90",
+  "_set_releaseDate": "2014-02-05",
+  "_set_name": "XY",
+  "_set_id": "xy1"
+}

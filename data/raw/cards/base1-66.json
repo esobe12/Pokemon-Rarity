@@ -1,0 +1,215 @@
+{
+  "category": "Pokemon",
+  "id": "base1-66",
+  "illustrator": "Mitsuhiro Arita",
+  "image": "https://assets.tcgdex.net/en/base/base1/66",
+  "localId": "66",
+  "name": "Tangela",
+  "rarity": "Common",
+  "set": {
+    "cardCount": {
+      "official": 102,
+      "total": 102
+    },
+    "id": "base1",
+    "logo": "https://assets.tcgdex.net/en/base/base1/logo",
+    "name": "Base Set"
+  },
+  "variants": {
+    "firstEdition": true,
+    "holo": false,
+    "normal": true,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "subtype": "unlimited",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 273761,
+        "tcgplayer": 42411
+      },
+      "variantId": "3a83wf50tz7q114spsx7dw6v5",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.824Z",
+          "unit": "EUR",
+          "idProduct": 273761,
+          "avg": 1.13,
+          "low": 0.02,
+          "trend": 0.65,
+          "avg1": 0.63,
+          "avg7": 0.73,
+          "avg30": 0.94,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0.05,
+          "avg1-holo": 0.05,
+          "avg7-holo": 0.05,
+          "avg30-holo": 0.05
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:37.264Z",
+          "normal": {
+            "productId": 42411,
+            "lowPrice": 0.24,
+            "midPrice": 0.73,
+            "highPrice": 15.56,
+            "marketPrice": 0.88,
+            "directLowPrice": 1.12
+          }
+        }
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "shadowless",
+      "size": "standard",
+      "stamp": [
+        "1st-edition"
+      ],
+      "thirdParty": {
+        "tcgplayer": 107063,
+        "cardmarket": 660161
+      },
+      "variantId": "gx8bq2hefwadd3utcibq3oc56sjf4jqdz709e",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.824Z",
+          "unit": "EUR",
+          "idProduct": 660161,
+          "avg": 17.27,
+          "low": 0.99,
+          "trend": 5.6,
+          "avg1": 2.84,
+          "avg7": 18.42,
+          "avg30": 24.3,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "shadowless",
+      "size": "standard",
+      "thirdParty": {
+        "tcgplayer": 107063,
+        "cardmarket": 660161
+      },
+      "variantId": "2tszcx1bpt4e79y5us0p570b9n",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.824Z",
+          "unit": "EUR",
+          "idProduct": 660161,
+          "avg": 17.27,
+          "low": 0.99,
+          "trend": 5.6,
+          "avg1": 2.84,
+          "avg7": 18.42,
+          "avg30": 24.3,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "1999-2000-copyright",
+      "size": "standard",
+      "variantId": "qi4g3e7tzbkcyhfflvx7zmvunxwjcq3pvp"
+    }
+  ],
+  "dexId": [
+    114
+  ],
+  "hp": 50,
+  "types": [
+    "Grass"
+  ],
+  "description": "Its whole body is swathed with wide vines that are similar to seaweed. These vines shake as it walks.",
+  "stage": "Basic",
+  "attacks": [
+    {
+      "cost": [
+        "Grass",
+        "Colorless"
+      ],
+      "name": "Bind",
+      "effect": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed.",
+      "damage": 20
+    },
+    {
+      "cost": [
+        "Grass",
+        "Grass",
+        "Grass"
+      ],
+      "name": "Poisonpowder",
+      "effect": "The Defending Pok\u00e9mon is now Poisoned.",
+      "damage": 20
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 2,
+  "legal": {
+    "standard": false,
+    "expanded": false
+  },
+  "updated": "2026-08-20T08:25:49+01:00",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.824Z",
+      "unit": "EUR",
+      "idProduct": 273761,
+      "avg": 1.13,
+      "low": 0.02,
+      "trend": 0.65,
+      "avg1": 0.63,
+      "avg7": 0.73,
+      "avg30": 0.94,
+      "avg-holo": null,
+      "low-holo": null,
+      "trend-holo": 0.05,
+      "avg1-holo": 0.05,
+      "avg7-holo": 0.05,
+      "avg30-holo": 0.05
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:37.264Z",
+      "normal": {
+        "productId": 42411,
+        "lowPrice": 0.24,
+        "midPrice": 0.73,
+        "highPrice": 15.56,
+        "marketPrice": 0.88,
+        "directLowPrice": 1.12
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/base1-66",
+  "_set_releaseDate": "1999-01-09",
+  "_set_name": "Base Set",
+  "_set_id": "base1"
+}

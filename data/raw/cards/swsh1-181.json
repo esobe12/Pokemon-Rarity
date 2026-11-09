@@ -1,0 +1,97 @@
+{
+  "category": "Trainer",
+  "id": "swsh1-181",
+  "illustrator": "5ban Graphics",
+  "image": "https://assets.tcgdex.net/en/swsh/swsh1/181",
+  "localId": "181",
+  "name": "Rotom Bike",
+  "rarity": "Uncommon",
+  "set": {
+    "cardCount": {
+      "official": 202,
+      "total": 216
+    },
+    "id": "swsh1",
+    "logo": "https://assets.tcgdex.net/en/swsh/swsh1/logo",
+    "name": "Sword & Shield",
+    "symbol": "https://assets.tcgdex.net/univ/swsh/swsh1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": true,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "variantId": "generated"
+    },
+    {
+      "type": "reverse",
+      "size": "standard",
+      "variantId": "generated"
+    }
+  ],
+  "cameoDexIds": [
+    479
+  ],
+  "effect": "Draw cards until you have 6 cards in your hand. Your turn ends.",
+  "trainerType": "Item",
+  "regulationMark": "D",
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-09-06T11:00:03+01:00",
+  "thirdParty": {
+    "cardmarket": 436999,
+    "tcgplayer": 208514
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.790Z",
+      "unit": "EUR",
+      "idProduct": 436999,
+      "avg": 0.06,
+      "low": 0.02,
+      "trend": 0.07,
+      "avg1": 0.07,
+      "avg7": 0.06,
+      "avg30": 0.08,
+      "avg-holo": 0.21,
+      "low-holo": 0.03,
+      "trend-holo": 0.25,
+      "avg1-holo": 0.05,
+      "avg7-holo": 0.22,
+      "avg30-holo": 0.24
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:48.878Z",
+      "reverse-holofoil": {
+        "productId": 208514,
+        "lowPrice": 0.01,
+        "midPrice": 0.34,
+        "highPrice": 19.66,
+        "marketPrice": 0.35,
+        "directLowPrice": 0.24
+      },
+      "normal": {
+        "productId": 208514,
+        "lowPrice": 0.03,
+        "midPrice": 0.2,
+        "highPrice": 2,
+        "marketPrice": 0.17,
+        "directLowPrice": 0.06
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/swsh1-181",
+  "_set_releaseDate": "2020-02-07",
+  "_set_name": "Sword & Shield",
+  "_set_id": "swsh1"
+}

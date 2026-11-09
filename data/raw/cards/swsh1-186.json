@@ -1,0 +1,93 @@
+{
+  "category": "Energy",
+  "id": "swsh1-186",
+  "image": "https://assets.tcgdex.net/en/swsh/swsh1/186",
+  "localId": "186",
+  "name": "Aurora Energy",
+  "rarity": "Uncommon",
+  "set": {
+    "cardCount": {
+      "official": 202,
+      "total": 216
+    },
+    "id": "swsh1",
+    "logo": "https://assets.tcgdex.net/en/swsh/swsh1/logo",
+    "name": "Sword & Shield",
+    "symbol": "https://assets.tcgdex.net/univ/swsh/swsh1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": true,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "variantId": "generated"
+    },
+    {
+      "type": "reverse",
+      "size": "standard",
+      "variantId": "generated"
+    }
+  ],
+  "effect": "You can attach this card to 1 of your Pok\u00e9mon only if you discard another card from your hand.\n\nAs long as this card is attached to a Pok\u00e9mon, it provides every type of Energy but provides only 1 Energy at a time.",
+  "energyType": "Special",
+  "regulationMark": "D",
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-08-16T22:12:40+01:00",
+  "thirdParty": {
+    "cardmarket": 437024,
+    "tcgplayer": 208521
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.808Z",
+      "unit": "EUR",
+      "idProduct": 437024,
+      "avg": 0.31,
+      "low": 0.02,
+      "trend": 0.12,
+      "avg1": 0.4,
+      "avg7": 0.3,
+      "avg30": 0.34,
+      "avg-holo": 0.91,
+      "low-holo": 0.19,
+      "trend-holo": 0.95,
+      "avg1-holo": 0.28,
+      "avg7-holo": 0.89,
+      "avg30-holo": 0.79
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:48.878Z",
+      "normal": {
+        "productId": 208521,
+        "lowPrice": 0.04,
+        "midPrice": 0.26,
+        "highPrice": 17.82,
+        "marketPrice": 0.25,
+        "directLowPrice": 0.18
+      },
+      "reverse-holofoil": {
+        "productId": 208521,
+        "lowPrice": 0.2,
+        "midPrice": 0.53,
+        "highPrice": 17.12,
+        "marketPrice": 0.54,
+        "directLowPrice": 0.29
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/swsh1-186",
+  "_set_releaseDate": "2020-02-07",
+  "_set_name": "Sword & Shield",
+  "_set_id": "swsh1"
+}

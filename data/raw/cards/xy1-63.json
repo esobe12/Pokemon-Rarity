@@ -1,0 +1,120 @@
+{
+  "category": "Pokemon",
+  "id": "xy1-63",
+  "illustrator": "kawayoo",
+  "image": "https://assets.tcgdex.net/en/xy/xy1/63",
+  "localId": "63",
+  "name": "Lunatone",
+  "rarity": "Uncommon",
+  "set": {
+    "cardCount": {
+      "official": 146,
+      "total": 146
+    },
+    "id": "xy1",
+    "logo": "https://assets.tcgdex.net/en/xy/xy1/logo",
+    "name": "XY",
+    "symbol": "https://assets.tcgdex.net/univ/xy/xy1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "variantId": "generated"
+    }
+  ],
+  "dexId": [
+    337
+  ],
+  "hp": 80,
+  "types": [
+    "Fighting"
+  ],
+  "description": "Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.",
+  "stage": "Basic",
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Double Draw",
+      "effect": "Draw 2 cards."
+    },
+    {
+      "cost": [
+        "Fighting",
+        "Colorless"
+      ],
+      "name": "Moonblast",
+      "effect": "During your opponent's next turn, any damage done by attacks from the Defending Pok\u00e9mon is reduced by 20 (before applying Weakness and Resistance).",
+      "damage": 20
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 1,
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-08-15T22:53:34+01:00",
+  "thirdParty": {
+    "cardmarket": 281400,
+    "tcgplayer": 86930
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.808Z",
+      "unit": "EUR",
+      "idProduct": 281400,
+      "avg": 0.2,
+      "low": 0.02,
+      "trend": 0.2,
+      "avg1": 0.15,
+      "avg7": 0.23,
+      "avg30": 0.22,
+      "avg-holo": 0.73,
+      "low-holo": 0.05,
+      "trend-holo": 0.67,
+      "avg1-holo": 0.99,
+      "avg7-holo": 0.67,
+      "avg30-holo": 0.71
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:45.058Z",
+      "normal": {
+        "productId": 86930,
+        "lowPrice": 0.1,
+        "midPrice": 0.27,
+        "highPrice": 14.99,
+        "marketPrice": 0.27,
+        "directLowPrice": 0.1
+      },
+      "reverse-holofoil": {
+        "productId": 86930,
+        "lowPrice": 0.2,
+        "midPrice": 0.66,
+        "highPrice": 23.49,
+        "marketPrice": 0.63,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/xy1-63",
+  "_set_releaseDate": "2014-02-05",
+  "_set_name": "XY",
+  "_set_id": "xy1"
+}

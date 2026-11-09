@@ -1,0 +1,120 @@
+{
+  "category": "Pokemon",
+  "id": "xy1-41",
+  "illustrator": "5ban Graphics",
+  "image": "https://assets.tcgdex.net/en/xy/xy1/41",
+  "localId": "41",
+  "name": "Greninja",
+  "rarity": "Rare",
+  "set": {
+    "cardCount": {
+      "official": 146,
+      "total": 146
+    },
+    "id": "xy1",
+    "logo": "https://assets.tcgdex.net/en/xy/xy1/logo",
+    "name": "XY",
+    "symbol": "https://assets.tcgdex.net/univ/xy/xy1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "variantId": "generated"
+    }
+  ],
+  "dexId": [
+    658
+  ],
+  "hp": 130,
+  "types": [
+    "Water"
+  ],
+  "evolveFrom": "Frogadier",
+  "description": "It creates throwing stars out of compressed water. When it spins them and throws them at high speed, these stars can split metal in two.",
+  "stage": "Stage2",
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Water Shuriken",
+      "effect": "Once during your turn (before your attack), you may discard a Water Energy card from your hand. If you do, put 3 damage counters on 1 of your opponent's Pok\u00e9mon."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Water"
+      ],
+      "name": "Mist Slash",
+      "effect": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on your opponent's Active Pok\u00e9mon.",
+      "damage": 50
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 1,
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-08-15T22:53:34+01:00",
+  "thirdParty": {
+    "cardmarket": 281378,
+    "tcgplayer": 85902
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.808Z",
+      "unit": "EUR",
+      "idProduct": 281378,
+      "avg": 6.86,
+      "low": 0.5,
+      "trend": 7.89,
+      "avg1": 6,
+      "avg7": 7.79,
+      "avg30": 6.55,
+      "avg-holo": 8.6,
+      "low-holo": 1.99,
+      "trend-holo": 8.28,
+      "avg1-holo": 14.99,
+      "avg7-holo": 8.68,
+      "avg30-holo": 5.96
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:45.058Z",
+      "holofoil": {
+        "productId": 85902,
+        "lowPrice": 4.49,
+        "midPrice": 7.49,
+        "highPrice": 99.99,
+        "marketPrice": 12.48,
+        "directLowPrice": 7.17
+      },
+      "reverse-holofoil": {
+        "productId": 85902,
+        "lowPrice": 6,
+        "midPrice": 12.75,
+        "highPrice": 118.67,
+        "marketPrice": 12.67,
+        "directLowPrice": 17.97
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/xy1-41",
+  "_set_releaseDate": "2014-02-05",
+  "_set_name": "XY",
+  "_set_id": "xy1"
+}

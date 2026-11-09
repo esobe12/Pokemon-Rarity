@@ -1,0 +1,208 @@
+{
+  "category": "Pokemon",
+  "id": "swsh3-100",
+  "illustrator": "Ryota Murayama",
+  "image": "https://assets.tcgdex.net/en/swsh/swsh3/100",
+  "localId": "100",
+  "name": "Grimer",
+  "rarity": "Common",
+  "set": {
+    "cardCount": {
+      "official": 189,
+      "total": 201
+    },
+    "id": "swsh3",
+    "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo",
+    "name": "Darkness Ablaze",
+    "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": true,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 483379,
+        "tcgplayer": 219401
+      },
+      "variantId": "endfynwn4n10gzq",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.824Z",
+          "unit": "EUR",
+          "idProduct": 483379,
+          "avg": 0.07,
+          "low": 0.02,
+          "trend": 0.04,
+          "avg1": 0.05,
+          "avg7": 0.04,
+          "avg30": 0.06,
+          "avg-holo": 0.2,
+          "low-holo": 0.02,
+          "trend-holo": 0.29,
+          "avg1-holo": 0.5,
+          "avg7-holo": 0.24,
+          "avg30-holo": 0.24
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:49.049Z",
+          "normal": {
+            "productId": 219401,
+            "lowPrice": 0.01,
+            "midPrice": 0.16,
+            "highPrice": 25.11,
+            "marketPrice": 0.11,
+            "directLowPrice": 0.03
+          },
+          "reverse-holofoil": {
+            "productId": 219401,
+            "lowPrice": 0.1,
+            "midPrice": 0.35,
+            "highPrice": 2,
+            "marketPrice": 0.35,
+            "directLowPrice": 0.25
+          }
+        }
+      }
+    },
+    {
+      "type": "reverse",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 483379,
+        "tcgplayer": 219401
+      },
+      "variantId": "cm4kqul3x1bwlz1f",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.824Z",
+          "unit": "EUR",
+          "idProduct": 483379,
+          "avg": 0.07,
+          "low": 0.02,
+          "trend": 0.04,
+          "avg1": 0.05,
+          "avg7": 0.04,
+          "avg30": 0.06,
+          "avg-holo": 0.2,
+          "low-holo": 0.02,
+          "trend-holo": 0.29,
+          "avg1-holo": 0.5,
+          "avg7-holo": 0.24,
+          "avg30-holo": 0.24
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:49.049Z",
+          "normal": {
+            "productId": 219401,
+            "lowPrice": 0.01,
+            "midPrice": 0.16,
+            "highPrice": 25.11,
+            "marketPrice": 0.11,
+            "directLowPrice": 0.03
+          },
+          "reverse-holofoil": {
+            "productId": 219401,
+            "lowPrice": 0.1,
+            "midPrice": 0.35,
+            "highPrice": 2,
+            "marketPrice": 0.35,
+            "directLowPrice": 0.25
+          }
+        }
+      }
+    }
+  ],
+  "dexId": [
+    88
+  ],
+  "hp": 80,
+  "types": [
+    "Darkness"
+  ],
+  "description": "The wastewater coming from factories is clean these days, so Grimer have nothing to eat. They're said to be on the verge of extinction.",
+  "stage": "Basic",
+  "attacks": [
+    {
+      "cost": [
+        "Darkness"
+      ],
+      "name": "Stomp Off",
+      "effect": "Discard the top card of your opponent's deck."
+    },
+    {
+      "cost": [
+        "Darkness",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Sludge Whirlpool",
+      "damage": 50
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 3,
+  "regulationMark": "D",
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-10-19T09:46:55+01:00",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.824Z",
+      "unit": "EUR",
+      "idProduct": 483379,
+      "avg": 0.07,
+      "low": 0.02,
+      "trend": 0.04,
+      "avg1": 0.05,
+      "avg7": 0.04,
+      "avg30": 0.06,
+      "avg-holo": 0.2,
+      "low-holo": 0.02,
+      "trend-holo": 0.29,
+      "avg1-holo": 0.5,
+      "avg7-holo": 0.24,
+      "avg30-holo": 0.24
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:49.049Z",
+      "normal": {
+        "productId": 219401,
+        "lowPrice": 0.01,
+        "midPrice": 0.16,
+        "highPrice": 25.11,
+        "marketPrice": 0.11,
+        "directLowPrice": 0.03
+      },
+      "reverse-holofoil": {
+        "productId": 219401,
+        "lowPrice": 0.1,
+        "midPrice": 0.35,
+        "highPrice": 2,
+        "marketPrice": 0.35,
+        "directLowPrice": 0.25
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/swsh3-100",
+  "_set_releaseDate": "2020-08-14",
+  "_set_name": "Darkness Ablaze",
+  "_set_id": "swsh3"
+}

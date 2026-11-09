@@ -1,0 +1,119 @@
+{
+  "category": "Pokemon",
+  "id": "sm1-47",
+  "illustrator": "You Iribi",
+  "image": "https://assets.tcgdex.net/en/sm/sm1/47",
+  "localId": "47",
+  "name": "Pyukumuku",
+  "rarity": "Uncommon",
+  "set": {
+    "cardCount": {
+      "official": 149,
+      "total": 172
+    },
+    "id": "sm1",
+    "logo": "https://assets.tcgdex.net/en/sm/sm1/logo",
+    "name": "Sun & Moon",
+    "symbol": "https://assets.tcgdex.net/univ/sm/sm1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "variantId": "generated"
+    }
+  ],
+  "dexId": [
+    771
+  ],
+  "hp": 60,
+  "types": [
+    "Water"
+  ],
+  "description": "It lives in shallow seas, such as areas near a beach. It can eject its internal organs, which it uses to engulf its prey or battle enemies.",
+  "stage": "Basic",
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Innards Out",
+      "effect": "If this Pok\u00e9mon is your Active Pok\u00e9mon and is Knocked Out by damage from an opponent\u2019s attack, put 6 damage counters on the Attacking Pok\u00e9mon."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Water"
+      ],
+      "name": "Continuous Tumble",
+      "effect": "Flip a coin until you get tails. This attack does 30 damage for each heads.",
+      "damage": "30\u00d7"
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 1,
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-08-16T21:23:08+01:00",
+  "thirdParty": {
+    "cardmarket": 295358,
+    "tcgplayer": 126918
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.808Z",
+      "unit": "EUR",
+      "idProduct": 295358,
+      "avg": 0.14,
+      "low": 0.02,
+      "trend": 0.16,
+      "avg1": 0.08,
+      "avg7": 0.17,
+      "avg30": 0.13,
+      "avg-holo": 0.36,
+      "low-holo": 0.03,
+      "trend-holo": 0.54,
+      "avg1-holo": 0.74,
+      "avg7-holo": 0.46,
+      "avg30-holo": 0.43
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:47.014Z",
+      "normal": {
+        "productId": 126918,
+        "lowPrice": 0.02,
+        "midPrice": 0.25,
+        "highPrice": 19.66,
+        "marketPrice": 0.25,
+        "directLowPrice": 0.19
+      },
+      "reverse-holofoil": {
+        "productId": 126918,
+        "lowPrice": 0.19,
+        "midPrice": 0.42,
+        "highPrice": 13.6,
+        "marketPrice": 0.41,
+        "directLowPrice": 0.4
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/sm1-47",
+  "_set_releaseDate": "2017-02-03",
+  "_set_name": "Sun & Moon",
+  "_set_id": "sm1"
+}

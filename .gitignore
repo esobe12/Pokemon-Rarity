@@ -13,8 +13,7 @@ venv/
 .idea/
 .vscode/
 
-# Large or sensitive local data (document public sources in data/README.md)
-data/raw/
+# Local-only / sensitive paths (document public sources in data/README.md)
 data/private/
 *.csv.bak
 

@@ -1,0 +1,120 @@
+{
+  "category": "Pokemon",
+  "id": "sm1-73",
+  "illustrator": "Naoki Saito",
+  "image": "https://assets.tcgdex.net/en/sm/sm1/73",
+  "localId": "73",
+  "name": "Passimian",
+  "rarity": "Uncommon",
+  "set": {
+    "cardCount": {
+      "official": 149,
+      "total": 172
+    },
+    "id": "sm1",
+    "logo": "https://assets.tcgdex.net/en/sm/sm1/logo",
+    "name": "Sun & Moon",
+    "symbol": "https://assets.tcgdex.net/univ/sm/sm1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "variantId": "generated"
+    }
+  ],
+  "dexId": [
+    766
+  ],
+  "hp": 110,
+  "types": [
+    "Fighting"
+  ],
+  "description": "They form groups of roughly 20 individuals. Their mutual bond is remarkable\u2014they will never let down a comrade.",
+  "stage": "Basic",
+  "attacks": [
+    {
+      "cost": [
+        "Fighting"
+      ],
+      "name": "Fling",
+      "effect": "This attack does 30 damage to 1 of your opponent\u2019s Benched Pok\u00e9mon. (Don\u2019t apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+    },
+    {
+      "cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Team Play",
+      "effect": "This attack does 30 more damage for each of your Benched Passimian.",
+      "damage": "10+"
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psychic",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 1,
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-08-16T21:23:08+01:00",
+  "thirdParty": {
+    "cardmarket": 295384,
+    "tcgplayer": 126945
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.802Z",
+      "unit": "EUR",
+      "idProduct": 295384,
+      "avg": 0.05,
+      "low": 0.02,
+      "trend": 0.03,
+      "avg1": 0.05,
+      "avg7": 0.04,
+      "avg30": 0.08,
+      "avg-holo": 0.25,
+      "low-holo": 0.02,
+      "trend-holo": 0.37,
+      "avg1-holo": 0.28,
+      "avg7-holo": 0.26,
+      "avg30-holo": 0.31
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:47.014Z",
+      "normal": {
+        "productId": 126945,
+        "lowPrice": 0.01,
+        "midPrice": 0.2,
+        "highPrice": 19.66,
+        "marketPrice": 0.15,
+        "directLowPrice": 0.09
+      },
+      "reverse-holofoil": {
+        "productId": 126945,
+        "lowPrice": 0.08,
+        "midPrice": 0.35,
+        "highPrice": 19.66,
+        "marketPrice": 0.35,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/sm1-73",
+  "_set_releaseDate": "2017-02-03",
+  "_set_name": "Sun & Moon",
+  "_set_id": "sm1"
+}

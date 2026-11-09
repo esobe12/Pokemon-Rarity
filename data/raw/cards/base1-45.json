@@ -1,0 +1,204 @@
+{
+  "category": "Pokemon",
+  "id": "base1-45",
+  "illustrator": "Ken Sugimori",
+  "image": "https://assets.tcgdex.net/en/base/base1/45",
+  "localId": "45",
+  "name": "Caterpie",
+  "rarity": "Common",
+  "set": {
+    "cardCount": {
+      "official": 102,
+      "total": 102
+    },
+    "id": "base1",
+    "logo": "https://assets.tcgdex.net/en/base/base1/logo",
+    "name": "Base Set"
+  },
+  "variants": {
+    "firstEdition": true,
+    "holo": false,
+    "normal": true,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "subtype": "unlimited",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 273740,
+        "tcgplayer": 42388
+      },
+      "variantId": "3a83wf50tz7q114spsx7dw6v5",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.824Z",
+          "unit": "EUR",
+          "idProduct": 273740,
+          "avg": 2.45,
+          "low": 0.02,
+          "trend": 1.84,
+          "avg1": 0.88,
+          "avg7": 1.13,
+          "avg30": 1.83,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0.35,
+          "avg1-holo": 0.35,
+          "avg7-holo": 0.32,
+          "avg30-holo": 0.32
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:37.264Z",
+          "normal": {
+            "productId": 42388,
+            "lowPrice": 0.25,
+            "midPrice": 0.86,
+            "highPrice": 40,
+            "marketPrice": 1.5,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "shadowless",
+      "size": "standard",
+      "stamp": [
+        "1st-edition"
+      ],
+      "thirdParty": {
+        "tcgplayer": 107042,
+        "cardmarket": 660183
+      },
+      "variantId": "gx8bq2hefwadd3utcibq3oc56sjf4jqdz709e",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.824Z",
+          "unit": "EUR",
+          "idProduct": 660183,
+          "avg": 22.12,
+          "low": 1,
+          "trend": 29.49,
+          "avg1": 40,
+          "avg7": 37.96,
+          "avg30": 15.32,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "shadowless",
+      "size": "standard",
+      "thirdParty": {
+        "tcgplayer": 107042,
+        "cardmarket": 660183
+      },
+      "variantId": "2tszcx1bpt4e79y5us0p570b9n",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.824Z",
+          "unit": "EUR",
+          "idProduct": 660183,
+          "avg": 22.12,
+          "low": 1,
+          "trend": 29.49,
+          "avg1": 40,
+          "avg7": 37.96,
+          "avg30": 15.32,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "1999-2000-copyright",
+      "size": "standard",
+      "variantId": "qi4g3e7tzbkcyhfflvx7zmvunxwjcq3pvp"
+    }
+  ],
+  "dexId": [
+    10
+  ],
+  "hp": 40,
+  "types": [
+    "Grass"
+  ],
+  "description": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+  "stage": "Basic",
+  "attacks": [
+    {
+      "cost": [
+        "Grass"
+      ],
+      "name": "String Shot",
+      "effect": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed.",
+      "damage": 10
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 1,
+  "legal": {
+    "standard": false,
+    "expanded": false
+  },
+  "updated": "2026-08-20T08:25:49+01:00",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.824Z",
+      "unit": "EUR",
+      "idProduct": 273740,
+      "avg": 2.45,
+      "low": 0.02,
+      "trend": 1.84,
+      "avg1": 0.88,
+      "avg7": 1.13,
+      "avg30": 1.83,
+      "avg-holo": null,
+      "low-holo": null,
+      "trend-holo": 0.35,
+      "avg1-holo": 0.35,
+      "avg7-holo": 0.32,
+      "avg30-holo": 0.32
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:37.264Z",
+      "normal": {
+        "productId": 42388,
+        "lowPrice": 0.25,
+        "midPrice": 0.86,
+        "highPrice": 40,
+        "marketPrice": 1.5,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/base1-45",
+  "_set_releaseDate": "1999-01-09",
+  "_set_name": "Base Set",
+  "_set_id": "base1"
+}

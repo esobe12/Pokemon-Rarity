@@ -1,0 +1,147 @@
+{
+  "category": "Pokemon",
+  "id": "dp1-80",
+  "illustrator": "Atsuko Nishida",
+  "image": "https://assets.tcgdex.net/en/dp/dp1/80",
+  "localId": "80",
+  "name": "Duskull",
+  "rarity": "Common",
+  "set": {
+    "cardCount": {
+      "official": 130,
+      "total": 130
+    },
+    "id": "dp1",
+    "logo": "https://assets.tcgdex.net/en/dp/dp1/logo",
+    "name": "Diamond & Pearl",
+    "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": true,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "variantId": "endfynwn4n10gzq"
+    },
+    {
+      "type": "reverse",
+      "size": "standard",
+      "variantId": "cm4kqul3x1bwlz1f"
+    },
+    {
+      "type": "normal",
+      "size": "standard",
+      "stamp": [
+        "jason-klaczynski"
+      ],
+      "variantId": "15i9grynjdt9xzyp8rff4yu9k4bq4tcd"
+    },
+    {
+      "type": "normal",
+      "size": "standard",
+      "stamp": [
+        "dylan-lefavour"
+      ],
+      "variantId": "1jz5lzkp5f14pjma1j7yloucv1lb8x"
+    }
+  ],
+  "dexId": [
+    355
+  ],
+  "hp": 50,
+  "types": [
+    "Psychic"
+  ],
+  "description": "It doggedly pursues its prey wherever it goes. However, the chase is abandoned at sunrise.",
+  "stage": "Basic",
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Disable",
+      "effect": "Flip a coin. If heads, choose 1 of the Defending Pok\u00e9mon's attacks. That Pok\u00e9mon can't use that attack during your opponent's next turn."
+    },
+    {
+      "cost": [
+        "Psychic",
+        "Colorless"
+      ],
+      "name": "Night Shade",
+      "effect": "Does 10 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)",
+      "damage": 20
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+10"
+    }
+  ],
+  "resistances": [
+    {
+      "type": "Colorless",
+      "value": "-20"
+    }
+  ],
+  "retreat": 1,
+  "legal": {
+    "standard": false,
+    "expanded": false
+  },
+  "updated": "2026-08-19T20:52:03Z",
+  "thirdParty": {
+    "cardmarket": 277579,
+    "tcgplayer": 85050
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.803Z",
+      "unit": "EUR",
+      "idProduct": 277579,
+      "avg": 0.16,
+      "low": 0.02,
+      "trend": 0.19,
+      "avg1": 0.08,
+      "avg7": 0.15,
+      "avg30": 0.15,
+      "avg-holo": 2.29,
+      "low-holo": 0.25,
+      "trend-holo": 2.1,
+      "avg1-holo": 1.1,
+      "avg7-holo": 2.08,
+      "avg30-holo": 1.62
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:41.069Z",
+      "normal": {
+        "productId": 85050,
+        "lowPrice": 0.25,
+        "midPrice": 0.5,
+        "highPrice": 19.66,
+        "marketPrice": 0.52,
+        "directLowPrice": null
+      },
+      "reverse-holofoil": {
+        "productId": 85050,
+        "lowPrice": 4.15,
+        "midPrice": 8.83,
+        "highPrice": 62.19,
+        "marketPrice": 7,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/dp1-80",
+  "_set_releaseDate": "2007-05-01",
+  "_set_name": "Diamond & Pearl",
+  "_set_id": "dp1"
+}

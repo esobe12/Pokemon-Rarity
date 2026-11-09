@@ -1,0 +1,128 @@
+{
+  "category": "Pokemon",
+  "id": "swsh1-32",
+  "illustrator": "Mizue",
+  "image": "https://assets.tcgdex.net/en/swsh/swsh1/32",
+  "localId": "32",
+  "name": "Raboot",
+  "rarity": "Uncommon",
+  "set": {
+    "cardCount": {
+      "official": 202,
+      "total": 216
+    },
+    "id": "swsh1",
+    "logo": "https://assets.tcgdex.net/en/swsh/swsh1/logo",
+    "name": "Sword & Shield",
+    "symbol": "https://assets.tcgdex.net/univ/swsh/swsh1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": true,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "variantId": "generated"
+    },
+    {
+      "type": "reverse",
+      "size": "standard",
+      "variantId": "generated"
+    }
+  ],
+  "dexId": [
+    814
+  ],
+  "hp": 90,
+  "types": [
+    "Fire"
+  ],
+  "evolveFrom": "Scorbunny",
+  "description": "It kicks berries right off the branches of trees and then juggles them with its feet, practicing its footwork.",
+  "stage": "Stage1",
+  "attacks": [
+    {
+      "cost": [
+        "Fire"
+      ],
+      "name": "Flame Charge",
+      "effect": "Search your deck for a Fire Energy card and attach it to this Pok\u00e9mon. Then, shuffle your deck.",
+      "damage": 20
+    },
+    {
+      "cost": [
+        "Fire",
+        "Fire",
+        "Colorless"
+      ],
+      "name": "Magnum Kick",
+      "damage": 70
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Water",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 1,
+  "regulationMark": "D",
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-08-16T22:12:40+01:00",
+  "thirdParty": {
+    "cardmarket": 436319,
+    "tcgplayer": 208310
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.795Z",
+      "unit": "EUR",
+      "idProduct": 436319,
+      "avg": 0.08,
+      "low": 0.02,
+      "trend": 0.14,
+      "avg1": 0.03,
+      "avg7": 0.09,
+      "avg30": 0.07,
+      "avg-holo": 2.22,
+      "low-holo": 0.4,
+      "trend-holo": 1.24,
+      "avg1-holo": 1,
+      "avg7-holo": 1.39,
+      "avg30-holo": 1.13
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:48.878Z",
+      "reverse-holofoil": {
+        "productId": 208310,
+        "lowPrice": 0.44,
+        "midPrice": 0.7,
+        "highPrice": 19.66,
+        "marketPrice": 0.65,
+        "directLowPrice": null
+      },
+      "normal": {
+        "productId": 208310,
+        "lowPrice": 0.05,
+        "midPrice": 0.25,
+        "highPrice": 5.05,
+        "marketPrice": 0.22,
+        "directLowPrice": 0.13
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/swsh1-32",
+  "_set_releaseDate": "2020-02-07",
+  "_set_name": "Sword & Shield",
+  "_set_id": "swsh1"
+}

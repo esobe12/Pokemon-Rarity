@@ -1,0 +1,113 @@
+{
+  "category": "Pokemon",
+  "id": "dp1-122",
+  "illustrator": "Shizurow",
+  "image": "https://assets.tcgdex.net/en/dp/dp1/122",
+  "localId": "122",
+  "name": "Torterra",
+  "rarity": "Rare Holo LV.X",
+  "set": {
+    "cardCount": {
+      "official": 130,
+      "total": 130
+    },
+    "id": "dp1",
+    "logo": "https://assets.tcgdex.net/en/dp/dp1/logo",
+    "name": "Diamond & Pearl",
+    "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": true,
+    "normal": false,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "holo",
+      "size": "standard",
+      "variantId": "jr7oetx1mqug9"
+    }
+  ],
+  "dexId": [
+    389
+  ],
+  "hp": 160,
+  "types": [
+    "Grass"
+  ],
+  "stage": "LEVEL-UP",
+  "abilities": [
+    {
+      "type": "Poke-POWER",
+      "name": "Forest Murmurs",
+      "effect": "Once during your turn (before your attack), if you have more Prize cards left than your opponent, you may choose 1 of your opponent's Benched Pok\u00e9mon and switch it with 1 of the Defending Pok\u00e9mon. This power can't be used if Torterra is affected by a Special Condition."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Grass",
+        "Grass",
+        "Grass",
+        "Colorless"
+      ],
+      "name": "Vigorous Dash",
+      "effect": "Does 30 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.) Torterra does 30 damage to itself.",
+      "damage": 100
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+30"
+    }
+  ],
+  "retreat": 4,
+  "legal": {
+    "standard": false,
+    "expanded": false
+  },
+  "updated": "2026-08-15T23:30:13+01:00",
+  "thirdParty": {
+    "cardmarket": 277621,
+    "tcgplayer": 89989
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.803Z",
+      "unit": "EUR",
+      "idProduct": 277621,
+      "avg": 44.65,
+      "low": 4.99,
+      "trend": 24.1,
+      "avg1": 6.99,
+      "avg7": 15.59,
+      "avg30": 32.03,
+      "avg-holo": null,
+      "low-holo": null,
+      "trend-holo": 21.07,
+      "avg1-holo": 29.99,
+      "avg7-holo": 14.49,
+      "avg30-holo": 13.76
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:41.069Z",
+      "holofoil": {
+        "productId": 89989,
+        "lowPrice": 75,
+        "midPrice": 193.49,
+        "highPrice": 999.58,
+        "marketPrice": 130,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/dp1-122",
+  "_set_releaseDate": "2007-05-01",
+  "_set_name": "Diamond & Pearl",
+  "_set_id": "dp1"
+}

@@ -27,8 +27,9 @@
 - **394** rows retained after cleaning in [`data/processed/cards_clean.csv`](data/processed/cards_clean.csv) (dropped 6 with missing rarity, release date, or usable market price).
 - **25**-row sample in [`data/sample/cards_clean_sample.csv`](data/sample/cards_clean_sample.csv); field definitions in [`data/data_dictionary.md`](data/data_dictionary.md).
 
-**What is kept out of the repo and why:**
-- The full **`data/raw/`** dump (per-card JSON, combined `cards_raw.json`, set payloads, manifest) is **not** committed. It is larger than needed for review, can be regenerated with `python collect.py`, and republishing bulk API responses is unnecessary when the tidy table answers the project need. No seller/personal information is collected; only card catalog and market-price fields.
+**What is in / out of the repo:**
+- **In repo:** raw API responses under [`data/raw/`](data/raw/) (per-card JSON, `cards_raw.json`, set payloads, `manifest.json`), plus the cleaned table and sample. No seller or personal information is included—only card catalog and market-price fields.
+- **Out of repo:** nothing material from this snapshot; re-run `python collect.py` only if you want a newer price pull.
 
 ## Methods
 
@@ -44,7 +45,7 @@ Cleaning already implemented in `clean.py`: flatten nested price/variant JSON, d
 
 ```bash
 pip install -r requirements.txt
-python collect.py   # writes data/raw/ (local only)
+python collect.py   # writes data/raw/
 python clean.py     # writes data/processed/ and data/sample/
 jupyter notebook analysis.ipynb
 ```

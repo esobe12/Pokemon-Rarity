@@ -1,0 +1,209 @@
+{
+  "category": "Pokemon",
+  "id": "swsh3-57",
+  "illustrator": "kodama",
+  "image": "https://assets.tcgdex.net/en/swsh/swsh3/57",
+  "localId": "57",
+  "name": "Ampharos",
+  "rarity": "Rare",
+  "set": {
+    "cardCount": {
+      "official": 189,
+      "total": 201
+    },
+    "id": "swsh3",
+    "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo",
+    "name": "Darkness Ablaze",
+    "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": true,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 483159,
+        "tcgplayer": 219403
+      },
+      "variantId": "endfynwn4n10gzq",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.808Z",
+          "unit": "EUR",
+          "idProduct": 483159,
+          "avg": 0.32,
+          "low": 0.05,
+          "trend": 0.41,
+          "avg1": 0.16,
+          "avg7": 0.43,
+          "avg30": 0.3,
+          "avg-holo": 1.22,
+          "low-holo": 0.1,
+          "trend-holo": 0.95,
+          "avg1-holo": 0.1,
+          "avg7-holo": 1.22,
+          "avg30-holo": 1.02
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:49.049Z",
+          "normal": {
+            "productId": 219403,
+            "lowPrice": 0.1,
+            "midPrice": 0.29,
+            "highPrice": 20,
+            "marketPrice": 0.28,
+            "directLowPrice": 0.19
+          },
+          "reverse-holofoil": {
+            "productId": 219403,
+            "lowPrice": 0.38,
+            "midPrice": 0.6,
+            "highPrice": 19.66,
+            "marketPrice": 0.59,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    {
+      "type": "reverse",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 483159,
+        "tcgplayer": 219403
+      },
+      "variantId": "cm4kqul3x1bwlz1f",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.808Z",
+          "unit": "EUR",
+          "idProduct": 483159,
+          "avg": 0.32,
+          "low": 0.05,
+          "trend": 0.41,
+          "avg1": 0.16,
+          "avg7": 0.43,
+          "avg30": 0.3,
+          "avg-holo": 1.22,
+          "low-holo": 0.1,
+          "trend-holo": 0.95,
+          "avg1-holo": 0.1,
+          "avg7-holo": 1.22,
+          "avg30-holo": 1.02
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:49.049Z",
+          "normal": {
+            "productId": 219403,
+            "lowPrice": 0.1,
+            "midPrice": 0.29,
+            "highPrice": 20,
+            "marketPrice": 0.28,
+            "directLowPrice": 0.19
+          },
+          "reverse-holofoil": {
+            "productId": 219403,
+            "lowPrice": 0.38,
+            "midPrice": 0.6,
+            "highPrice": 19.66,
+            "marketPrice": 0.59,
+            "directLowPrice": null
+          }
+        }
+      }
+    }
+  ],
+  "dexId": [
+    181
+  ],
+  "hp": 150,
+  "types": [
+    "Lightning"
+  ],
+  "evolveFrom": "Flaaffy",
+  "description": "Its tail shines bright and strong. It has been prized since long ago as a beacon for sailors.",
+  "stage": "Stage2",
+  "attacks": [
+    {
+      "cost": [
+        "Lightning"
+      ],
+      "name": "Dazzle Blast",
+      "effect": "Your opponent's Active Pok\u00e9mon is now Confused.",
+      "damage": 50
+    },
+    {
+      "cost": [
+        "Lightning",
+        "Lightning"
+      ],
+      "name": "Electric Ball",
+      "damage": 130
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 2,
+  "regulationMark": "D",
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-10-19T09:46:55+01:00",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.808Z",
+      "unit": "EUR",
+      "idProduct": 483159,
+      "avg": 0.32,
+      "low": 0.05,
+      "trend": 0.41,
+      "avg1": 0.16,
+      "avg7": 0.43,
+      "avg30": 0.3,
+      "avg-holo": 1.22,
+      "low-holo": 0.1,
+      "trend-holo": 0.95,
+      "avg1-holo": 0.1,
+      "avg7-holo": 1.22,
+      "avg30-holo": 1.02
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:49.049Z",
+      "normal": {
+        "productId": 219403,
+        "lowPrice": 0.1,
+        "midPrice": 0.29,
+        "highPrice": 20,
+        "marketPrice": 0.28,
+        "directLowPrice": 0.19
+      },
+      "reverse-holofoil": {
+        "productId": 219403,
+        "lowPrice": 0.38,
+        "midPrice": 0.6,
+        "highPrice": 19.66,
+        "marketPrice": 0.59,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/swsh3-57",
+  "_set_releaseDate": "2020-08-14",
+  "_set_name": "Darkness Ablaze",
+  "_set_id": "swsh3"
+}

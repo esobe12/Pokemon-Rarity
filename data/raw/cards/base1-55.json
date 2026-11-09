@@ -1,0 +1,204 @@
+{
+  "category": "Pokemon",
+  "id": "base1-55",
+  "illustrator": "Ken Sugimori",
+  "image": "https://assets.tcgdex.net/en/base/base1/55",
+  "localId": "55",
+  "name": "Nidoran\u2642",
+  "rarity": "Common",
+  "set": {
+    "cardCount": {
+      "official": 102,
+      "total": 102
+    },
+    "id": "base1",
+    "logo": "https://assets.tcgdex.net/en/base/base1/logo",
+    "name": "Base Set"
+  },
+  "variants": {
+    "firstEdition": true,
+    "holo": false,
+    "normal": true,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "subtype": "unlimited",
+      "size": "standard",
+      "thirdParty": {
+        "tcgplayer": 42399,
+        "cardmarket": 273750
+      },
+      "variantId": "3a83wf50tz7q114spsx7dw6v5",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.816Z",
+          "unit": "EUR",
+          "idProduct": 273750,
+          "avg": 0.77,
+          "low": 0.02,
+          "trend": 1.35,
+          "avg1": 0.45,
+          "avg7": 1.28,
+          "avg30": 1.26,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 7.42,
+          "avg1-holo": 25,
+          "avg7-holo": 4.06,
+          "avg30-holo": 4.06
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:37.264Z",
+          "normal": {
+            "productId": 42399,
+            "lowPrice": 0.2,
+            "midPrice": 0.65,
+            "highPrice": 50,
+            "marketPrice": 0.92,
+            "directLowPrice": 1.27
+          }
+        }
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "shadowless",
+      "size": "standard",
+      "stamp": [
+        "1st-edition"
+      ],
+      "thirdParty": {
+        "tcgplayer": 107052,
+        "cardmarket": 660173
+      },
+      "variantId": "gx8bq2hefwadd3utcibq3oc56sjf4jqdz709e",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.816Z",
+          "unit": "EUR",
+          "idProduct": 660173,
+          "avg": 6.17,
+          "low": 1,
+          "trend": 8.43,
+          "avg1": 4.97,
+          "avg7": 3.71,
+          "avg30": 20.48,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "shadowless",
+      "size": "standard",
+      "thirdParty": {
+        "tcgplayer": 107052,
+        "cardmarket": 660173
+      },
+      "variantId": "2tszcx1bpt4e79y5us0p570b9n",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.816Z",
+          "unit": "EUR",
+          "idProduct": 660173,
+          "avg": 6.17,
+          "low": 1,
+          "trend": 8.43,
+          "avg1": 4.97,
+          "avg7": 3.71,
+          "avg30": 20.48,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "1999-2000-copyright",
+      "size": "standard",
+      "variantId": "qi4g3e7tzbkcyhfflvx7zmvunxwjcq3pvp"
+    }
+  ],
+  "dexId": [
+    32
+  ],
+  "hp": 40,
+  "types": [
+    "Grass"
+  ],
+  "description": "Stiffens its ears to sense danger. The larger, more powerful of its horns secretes venom.",
+  "stage": "Basic",
+  "attacks": [
+    {
+      "cost": [
+        "Grass"
+      ],
+      "name": "Horn Hazard",
+      "effect": "Flip a coin. If tails, this attack does nothing.",
+      "damage": 30
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Psychic",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 1,
+  "legal": {
+    "standard": false,
+    "expanded": false
+  },
+  "updated": "2026-08-20T08:25:49+01:00",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.816Z",
+      "unit": "EUR",
+      "idProduct": 273750,
+      "avg": 0.77,
+      "low": 0.02,
+      "trend": 1.35,
+      "avg1": 0.45,
+      "avg7": 1.28,
+      "avg30": 1.26,
+      "avg-holo": null,
+      "low-holo": null,
+      "trend-holo": 7.42,
+      "avg1-holo": 25,
+      "avg7-holo": 4.06,
+      "avg30-holo": 4.06
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:37.264Z",
+      "normal": {
+        "productId": 42399,
+        "lowPrice": 0.2,
+        "midPrice": 0.65,
+        "highPrice": 50,
+        "marketPrice": 0.92,
+        "directLowPrice": 1.27
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/base1-55",
+  "_set_releaseDate": "1999-01-09",
+  "_set_name": "Base Set",
+  "_set_id": "base1"
+}

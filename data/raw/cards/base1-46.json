@@ -1,0 +1,243 @@
+{
+  "category": "Pokemon",
+  "id": "base1-46",
+  "illustrator": "Mitsuhiro Arita",
+  "image": "https://assets.tcgdex.net/en/base/base1/46",
+  "localId": "46",
+  "name": "Charmander",
+  "rarity": "Common",
+  "set": {
+    "cardCount": {
+      "official": 102,
+      "total": 102
+    },
+    "id": "base1",
+    "logo": "https://assets.tcgdex.net/en/base/base1/logo",
+    "name": "Base Set"
+  },
+  "variants": {
+    "firstEdition": true,
+    "holo": false,
+    "normal": true,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "subtype": "unlimited",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 273741,
+        "tcgplayer": 42389
+      },
+      "variantId": "3a83wf50tz7q114spsx7dw6v5",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.803Z",
+          "unit": "EUR",
+          "idProduct": 273741,
+          "avg": 9.25,
+          "low": 0.02,
+          "trend": 2.41,
+          "avg1": 1.56,
+          "avg7": 3.71,
+          "avg30": 9.38,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 7.04,
+          "avg1-holo": 20,
+          "avg7-holo": 6.42,
+          "avg30-holo": 12.47
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:37.264Z",
+          "normal": {
+            "productId": 42389,
+            "lowPrice": 0.25,
+            "midPrice": 1.5,
+            "highPrice": 100,
+            "marketPrice": 3.3,
+            "directLowPrice": 1
+          }
+        }
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "shadowless",
+      "size": "standard",
+      "stamp": [
+        "1st-edition"
+      ],
+      "thirdParty": {
+        "tcgplayer": 107043,
+        "cardmarket": 660182
+      },
+      "variantId": "gx8bq2hefwadd3utcibq3oc56sjf4jqdz709e",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.803Z",
+          "unit": "EUR",
+          "idProduct": 660182,
+          "avg": 29.25,
+          "low": 3.75,
+          "trend": 48.06,
+          "avg1": 4,
+          "avg7": 30.28,
+          "avg30": 19.09,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "shadowless",
+      "size": "standard",
+      "thirdParty": {
+        "tcgplayer": 107043,
+        "cardmarket": 660182
+      },
+      "variantId": "2tszcx1bpt4e79y5us0p570b9n",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.803Z",
+          "unit": "EUR",
+          "idProduct": 660182,
+          "avg": 29.25,
+          "low": 3.75,
+          "trend": 48.06,
+          "avg1": 4,
+          "avg7": 30.28,
+          "avg30": 19.09,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "normal",
+      "subtype": "1999-2000-copyright",
+      "size": "standard",
+      "variantId": "qi4g3e7tzbkcyhfflvx7zmvunxwjcq3pvp"
+    },
+    {
+      "type": "normal",
+      "size": "jumbo",
+      "stamp": [
+        "pikachu"
+      ],
+      "thirdParty": {
+        "cardmarket": 547241
+      },
+      "variantId": "6evqma43tikxqlu9ijbj",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.803Z",
+          "unit": "EUR",
+          "idProduct": 547241,
+          "avg": 4.88,
+          "low": 1.48,
+          "trend": 5.28,
+          "avg1": 7,
+          "avg7": 5.18,
+          "avg30": 6.02,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": null
+      }
+    }
+  ],
+  "dexId": [
+    4
+  ],
+  "hp": 50,
+  "types": [
+    "Fire"
+  ],
+  "description": "Obviously prefers hot places. If it gets caught in the rain, steam is said to spout from the tip of its tail.",
+  "stage": "Basic",
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Scratch",
+      "damage": 10
+    },
+    {
+      "cost": [
+        "Fire",
+        "Colorless"
+      ],
+      "name": "Ember",
+      "effect": "Discard 1 Energy card attached to Charmander in order to use this attack.",
+      "damage": 30
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Water",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 1,
+  "legal": {
+    "standard": false,
+    "expanded": false
+  },
+  "updated": "2026-09-04T23:45:25+01:00",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.803Z",
+      "unit": "EUR",
+      "idProduct": 273741,
+      "avg": 9.25,
+      "low": 0.02,
+      "trend": 2.41,
+      "avg1": 1.56,
+      "avg7": 3.71,
+      "avg30": 9.38,
+      "avg-holo": null,
+      "low-holo": null,
+      "trend-holo": 7.04,
+      "avg1-holo": 20,
+      "avg7-holo": 6.42,
+      "avg30-holo": 12.47
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:37.264Z",
+      "normal": {
+        "productId": 42389,
+        "lowPrice": 0.25,
+        "midPrice": 1.5,
+        "highPrice": 100,
+        "marketPrice": 3.3,
+        "directLowPrice": 1
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/base1-46",
+  "_set_releaseDate": "1999-01-09",
+  "_set_name": "Base Set",
+  "_set_id": "base1"
+}

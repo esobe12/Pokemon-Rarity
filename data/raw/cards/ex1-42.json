@@ -1,0 +1,215 @@
+{
+  "category": "Pokemon",
+  "id": "ex1-42",
+  "illustrator": "Ken Sugimori",
+  "image": "https://assets.tcgdex.net/en/ex/ex1/42",
+  "localId": "42",
+  "name": "Mightyena",
+  "rarity": "Uncommon",
+  "set": {
+    "cardCount": {
+      "official": 109,
+      "total": 109
+    },
+    "id": "ex1",
+    "logo": "https://assets.tcgdex.net/en/ex/ex1/logo",
+    "name": "Ruby & Sapphire",
+    "symbol": "https://assets.tcgdex.net/univ/ex/ex1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": true,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 275690,
+        "tcgplayer": 87444
+      },
+      "variantId": "endfynwn4n10gzq",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.808Z",
+          "unit": "EUR",
+          "idProduct": 275690,
+          "avg": 1.5,
+          "low": 0.1,
+          "trend": 1.4,
+          "avg1": 2.04,
+          "avg7": 1.71,
+          "avg30": 1.51,
+          "avg-holo": 4.2,
+          "low-holo": 1,
+          "trend-holo": 9.7,
+          "avg1-holo": 8,
+          "avg7-holo": 6.7,
+          "avg30-holo": 10.02
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:38.905Z",
+          "normal": {
+            "productId": 87444,
+            "lowPrice": 1.77,
+            "midPrice": 2.73,
+            "highPrice": 30.28,
+            "marketPrice": 2.31,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": {
+            "productId": 87444,
+            "lowPrice": 15.98,
+            "midPrice": 17.58,
+            "highPrice": 121.98,
+            "marketPrice": 12.23,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    {
+      "type": "reverse",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 275690,
+        "tcgplayer": 87444
+      },
+      "variantId": "cm4kqul3x1bwlz1f",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.808Z",
+          "unit": "EUR",
+          "idProduct": 275690,
+          "avg": 1.5,
+          "low": 0.1,
+          "trend": 1.4,
+          "avg1": 2.04,
+          "avg7": 1.71,
+          "avg30": 1.51,
+          "avg-holo": 4.2,
+          "low-holo": 1,
+          "trend-holo": 9.7,
+          "avg1-holo": 8,
+          "avg7-holo": 6.7,
+          "avg30-holo": 10.02
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:38.905Z",
+          "normal": {
+            "productId": 87444,
+            "lowPrice": 1.77,
+            "midPrice": 2.73,
+            "highPrice": 30.28,
+            "marketPrice": 2.31,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": {
+            "productId": 87444,
+            "lowPrice": 15.98,
+            "midPrice": 17.58,
+            "highPrice": 121.98,
+            "marketPrice": 12.23,
+            "directLowPrice": null
+          }
+        }
+      }
+    }
+  ],
+  "dexId": [
+    262
+  ],
+  "hp": 70,
+  "types": [
+    "Darkness"
+  ],
+  "evolveFrom": "Poochyena",
+  "stage": "Stage1",
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Bite",
+      "damage": 20
+    },
+    {
+      "cost": [
+        "Darkness",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Ambush",
+      "effect": "Flip a coin. If heads, this attack does 30 damage plus 30 more damage.",
+      "damage": "30+"
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "\u00d72"
+    }
+  ],
+  "resistances": [
+    {
+      "type": "Psychic",
+      "value": "-30"
+    }
+  ],
+  "retreat": 1,
+  "legal": {
+    "standard": false,
+    "expanded": false
+  },
+  "updated": "2026-08-19T20:52:03Z",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.808Z",
+      "unit": "EUR",
+      "idProduct": 275690,
+      "avg": 1.5,
+      "low": 0.1,
+      "trend": 1.4,
+      "avg1": 2.04,
+      "avg7": 1.71,
+      "avg30": 1.51,
+      "avg-holo": 4.2,
+      "low-holo": 1,
+      "trend-holo": 9.7,
+      "avg1-holo": 8,
+      "avg7-holo": 6.7,
+      "avg30-holo": 10.02
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:38.905Z",
+      "normal": {
+        "productId": 87444,
+        "lowPrice": 1.77,
+        "midPrice": 2.73,
+        "highPrice": 30.28,
+        "marketPrice": 2.31,
+        "directLowPrice": null
+      },
+      "reverse-holofoil": {
+        "productId": 87444,
+        "lowPrice": 15.98,
+        "midPrice": 17.58,
+        "highPrice": 121.98,
+        "marketPrice": 12.23,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/ex1-42",
+  "_set_releaseDate": "2003-07-01",
+  "_set_name": "Ruby & Sapphire",
+  "_set_id": "ex1"
+}

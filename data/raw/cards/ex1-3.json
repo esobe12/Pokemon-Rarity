@@ -1,0 +1,265 @@
+{
+  "category": "Pokemon",
+  "id": "ex1-3",
+  "illustrator": "Kouki Saitou",
+  "image": "https://assets.tcgdex.net/en/ex/ex1/3",
+  "localId": "3",
+  "name": "Blaziken",
+  "rarity": "Holo Rare",
+  "set": {
+    "cardCount": {
+      "official": 109,
+      "total": 109
+    },
+    "id": "ex1",
+    "logo": "https://assets.tcgdex.net/en/ex/ex1/logo",
+    "name": "Ruby & Sapphire",
+    "symbol": "https://assets.tcgdex.net/univ/ex/ex1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": true,
+    "normal": false,
+    "reverse": true,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "holo",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 275651,
+        "tcgplayer": 83903
+      },
+      "variantId": "jr7oetx1mqug9",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.824Z",
+          "unit": "EUR",
+          "idProduct": 275651,
+          "avg": 29.15,
+          "low": 2.5,
+          "trend": 23.88,
+          "avg1": 4,
+          "avg7": 14.94,
+          "avg30": 26.88,
+          "avg-holo": 89,
+          "low-holo": 3.29,
+          "trend-holo": 39.67,
+          "avg1-holo": 15,
+          "avg7-holo": 49,
+          "avg30-holo": 27.22
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:38.905Z",
+          "holofoil": {
+            "productId": 83903,
+            "lowPrice": 69.67,
+            "midPrice": 119,
+            "highPrice": 1049.48,
+            "marketPrice": 115.47,
+            "directLowPrice": 89.24
+          },
+          "reverse-holofoil": {
+            "productId": 83903,
+            "lowPrice": 85,
+            "midPrice": 127.77,
+            "highPrice": 1212.81,
+            "marketPrice": 131.42,
+            "directLowPrice": 498.75
+          }
+        }
+      }
+    },
+    {
+      "type": "reverse",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 275651,
+        "tcgplayer": 83903
+      },
+      "variantId": "cm4kqul3x1bwlz1f",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.824Z",
+          "unit": "EUR",
+          "idProduct": 275651,
+          "avg": 29.15,
+          "low": 2.5,
+          "trend": 23.88,
+          "avg1": 4,
+          "avg7": 14.94,
+          "avg30": 26.88,
+          "avg-holo": 89,
+          "low-holo": 3.29,
+          "trend-holo": 39.67,
+          "avg1-holo": 15,
+          "avg7-holo": 49,
+          "avg30-holo": 27.22
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:38.905Z",
+          "holofoil": {
+            "productId": 83903,
+            "lowPrice": 69.67,
+            "midPrice": 119,
+            "highPrice": 1049.48,
+            "marketPrice": 115.47,
+            "directLowPrice": 89.24
+          },
+          "reverse-holofoil": {
+            "productId": 83903,
+            "lowPrice": 85,
+            "midPrice": 127.77,
+            "highPrice": 1212.81,
+            "marketPrice": 131.42,
+            "directLowPrice": 498.75
+          }
+        }
+      }
+    },
+    {
+      "type": "holo",
+      "subtype": "no-e-reader",
+      "size": "standard",
+      "thirdParty": {
+        "tcgplayer": 125113
+      },
+      "variantId": "3a83wf50tyguhy22fqm9fbyoe",
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "reverse",
+      "subtype": "no-e-reader",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 275651
+      },
+      "variantId": "23hmnvtwdrmm7icuh2usge53u672",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.824Z",
+          "unit": "EUR",
+          "idProduct": 275651,
+          "avg": 29.15,
+          "low": 2.5,
+          "trend": 23.88,
+          "avg1": 4,
+          "avg7": 14.94,
+          "avg30": 26.88,
+          "avg-holo": 89,
+          "low-holo": 3.29,
+          "trend-holo": 39.67,
+          "avg1-holo": 15,
+          "avg7-holo": 49,
+          "avg30-holo": 27.22
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "holo",
+      "size": "standard",
+      "stamp": [
+        "chris-fulop"
+      ],
+      "thirdParty": {
+        "tcgplayer": 477367
+      },
+      "variantId": "3a83wf50txa86ghhmctno8m65",
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": null
+      }
+    }
+  ],
+  "dexId": [
+    257
+  ],
+  "hp": 100,
+  "types": [
+    "Fire"
+  ],
+  "evolveFrom": "Combusken",
+  "stage": "Stage2",
+  "abilities": [
+    {
+      "type": "Poke-POWER",
+      "name": "Firestarter",
+      "effect": "Once during your turn (before your attack), you may attach a Fire Energy card from your discard pile to 1 of your Benched Pok\u00e9mon. This power can't be used if Blaziken is affected by a Special Condition."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Fire",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Fire Stream",
+      "effect": "Discard a Fire Energy card attached to Blaziken. If you do, this attack does 10 damage to each of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)",
+      "damage": 50
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Water",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 2,
+  "legal": {
+    "standard": false,
+    "expanded": false
+  },
+  "updated": "2026-09-03T16:15:15+01:00",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.824Z",
+      "unit": "EUR",
+      "idProduct": 275651,
+      "avg": 29.15,
+      "low": 2.5,
+      "trend": 23.88,
+      "avg1": 4,
+      "avg7": 14.94,
+      "avg30": 26.88,
+      "avg-holo": 89,
+      "low-holo": 3.29,
+      "trend-holo": 39.67,
+      "avg1-holo": 15,
+      "avg7-holo": 49,
+      "avg30-holo": 27.22
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:38.905Z",
+      "holofoil": {
+        "productId": 83903,
+        "lowPrice": 69.67,
+        "midPrice": 119,
+        "highPrice": 1049.48,
+        "marketPrice": 115.47,
+        "directLowPrice": 89.24
+      },
+      "reverse-holofoil": {
+        "productId": 83903,
+        "lowPrice": 85,
+        "midPrice": 127.77,
+        "highPrice": 1212.81,
+        "marketPrice": 131.42,
+        "directLowPrice": 498.75
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/ex1-3",
+  "_set_releaseDate": "2003-07-01",
+  "_set_name": "Ruby & Sapphire",
+  "_set_id": "ex1"
+}

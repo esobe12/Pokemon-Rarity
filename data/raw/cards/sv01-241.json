@@ -1,0 +1,81 @@
+{
+  "category": "Trainer",
+  "id": "sv01-241",
+  "illustrator": "kirisAki",
+  "image": "https://assets.tcgdex.net/en/sv/sv01/241",
+  "localId": "241",
+  "name": "Professor's Research",
+  "rarity": "Ultra Rare",
+  "set": {
+    "cardCount": {
+      "official": 198,
+      "total": 258
+    },
+    "id": "sv01",
+    "logo": "https://assets.tcgdex.net/en/sv/sv01/logo",
+    "name": "Scarlet & Violet",
+    "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": true,
+    "normal": false,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "holo",
+      "size": "standard",
+      "variantId": "jr7oetx1mqug9"
+    }
+  ],
+  "effect": "Discard your hand and draw 7 cards.",
+  "trainerType": "Supporter",
+  "regulationMark": "G",
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-08-20T01:44:01+01:00",
+  "thirdParty": {
+    "cardmarket": 702537,
+    "tcgplayer": 490099
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.790Z",
+      "unit": "EUR",
+      "idProduct": 702537,
+      "avg": 1.29,
+      "low": 0.45,
+      "trend": 1.52,
+      "avg1": 1.72,
+      "avg7": 1.44,
+      "avg30": 1.36,
+      "avg-holo": null,
+      "low-holo": null,
+      "trend-holo": 0,
+      "avg1-holo": null,
+      "avg7-holo": null,
+      "avg30-holo": null
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:50.355Z",
+      "holofoil": {
+        "productId": 490099,
+        "lowPrice": 0.99,
+        "midPrice": 1.68,
+        "highPrice": 36.7,
+        "marketPrice": 1.36,
+        "directLowPrice": 1.21
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/sv01-241",
+  "_set_releaseDate": "2023-03-31",
+  "_set_name": "Scarlet & Violet",
+  "_set_id": "sv01"
+}

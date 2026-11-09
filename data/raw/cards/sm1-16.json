@@ -1,0 +1,118 @@
+{
+  "category": "Pokemon",
+  "id": "sm1-16",
+  "illustrator": "Saya Tsuruta",
+  "image": "https://assets.tcgdex.net/en/sm/sm1/16",
+  "localId": "16",
+  "name": "Morelull",
+  "rarity": "Common",
+  "set": {
+    "cardCount": {
+      "official": 149,
+      "total": 172
+    },
+    "id": "sm1",
+    "logo": "https://assets.tcgdex.net/en/sm/sm1/logo",
+    "name": "Sun & Moon",
+    "symbol": "https://assets.tcgdex.net/univ/sm/sm1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "variantId": "generated"
+    }
+  ],
+  "dexId": [
+    755
+  ],
+  "hp": 60,
+  "types": [
+    "Grass"
+  ],
+  "description": "As it drowses the day away, it nourishes itself by sucking from tree roots. It wakens at the fall of night, wandering off in search of a new tree.",
+  "stage": "Basic",
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Flickering Spores",
+      "effect": "Your opponent\u2019s Active Pok\u00e9mon is now Asleep."
+    },
+    {
+      "cost": [
+        "Grass"
+      ],
+      "name": "Ram",
+      "damage": 10
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 1,
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-08-16T21:23:08+01:00",
+  "thirdParty": {
+    "cardmarket": 295323,
+    "tcgplayer": 126887
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.804Z",
+      "unit": "EUR",
+      "idProduct": 295323,
+      "avg": 0.06,
+      "low": 0.02,
+      "trend": 0.07,
+      "avg1": 0.03,
+      "avg7": 0.08,
+      "avg30": 0.07,
+      "avg-holo": 0.29,
+      "low-holo": 0.02,
+      "trend-holo": 0.25,
+      "avg1-holo": 0.3,
+      "avg7-holo": 0.32,
+      "avg30-holo": 0.3
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:47.014Z",
+      "normal": {
+        "productId": 126887,
+        "lowPrice": 0.02,
+        "midPrice": 0.2,
+        "highPrice": 19.66,
+        "marketPrice": 0.18,
+        "directLowPrice": null
+      },
+      "reverse-holofoil": {
+        "productId": 126887,
+        "lowPrice": 0.12,
+        "midPrice": 0.4,
+        "highPrice": 19.66,
+        "marketPrice": 0.38,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/sm1-16",
+  "_set_releaseDate": "2017-02-03",
+  "_set_name": "Sun & Moon",
+  "_set_id": "sm1"
+}

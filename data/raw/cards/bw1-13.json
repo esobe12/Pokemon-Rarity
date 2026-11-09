@@ -1,0 +1,214 @@
+{
+  "category": "Pokemon",
+  "id": "bw1-13",
+  "illustrator": "Atsuko Nishida",
+  "image": "https://assets.tcgdex.net/en/bw/bw1/13",
+  "localId": "13",
+  "name": "Deerling",
+  "rarity": "Common",
+  "set": {
+    "cardCount": {
+      "official": 114,
+      "total": 115
+    },
+    "id": "bw1",
+    "logo": "https://assets.tcgdex.net/en/bw/bw1/logo",
+    "name": "Black & White",
+    "symbol": "https://assets.tcgdex.net/univ/bw/bw1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": true,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 279751,
+        "tcgplayer": 84724
+      },
+      "variantId": "endfynwn4n10gzq",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.795Z",
+          "unit": "EUR",
+          "idProduct": 279751,
+          "avg": 0.21,
+          "low": 0.02,
+          "trend": 0.13,
+          "avg1": 0.05,
+          "avg7": 0.16,
+          "avg30": 0.19,
+          "avg-holo": 3.66,
+          "low-holo": 0.1,
+          "trend-holo": 2.42,
+          "avg1-holo": 6,
+          "avg7-holo": 2.65,
+          "avg30-holo": 1.57
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:43.407Z",
+          "normal": {
+            "productId": 84724,
+            "lowPrice": 0.17,
+            "midPrice": 0.54,
+            "highPrice": 4.75,
+            "marketPrice": 0.61,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": {
+            "productId": 84724,
+            "lowPrice": 5,
+            "midPrice": 11.43,
+            "highPrice": 25.06,
+            "marketPrice": 11.73,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    {
+      "type": "reverse",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 279751,
+        "tcgplayer": 84724
+      },
+      "variantId": "cm4kqul3x1bwlz1f",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.795Z",
+          "unit": "EUR",
+          "idProduct": 279751,
+          "avg": 0.21,
+          "low": 0.02,
+          "trend": 0.13,
+          "avg1": 0.05,
+          "avg7": 0.16,
+          "avg30": 0.19,
+          "avg-holo": 3.66,
+          "low-holo": 0.1,
+          "trend-holo": 2.42,
+          "avg1-holo": 6,
+          "avg7-holo": 2.65,
+          "avg30-holo": 1.57
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:43.407Z",
+          "normal": {
+            "productId": 84724,
+            "lowPrice": 0.17,
+            "midPrice": 0.54,
+            "highPrice": 4.75,
+            "marketPrice": 0.61,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": {
+            "productId": 84724,
+            "lowPrice": 5,
+            "midPrice": 11.43,
+            "highPrice": 25.06,
+            "marketPrice": 11.73,
+            "directLowPrice": null
+          }
+        }
+      }
+    }
+  ],
+  "dexId": [
+    585
+  ],
+  "hp": 60,
+  "types": [
+    "Grass"
+  ],
+  "description": "The color and scent of their fur changes to match the mountain grass. When they sense hostility, they hide in the grass.",
+  "stage": "Basic",
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Double Kick",
+      "effect": "Flip 2 coins. This attack does 10 damage times the number of heads.",
+      "damage": 10
+    },
+    {
+      "cost": [
+        "Grass",
+        "Colorless"
+      ],
+      "name": "Leech Seed",
+      "effect": "Heal 10 damage from this Pok\u00e9mon.",
+      "damage": 20
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "\u00d72"
+    }
+  ],
+  "resistances": [
+    {
+      "type": "Water",
+      "value": "-20"
+    }
+  ],
+  "retreat": 1,
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-11-01T11:34:09Z",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.795Z",
+      "unit": "EUR",
+      "idProduct": 279751,
+      "avg": 0.21,
+      "low": 0.02,
+      "trend": 0.13,
+      "avg1": 0.05,
+      "avg7": 0.16,
+      "avg30": 0.19,
+      "avg-holo": 3.66,
+      "low-holo": 0.1,
+      "trend-holo": 2.42,
+      "avg1-holo": 6,
+      "avg7-holo": 2.65,
+      "avg30-holo": 1.57
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:43.407Z",
+      "normal": {
+        "productId": 84724,
+        "lowPrice": 0.17,
+        "midPrice": 0.54,
+        "highPrice": 4.75,
+        "marketPrice": 0.61,
+        "directLowPrice": null
+      },
+      "reverse-holofoil": {
+        "productId": 84724,
+        "lowPrice": 5,
+        "midPrice": 11.43,
+        "highPrice": 25.06,
+        "marketPrice": 11.73,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/bw1-13",
+  "_set_releaseDate": "2011-04-25",
+  "_set_name": "Black & White",
+  "_set_id": "bw1"
+}

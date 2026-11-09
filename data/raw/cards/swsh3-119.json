@@ -1,0 +1,152 @@
+{
+  "category": "Pokemon",
+  "id": "swsh3-119",
+  "illustrator": "5ban Graphics",
+  "image": "https://assets.tcgdex.net/en/swsh/swsh3/119",
+  "localId": "119",
+  "name": "Scizor VMAX",
+  "rarity": "Holo Rare VMAX",
+  "set": {
+    "cardCount": {
+      "official": 189,
+      "total": 201
+    },
+    "id": "swsh3",
+    "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo",
+    "name": "Darkness Ablaze",
+    "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": true,
+    "normal": false,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "holo",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 483474,
+        "tcgplayer": 219374
+      },
+      "variantId": "jr7oetx1mqug9",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.804Z",
+          "unit": "EUR",
+          "idProduct": 483474,
+          "avg": 3.82,
+          "low": 1.75,
+          "trend": 4.49,
+          "avg1": 5.38,
+          "avg7": 4.66,
+          "avg30": 3.86,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 6.96,
+          "avg1-holo": 6,
+          "avg7-holo": 7.04,
+          "avg30-holo": 7.73
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:49.049Z",
+          "holofoil": {
+            "productId": 219374,
+            "lowPrice": 3.25,
+            "midPrice": 4.78,
+            "highPrice": 37.5,
+            "marketPrice": 4.55,
+            "directLowPrice": 4.83
+          }
+        }
+      }
+    }
+  ],
+  "dexId": [
+    212
+  ],
+  "hp": 320,
+  "types": [
+    "Metal"
+  ],
+  "evolveFrom": "Scizor V",
+  "stage": "VMAX",
+  "attacks": [
+    {
+      "cost": [
+        "Metal",
+        "Colorless"
+      ],
+      "name": "Hard Scissors",
+      "effect": "During your opponent's next turn, this Pok\u00e9mon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+      "damage": 90
+    },
+    {
+      "cost": [
+        "Metal",
+        "Metal",
+        "Colorless"
+      ],
+      "name": "Max Steelspike",
+      "damage": 190
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "\u00d72"
+    }
+  ],
+  "resistances": [
+    {
+      "type": "Grass",
+      "value": "-30"
+    }
+  ],
+  "retreat": 2,
+  "regulationMark": "D",
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-07-01T21:27:44+01:00",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.804Z",
+      "unit": "EUR",
+      "idProduct": 483474,
+      "avg": 3.82,
+      "low": 1.75,
+      "trend": 4.49,
+      "avg1": 5.38,
+      "avg7": 4.66,
+      "avg30": 3.86,
+      "avg-holo": null,
+      "low-holo": null,
+      "trend-holo": 6.96,
+      "avg1-holo": 6,
+      "avg7-holo": 7.04,
+      "avg30-holo": 7.73
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:49.049Z",
+      "holofoil": {
+        "productId": 219374,
+        "lowPrice": 3.25,
+        "midPrice": 4.78,
+        "highPrice": 37.5,
+        "marketPrice": 4.55,
+        "directLowPrice": 4.83
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/swsh3-119",
+  "_set_releaseDate": "2020-08-14",
+  "_set_name": "Darkness Ablaze",
+  "_set_id": "swsh3"
+}

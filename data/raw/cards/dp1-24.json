@@ -1,0 +1,132 @@
+{
+  "category": "Pokemon",
+  "id": "dp1-24",
+  "illustrator": "Mitsuhiro Arita",
+  "image": "https://assets.tcgdex.net/en/dp/dp1/24",
+  "localId": "24",
+  "name": "Drifblim",
+  "rarity": "Rare",
+  "set": {
+    "cardCount": {
+      "official": 130,
+      "total": 130
+    },
+    "id": "dp1",
+    "logo": "https://assets.tcgdex.net/en/dp/dp1/logo",
+    "name": "Diamond & Pearl",
+    "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": true,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "variantId": "endfynwn4n10gzq"
+    },
+    {
+      "type": "reverse",
+      "size": "standard",
+      "variantId": "cm4kqul3x1bwlz1f"
+    }
+  ],
+  "dexId": [
+    426
+  ],
+  "hp": 80,
+  "types": [
+    "Psychic"
+  ],
+  "evolveFrom": "Drifloon",
+  "description": "It's drowzy in daytime, but flies off in the evening in big groups. No one knows where they go.",
+  "stage": "Stage1",
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Wind Wave",
+      "effect": "Search your discard pile for up to 5 in any combination of Pok\u00e9mon and Supporter cards. Show them to your opponent and shuffle them into your deck."
+    },
+    {
+      "cost": [
+        "Psychic",
+        "Psychic",
+        "Psychic"
+      ],
+      "name": "Explosive Smoke",
+      "effect": "Does 10 damage to each Benched Pok\u00e9mon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)",
+      "damage": 60
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Darkness",
+      "value": "+20"
+    }
+  ],
+  "resistances": [
+    {
+      "type": "Colorless",
+      "value": "-20"
+    }
+  ],
+  "legal": {
+    "standard": false,
+    "expanded": false
+  },
+  "updated": "2026-08-15T23:30:13+01:00",
+  "thirdParty": {
+    "cardmarket": 277523,
+    "tcgplayer": 84943
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.803Z",
+      "unit": "EUR",
+      "idProduct": 277523,
+      "avg": 1.73,
+      "low": 0.09,
+      "trend": 2.1,
+      "avg1": 7.49,
+      "avg7": 2.03,
+      "avg30": 1.43,
+      "avg-holo": 1.81,
+      "low-holo": 0.1,
+      "trend-holo": 2.66,
+      "avg1-holo": 8,
+      "avg7-holo": 2.54,
+      "avg30-holo": 1.78
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:41.069Z",
+      "normal": {
+        "productId": 84943,
+        "lowPrice": 0.87,
+        "midPrice": 1.68,
+        "highPrice": 25.78,
+        "marketPrice": 1.74,
+        "directLowPrice": null
+      },
+      "reverse-holofoil": {
+        "productId": 84943,
+        "lowPrice": 2.2,
+        "midPrice": 2.56,
+        "highPrice": 52.78,
+        "marketPrice": 4.08,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/dp1-24",
+  "_set_releaseDate": "2007-05-01",
+  "_set_name": "Diamond & Pearl",
+  "_set_id": "dp1"
+}

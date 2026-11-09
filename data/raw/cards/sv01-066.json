@@ -1,0 +1,126 @@
+{
+  "category": "Pokemon",
+  "id": "sv01-066",
+  "illustrator": "Narumi Sato",
+  "image": "https://assets.tcgdex.net/en/sv/sv01/066",
+  "localId": "066",
+  "name": "Mareep",
+  "rarity": "Common",
+  "set": {
+    "cardCount": {
+      "official": 198,
+      "total": 258
+    },
+    "id": "sv01",
+    "logo": "https://assets.tcgdex.net/en/sv/sv01/logo",
+    "name": "Scarlet & Violet",
+    "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": true,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "reverse",
+      "size": "standard",
+      "variantId": "cm4kqul3x1bwlz1f"
+    },
+    {
+      "type": "normal",
+      "size": "standard",
+      "variantId": "endfynwn4n10gzq"
+    }
+  ],
+  "dexId": [
+    179
+  ],
+  "hp": 60,
+  "types": [
+    "Lightning"
+  ],
+  "description": "Its fleece grows continually. In the summer, the fleece is fully shed, but it grows back in a week.",
+  "stage": "Basic",
+  "attacks": [
+    {
+      "cost": [
+        "Lightning"
+      ],
+      "name": "Static Shock",
+      "damage": 10
+    },
+    {
+      "cost": [
+        "Lightning",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Electro Ball",
+      "damage": 40
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 1,
+  "regulationMark": "G",
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-08-20T01:44:01+01:00",
+  "thirdParty": {
+    "cardmarket": 702362,
+    "tcgplayer": 487919
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.816Z",
+      "unit": "EUR",
+      "idProduct": 702362,
+      "avg": 0.06,
+      "low": 0.02,
+      "trend": 0.03,
+      "avg1": 0.04,
+      "avg7": 0.06,
+      "avg30": 0.06,
+      "avg-holo": 0.13,
+      "low-holo": 0.02,
+      "trend-holo": 0.11,
+      "avg1-holo": 0.05,
+      "avg7-holo": 0.14,
+      "avg30-holo": 0.12
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:50.355Z",
+      "reverse-holofoil": {
+        "productId": 487919,
+        "lowPrice": 0.01,
+        "midPrice": 0.24,
+        "highPrice": 17.76,
+        "marketPrice": 0.2,
+        "directLowPrice": null
+      },
+      "normal": {
+        "productId": 487919,
+        "lowPrice": 0.01,
+        "midPrice": 0.19,
+        "highPrice": 19.66,
+        "marketPrice": 0.13,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/sv01-066",
+  "_set_releaseDate": "2023-03-31",
+  "_set_name": "Scarlet & Violet",
+  "_set_id": "sv01"
+}

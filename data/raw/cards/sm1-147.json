@@ -1,0 +1,80 @@
+{
+  "category": "Trainer",
+  "id": "sm1-147",
+  "illustrator": "Megumi Mizutani",
+  "image": "https://assets.tcgdex.net/en/sm/sm1/147",
+  "localId": "147",
+  "name": "Lillie",
+  "rarity": "Ultra Rare",
+  "set": {
+    "cardCount": {
+      "official": 149,
+      "total": 172
+    },
+    "id": "sm1",
+    "logo": "https://assets.tcgdex.net/en/sm/sm1/logo",
+    "name": "Sun & Moon",
+    "symbol": "https://assets.tcgdex.net/univ/sm/sm1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "variantId": "generated"
+    }
+  ],
+  "effect": "Draw cards until you have 6 cards in your hand. If it\u2019s your first turn, draw cards until you have 8 cards in your hand.",
+  "trainerType": "Supporter",
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-08-16T21:23:08+01:00",
+  "thirdParty": {
+    "cardmarket": 295460,
+    "tcgplayer": 127019
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.802Z",
+      "unit": "EUR",
+      "idProduct": 295460,
+      "avg": 36.78,
+      "low": 9.9,
+      "trend": 37.33,
+      "avg1": 24.99,
+      "avg7": 35.77,
+      "avg30": 36.14,
+      "avg-holo": null,
+      "low-holo": null,
+      "trend-holo": 23.62,
+      "avg1-holo": 30,
+      "avg7-holo": 20.63,
+      "avg30-holo": 20.9
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:47.014Z",
+      "holofoil": {
+        "productId": 127019,
+        "lowPrice": 27.48,
+        "midPrice": 42.99,
+        "highPrice": 199.99,
+        "marketPrice": 41.38,
+        "directLowPrice": 29.87
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/sm1-147",
+  "_set_releaseDate": "2017-02-03",
+  "_set_name": "Sun & Moon",
+  "_set_id": "sm1"
+}

@@ -1,0 +1,215 @@
+{
+  "category": "Pokemon",
+  "id": "bw1-69",
+  "illustrator": "Shin Nagasawa",
+  "image": "https://assets.tcgdex.net/en/bw/bw1/69",
+  "localId": "69",
+  "name": "Scrafty",
+  "rarity": "Rare",
+  "set": {
+    "cardCount": {
+      "official": 114,
+      "total": 115
+    },
+    "id": "bw1",
+    "logo": "https://assets.tcgdex.net/en/bw/bw1/logo",
+    "name": "Black & White",
+    "symbol": "https://assets.tcgdex.net/univ/bw/bw1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": true,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 279807,
+        "tcgplayer": 88977
+      },
+      "variantId": "endfynwn4n10gzq",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.808Z",
+          "unit": "EUR",
+          "idProduct": 279807,
+          "avg": 0.56,
+          "low": 0.05,
+          "trend": 1.05,
+          "avg1": 0.48,
+          "avg7": 0.5,
+          "avg30": 0.61,
+          "avg-holo": 0.71,
+          "low-holo": 0.38,
+          "trend-holo": 2.06,
+          "avg1-holo": 0.95,
+          "avg7-holo": 1.28,
+          "avg30-holo": 1.61
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:43.407Z",
+          "normal": {
+            "productId": 88977,
+            "lowPrice": 0.46,
+            "midPrice": 0.7,
+            "highPrice": 19.66,
+            "marketPrice": 0.79,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": {
+            "productId": 88977,
+            "lowPrice": 2,
+            "midPrice": 4.49,
+            "highPrice": 96.9,
+            "marketPrice": 3.17,
+            "directLowPrice": 32
+          }
+        }
+      }
+    },
+    {
+      "type": "reverse",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 279807,
+        "tcgplayer": 88977
+      },
+      "variantId": "cm4kqul3x1bwlz1f",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.808Z",
+          "unit": "EUR",
+          "idProduct": 279807,
+          "avg": 0.56,
+          "low": 0.05,
+          "trend": 1.05,
+          "avg1": 0.48,
+          "avg7": 0.5,
+          "avg30": 0.61,
+          "avg-holo": 0.71,
+          "low-holo": 0.38,
+          "trend-holo": 2.06,
+          "avg1-holo": 0.95,
+          "avg7-holo": 1.28,
+          "avg30-holo": 1.61
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:43.407Z",
+          "normal": {
+            "productId": 88977,
+            "lowPrice": 0.46,
+            "midPrice": 0.7,
+            "highPrice": 19.66,
+            "marketPrice": 0.79,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": {
+            "productId": 88977,
+            "lowPrice": 2,
+            "midPrice": 4.49,
+            "highPrice": 96.9,
+            "marketPrice": 3.17,
+            "directLowPrice": 32
+          }
+        }
+      }
+    }
+  ],
+  "dexId": [
+    560
+  ],
+  "hp": 90,
+  "types": [
+    "Darkness"
+  ],
+  "evolveFrom": "Scraggy",
+  "description": "Groups of them beat up anything that enters their territory. Each can spit acidic liquid from its mouth.",
+  "stage": "Stage1",
+  "attacks": [
+    {
+      "cost": [
+        "Darkness"
+      ],
+      "name": "Spit Acid",
+      "effect": "The Defending Pok\u00e9mon is now Burned. Flip a coin. If heads, the Defending Pok\u00e9mon is also Paralyzed.",
+      "damage": 20
+    },
+    {
+      "cost": [
+        "Darkness",
+        "Darkness",
+        "Colorless"
+      ],
+      "name": "High Jump Kick",
+      "damage": 70
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "\u00d72"
+    }
+  ],
+  "resistances": [
+    {
+      "type": "Psychic",
+      "value": "-20"
+    }
+  ],
+  "retreat": 1,
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-11-01T11:34:09Z",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.808Z",
+      "unit": "EUR",
+      "idProduct": 279807,
+      "avg": 0.56,
+      "low": 0.05,
+      "trend": 1.05,
+      "avg1": 0.48,
+      "avg7": 0.5,
+      "avg30": 0.61,
+      "avg-holo": 0.71,
+      "low-holo": 0.38,
+      "trend-holo": 2.06,
+      "avg1-holo": 0.95,
+      "avg7-holo": 1.28,
+      "avg30-holo": 1.61
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:43.407Z",
+      "normal": {
+        "productId": 88977,
+        "lowPrice": 0.46,
+        "midPrice": 0.7,
+        "highPrice": 19.66,
+        "marketPrice": 0.79,
+        "directLowPrice": null
+      },
+      "reverse-holofoil": {
+        "productId": 88977,
+        "lowPrice": 2,
+        "midPrice": 4.49,
+        "highPrice": 96.9,
+        "marketPrice": 3.17,
+        "directLowPrice": 32
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/bw1-69",
+  "_set_releaseDate": "2011-04-25",
+  "_set_name": "Black & White",
+  "_set_id": "bw1"
+}

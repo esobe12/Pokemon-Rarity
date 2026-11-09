@@ -1,0 +1,208 @@
+{
+  "category": "Pokemon",
+  "id": "swsh3-66",
+  "illustrator": "Hitoshi Ariga",
+  "image": "https://assets.tcgdex.net/en/swsh/swsh3/66",
+  "localId": "66",
+  "name": "Arctozolt",
+  "rarity": "Holo Rare",
+  "set": {
+    "cardCount": {
+      "official": 189,
+      "total": 201
+    },
+    "id": "swsh3",
+    "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo",
+    "name": "Darkness Ablaze",
+    "symbol": "https://assets.tcgdex.net/univ/swsh/swsh3/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": true,
+    "normal": false,
+    "reverse": true,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "holo",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 483209,
+        "tcgplayer": 219434
+      },
+      "variantId": "jr7oetx1mqug9",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.795Z",
+          "unit": "EUR",
+          "idProduct": 483209,
+          "avg": 9.22,
+          "low": 2,
+          "trend": 10.21,
+          "avg1": 9.99,
+          "avg7": 9.05,
+          "avg30": 9,
+          "avg-holo": 8.97,
+          "low-holo": 2,
+          "trend-holo": 9.68,
+          "avg1-holo": 19.5,
+          "avg7-holo": 9.19,
+          "avg30-holo": 10.77
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:49.049Z",
+          "reverse-holofoil": {
+            "productId": 219434,
+            "lowPrice": 1,
+            "midPrice": 2.75,
+            "highPrice": 26.08,
+            "marketPrice": 2.78,
+            "directLowPrice": null
+          },
+          "holofoil": {
+            "productId": 219434,
+            "lowPrice": 0.55,
+            "midPrice": 1.98,
+            "highPrice": 32.98,
+            "marketPrice": 1.88,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    {
+      "type": "reverse",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 483209,
+        "tcgplayer": 219434
+      },
+      "variantId": "cm4kqul3x1bwlz1f",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.795Z",
+          "unit": "EUR",
+          "idProduct": 483209,
+          "avg": 9.22,
+          "low": 2,
+          "trend": 10.21,
+          "avg1": 9.99,
+          "avg7": 9.05,
+          "avg30": 9,
+          "avg-holo": 8.97,
+          "low-holo": 2,
+          "trend-holo": 9.68,
+          "avg1-holo": 19.5,
+          "avg7-holo": 9.19,
+          "avg30-holo": 10.77
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:49.049Z",
+          "reverse-holofoil": {
+            "productId": 219434,
+            "lowPrice": 1,
+            "midPrice": 2.75,
+            "highPrice": 26.08,
+            "marketPrice": 2.78,
+            "directLowPrice": null
+          },
+          "holofoil": {
+            "productId": 219434,
+            "lowPrice": 0.55,
+            "midPrice": 1.98,
+            "highPrice": 32.98,
+            "marketPrice": 1.88,
+            "directLowPrice": null
+          }
+        }
+      }
+    }
+  ],
+  "dexId": [
+    881
+  ],
+  "hp": 130,
+  "types": [
+    "Lightning"
+  ],
+  "evolveFrom": "Rare Fossil",
+  "description": "The shaking of its freezing upper half is what generates its electricity. It has a hard time walking around.",
+  "stage": "Stage1",
+  "abilities": [
+    {
+      "type": "Ability",
+      "name": "Biting Whirlpool",
+      "effect": "Whenever your opponent attaches an Energy card from their hand to 1 of their Pok\u00e9mon, put 2 damage counters on that Pok\u00e9mon."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Lightning",
+        "Colorless"
+      ],
+      "name": "Electro Ball",
+      "damage": 70
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 2,
+  "regulationMark": "D",
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-10-19T09:46:55+01:00",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.795Z",
+      "unit": "EUR",
+      "idProduct": 483209,
+      "avg": 9.22,
+      "low": 2,
+      "trend": 10.21,
+      "avg1": 9.99,
+      "avg7": 9.05,
+      "avg30": 9,
+      "avg-holo": 8.97,
+      "low-holo": 2,
+      "trend-holo": 9.68,
+      "avg1-holo": 19.5,
+      "avg7-holo": 9.19,
+      "avg30-holo": 10.77
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:49.049Z",
+      "reverse-holofoil": {
+        "productId": 219434,
+        "lowPrice": 1,
+        "midPrice": 2.75,
+        "highPrice": 26.08,
+        "marketPrice": 2.78,
+        "directLowPrice": null
+      },
+      "holofoil": {
+        "productId": 219434,
+        "lowPrice": 0.55,
+        "midPrice": 1.98,
+        "highPrice": 32.98,
+        "marketPrice": 1.88,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/swsh3-66",
+  "_set_releaseDate": "2020-08-14",
+  "_set_name": "Darkness Ablaze",
+  "_set_id": "swsh3"
+}

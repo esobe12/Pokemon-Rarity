@@ -1,0 +1,119 @@
+{
+  "category": "Pokemon",
+  "id": "swsh1-149",
+  "illustrator": "tetsuya koizumi",
+  "image": "https://assets.tcgdex.net/en/swsh/swsh1/149",
+  "localId": "149",
+  "name": "Drampa",
+  "rarity": "Rare",
+  "set": {
+    "cardCount": {
+      "official": 202,
+      "total": 216
+    },
+    "id": "swsh1",
+    "logo": "https://assets.tcgdex.net/en/swsh/swsh1/logo",
+    "name": "Sword & Shield",
+    "symbol": "https://assets.tcgdex.net/univ/swsh/swsh1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": true,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "variantId": "generated"
+    },
+    {
+      "type": "reverse",
+      "size": "standard",
+      "variantId": "generated"
+    }
+  ],
+  "dexId": [
+    780
+  ],
+  "hp": 130,
+  "types": [
+    "Colorless"
+  ],
+  "description": "The mountains it calls home are nearly two miles in height. On rare occasions, it descends to play with the children living in the towns below.",
+  "stage": "Basic",
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Dragon Pulse",
+      "effect": "Discard the top 2 cards of your deck.",
+      "damage": 80
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 2,
+  "regulationMark": "D",
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-08-16T22:12:40+01:00",
+  "thirdParty": {
+    "cardmarket": 436839,
+    "tcgplayer": 208469
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.795Z",
+      "unit": "EUR",
+      "idProduct": 436839,
+      "avg": 0.21,
+      "low": 0.02,
+      "trend": 0.15,
+      "avg1": 0.2,
+      "avg7": 0.24,
+      "avg30": 0.2,
+      "avg-holo": 0.96,
+      "low-holo": 0.1,
+      "trend-holo": 0.83,
+      "avg1-holo": 0.49,
+      "avg7-holo": 0.86,
+      "avg30-holo": 0.88
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:48.878Z",
+      "normal": {
+        "productId": 208469,
+        "lowPrice": 0.07,
+        "midPrice": 0.25,
+        "highPrice": 18.18,
+        "marketPrice": 0.25,
+        "directLowPrice": null
+      },
+      "reverse-holofoil": {
+        "productId": 208469,
+        "lowPrice": 0.2,
+        "midPrice": 0.53,
+        "highPrice": 19.66,
+        "marketPrice": 0.47,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/swsh1-149",
+  "_set_releaseDate": "2020-02-07",
+  "_set_name": "Sword & Shield",
+  "_set_id": "swsh1"
+}

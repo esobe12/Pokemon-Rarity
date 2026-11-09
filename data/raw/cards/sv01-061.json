@@ -1,0 +1,132 @@
+{
+  "category": "Pokemon",
+  "id": "sv01-061",
+  "illustrator": "Souichirou Gunjima",
+  "image": "https://assets.tcgdex.net/en/sv/sv01/061",
+  "localId": "061",
+  "name": "Dondozo",
+  "rarity": "Rare",
+  "set": {
+    "cardCount": {
+      "official": 198,
+      "total": 258
+    },
+    "id": "sv01",
+    "logo": "https://assets.tcgdex.net/en/sv/sv01/logo",
+    "name": "Scarlet & Violet",
+    "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": true,
+    "normal": false,
+    "reverse": true,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "holo",
+      "size": "standard",
+      "variantId": "jr7oetx1mqug9"
+    },
+    {
+      "type": "reverse",
+      "size": "standard",
+      "variantId": "cm4kqul3x1bwlz1f"
+    }
+  ],
+  "dexId": [
+    977
+  ],
+  "cameoDexIds": [
+    978
+  ],
+  "hp": 160,
+  "types": [
+    "Water"
+  ],
+  "description": "This Pok\u00e9mon is a glutton, but it's bad at getting food. It teams up with a Tatsugiri to catch prey.",
+  "stage": "Basic",
+  "attacks": [
+    {
+      "cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Release Rage",
+      "effect": "This attack does 50 damage for each Tatsugiri in your discard pile.",
+      "damage": "50\u00d7"
+    },
+    {
+      "cost": [
+        "Water",
+        "Water",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Heavy Splash",
+      "damage": 120
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Lightning",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 4,
+  "regulationMark": "G",
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-09-06T11:00:03+01:00",
+  "thirdParty": {
+    "cardmarket": 702356,
+    "tcgplayer": 487913
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.790Z",
+      "unit": "EUR",
+      "idProduct": 702356,
+      "avg": 0.07,
+      "low": 0.02,
+      "trend": 0.06,
+      "avg1": 0.05,
+      "avg7": 0.08,
+      "avg30": 0.07,
+      "avg-holo": 0.21,
+      "low-holo": 0.02,
+      "trend-holo": 0.18,
+      "avg1-holo": 0.24,
+      "avg7-holo": 0.14,
+      "avg30-holo": 0.2
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:50.355Z",
+      "holofoil": {
+        "productId": 487913,
+        "lowPrice": 0.01,
+        "midPrice": 0.22,
+        "highPrice": 20,
+        "marketPrice": 0.2,
+        "directLowPrice": 0.08
+      },
+      "reverse-holofoil": {
+        "productId": 487913,
+        "lowPrice": 0.05,
+        "midPrice": 0.25,
+        "highPrice": 19.66,
+        "marketPrice": 0.22,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/sv01-061",
+  "_set_releaseDate": "2023-03-31",
+  "_set_name": "Scarlet & Violet",
+  "_set_id": "sv01"
+}

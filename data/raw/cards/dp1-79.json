@@ -1,0 +1,130 @@
+{
+  "category": "Pokemon",
+  "id": "dp1-79",
+  "illustrator": "Ken Sugimori",
+  "image": "https://assets.tcgdex.net/en/dp/dp1/79",
+  "localId": "79",
+  "name": "Combee",
+  "rarity": "Common",
+  "set": {
+    "cardCount": {
+      "official": 130,
+      "total": 130
+    },
+    "id": "dp1",
+    "logo": "https://assets.tcgdex.net/en/dp/dp1/logo",
+    "name": "Diamond & Pearl",
+    "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": true,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "variantId": "endfynwn4n10gzq"
+    },
+    {
+      "type": "reverse",
+      "size": "standard",
+      "variantId": "cm4kqul3x1bwlz1f"
+    }
+  ],
+  "dexId": [
+    415
+  ],
+  "hp": 50,
+  "types": [
+    "Grass"
+  ],
+  "description": "A Pok\u00e9mon formed by three others. It busily carries sweet floral honey to VESPIQUEN.",
+  "stage": "Basic",
+  "attacks": [
+    {
+      "cost": [
+        "Grass"
+      ],
+      "name": "Soliciting Nectar",
+      "effect": "Switch 1 of your opponent's Benched Pok\u00e9mon with 1 of the Defending Pok\u00e9mon. The new Defending Pok\u00e9mon is now Asleep."
+    },
+    {
+      "cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Gust",
+      "damage": 20
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fire",
+      "value": "+10"
+    }
+  ],
+  "resistances": [
+    {
+      "type": "Fighting",
+      "value": "-20"
+    }
+  ],
+  "retreat": 1,
+  "legal": {
+    "standard": false,
+    "expanded": false
+  },
+  "updated": "2026-08-15T23:30:13+01:00",
+  "thirdParty": {
+    "cardmarket": 277578,
+    "tcgplayer": 84392
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.803Z",
+      "unit": "EUR",
+      "idProduct": 277578,
+      "avg": 0.12,
+      "low": 0.02,
+      "trend": 0.17,
+      "avg1": 0.06,
+      "avg7": 0.21,
+      "avg30": 0.13,
+      "avg-holo": 1.43,
+      "low-holo": 0.2,
+      "trend-holo": 2.02,
+      "avg1-holo": 0.8,
+      "avg7-holo": 0.84,
+      "avg30-holo": 1.01
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:41.069Z",
+      "normal": {
+        "productId": 84392,
+        "lowPrice": 0.05,
+        "midPrice": 0.3,
+        "highPrice": 19.66,
+        "marketPrice": 0.32,
+        "directLowPrice": null
+      },
+      "reverse-holofoil": {
+        "productId": 84392,
+        "lowPrice": 0.49,
+        "midPrice": 1.6,
+        "highPrice": 19.66,
+        "marketPrice": 1.7,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/dp1-79",
+  "_set_releaseDate": "2007-05-01",
+  "_set_name": "Diamond & Pearl",
+  "_set_id": "dp1"
+}

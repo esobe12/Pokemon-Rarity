@@ -1,0 +1,218 @@
+{
+  "category": "Pokemon",
+  "id": "base1-13",
+  "illustrator": "Ken Sugimori",
+  "image": "https://assets.tcgdex.net/en/base/base1/13",
+  "localId": "13",
+  "name": "Poliwrath",
+  "rarity": "Rare",
+  "set": {
+    "cardCount": {
+      "official": 102,
+      "total": 102
+    },
+    "id": "base1",
+    "logo": "https://assets.tcgdex.net/en/base/base1/logo",
+    "name": "Base Set"
+  },
+  "variants": {
+    "firstEdition": true,
+    "holo": true,
+    "normal": false,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "holo",
+      "subtype": "unlimited",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 273708,
+        "tcgplayer": 42353
+      },
+      "variantId": "4ffrmhcfiaejakhepqdkx7o",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.803Z",
+          "unit": "EUR",
+          "idProduct": 273708,
+          "avg": 29.27,
+          "low": 3,
+          "trend": 23.18,
+          "avg1": 28.48,
+          "avg7": 23.03,
+          "avg30": 28.91,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 19.78,
+          "avg1-holo": 8.96,
+          "avg7-holo": 22.07,
+          "avg30-holo": 19.08
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:37.264Z",
+          "holofoil": {
+            "productId": 42353,
+            "lowPrice": 17.49,
+            "midPrice": 33.01,
+            "highPrice": 292.7,
+            "marketPrice": 34.59,
+            "directLowPrice": 78.98
+          }
+        }
+      }
+    },
+    {
+      "type": "holo",
+      "subtype": "shadowless",
+      "size": "standard",
+      "stamp": [
+        "1st-edition"
+      ],
+      "thirdParty": {
+        "tcgplayer": 107007,
+        "cardmarket": 660215
+      },
+      "variantId": "mtltux8qtgdu4exu903oasum21juxbvx6lx",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.803Z",
+          "unit": "EUR",
+          "idProduct": 660215,
+          "avg": 220,
+          "low": 29.99,
+          "trend": 170.52,
+          "avg1": 400,
+          "avg7": 98.35,
+          "avg30": 139.98,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "holo",
+      "subtype": "shadowless",
+      "size": "standard",
+      "thirdParty": {
+        "tcgplayer": 107007,
+        "cardmarket": 660215
+      },
+      "variantId": "3takscxpcqoqcfnxk1ivs2y6",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.803Z",
+          "unit": "EUR",
+          "idProduct": 660215,
+          "avg": 220,
+          "low": 29.99,
+          "trend": 170.52,
+          "avg1": 400,
+          "avg7": 98.35,
+          "avg30": 139.98,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "holo",
+      "subtype": "1999-2000-copyright",
+      "size": "standard",
+      "variantId": "zqq5g2u9n0st0gren5bssktmac2ywqaw"
+    }
+  ],
+  "dexId": [
+    62
+  ],
+  "hp": 90,
+  "types": [
+    "Water"
+  ],
+  "evolveFrom": "Poliwhirl",
+  "description": "An adept swimmer at both the front crawl and breaststroke. Easily overtakes the best human swimmers.",
+  "stage": "Stage2",
+  "attacks": [
+    {
+      "cost": [
+        "Water",
+        "Water",
+        "Colorless"
+      ],
+      "name": "Water Gun",
+      "effect": "Does 30 damage plus 10 more damage for each Water Energy attached to Poliwrath but not used to pay for this attack's Energy cost. Extra Water Energy after the 2nd doesn't count.",
+      "damage": "30+"
+    },
+    {
+      "cost": [
+        "Water",
+        "Water",
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Whirlpool",
+      "effect": "If the Defending Pok\u00e9mon has any Energy cards attached to it, choose 1 and discard it.",
+      "damage": 40
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 3,
+  "legal": {
+    "standard": false,
+    "expanded": false
+  },
+  "updated": "2026-09-04T23:45:25+01:00",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.803Z",
+      "unit": "EUR",
+      "idProduct": 273708,
+      "avg": 29.27,
+      "low": 3,
+      "trend": 23.18,
+      "avg1": 28.48,
+      "avg7": 23.03,
+      "avg30": 28.91,
+      "avg-holo": null,
+      "low-holo": null,
+      "trend-holo": 19.78,
+      "avg1-holo": 8.96,
+      "avg7-holo": 22.07,
+      "avg30-holo": 19.08
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:37.264Z",
+      "holofoil": {
+        "productId": 42353,
+        "lowPrice": 17.49,
+        "midPrice": 33.01,
+        "highPrice": 292.7,
+        "marketPrice": 34.59,
+        "directLowPrice": 78.98
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/base1-13",
+  "_set_releaseDate": "1999-01-09",
+  "_set_name": "Base Set",
+  "_set_id": "base1"
+}

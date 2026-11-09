@@ -1,0 +1,127 @@
+{
+  "category": "Pokemon",
+  "id": "sv01-133",
+  "illustrator": "Hideki Ishikawa",
+  "image": "https://assets.tcgdex.net/en/sv/sv01/133",
+  "localId": "133",
+  "name": "Bisharp",
+  "rarity": "Common",
+  "set": {
+    "cardCount": {
+      "official": 198,
+      "total": 258
+    },
+    "id": "sv01",
+    "logo": "https://assets.tcgdex.net/en/sv/sv01/logo",
+    "name": "Scarlet & Violet",
+    "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": false,
+    "normal": true,
+    "reverse": true,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "variantId": "endfynwn4n10gzq"
+    },
+    {
+      "type": "reverse",
+      "size": "standard",
+      "variantId": "cm4kqul3x1bwlz1f"
+    }
+  ],
+  "dexId": [
+    625
+  ],
+  "hp": 120,
+  "types": [
+    "Darkness"
+  ],
+  "evolveFrom": "Pawniard",
+  "description": "This Pok\u00e9mon commands a group of several Pawniard. Groups that are defeated in territorial disputes are absorbed by the winning side.",
+  "stage": "Stage1",
+  "attacks": [
+    {
+      "cost": [
+        "Darkness"
+      ],
+      "name": "Dark Cutter",
+      "damage": 40
+    },
+    {
+      "cost": [
+        "Darkness",
+        "Colorless"
+      ],
+      "name": "Double-Edged Slash",
+      "effect": "This Pok\u00e9mon also does 30 damage to itself.",
+      "damage": 120
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Grass",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 1,
+  "regulationMark": "G",
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-08-20T01:44:01+01:00",
+  "thirdParty": {
+    "cardmarket": 702428,
+    "tcgplayer": 488023
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.808Z",
+      "unit": "EUR",
+      "idProduct": 702428,
+      "avg": 0.03,
+      "low": 0.02,
+      "trend": 0.03,
+      "avg1": 0.02,
+      "avg7": 0.05,
+      "avg30": 0.03,
+      "avg-holo": 0.11,
+      "low-holo": 0.02,
+      "trend-holo": 0.07,
+      "avg1-holo": 0.1,
+      "avg7-holo": 0.08,
+      "avg30-holo": 0.1
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:50.355Z",
+      "normal": {
+        "productId": 488023,
+        "lowPrice": 0.01,
+        "midPrice": 0.15,
+        "highPrice": 20,
+        "marketPrice": 0.12,
+        "directLowPrice": 0.01
+      },
+      "reverse-holofoil": {
+        "productId": 488023,
+        "lowPrice": 0.01,
+        "midPrice": 0.2,
+        "highPrice": 19.66,
+        "marketPrice": 0.15,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/sv01-133",
+  "_set_releaseDate": "2023-03-31",
+  "_set_name": "Scarlet & Violet",
+  "_set_id": "sv01"
+}

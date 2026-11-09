@@ -1,0 +1,237 @@
+{
+  "category": "Pokemon",
+  "id": "bw1-81",
+  "illustrator": "sui",
+  "image": "https://assets.tcgdex.net/en/bw/bw1/81",
+  "localId": "81",
+  "name": "Lillipup",
+  "rarity": "Common",
+  "set": {
+    "cardCount": {
+      "official": 114,
+      "total": 115
+    },
+    "id": "bw1",
+    "logo": "https://assets.tcgdex.net/en/bw/bw1/logo",
+    "name": "Black & White",
+    "symbol": "https://assets.tcgdex.net/univ/bw/bw1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": true,
+    "normal": true,
+    "reverse": true,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "normal",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 279819,
+        "tcgplayer": 86798
+      },
+      "variantId": "endfynwn4n10gzq",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.824Z",
+          "unit": "EUR",
+          "idProduct": 279819,
+          "avg": 0.12,
+          "low": 0.02,
+          "trend": 0.09,
+          "avg1": 0.02,
+          "avg7": 0.06,
+          "avg30": 0.13,
+          "avg-holo": 0.77,
+          "low-holo": 0.04,
+          "trend-holo": 1.08,
+          "avg1-holo": 0.5,
+          "avg7-holo": 0.86,
+          "avg30-holo": 0.93
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:43.407Z",
+          "normal": {
+            "productId": 86798,
+            "lowPrice": 0.03,
+            "midPrice": 0.29,
+            "highPrice": 17.36,
+            "marketPrice": 0.32,
+            "directLowPrice": 0.19
+          },
+          "reverse-holofoil": {
+            "productId": 86798,
+            "lowPrice": 1.2,
+            "midPrice": 1.5,
+            "highPrice": 28.48,
+            "marketPrice": 1.66,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    {
+      "type": "holo",
+      "size": "standard",
+      "stamp": [
+        "player-rewards-program"
+      ],
+      "thirdParty": {
+        "cardmarket": 371575
+      },
+      "variantId": "mtltux8quqoc7vwp24c9zzhgmzduu8xcik8",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.824Z",
+          "unit": "EUR",
+          "idProduct": 371575,
+          "avg": 1.19,
+          "low": 0.2,
+          "trend": 1,
+          "avg1": 0.49,
+          "avg7": 1.18,
+          "avg30": 1.13,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 0.63,
+          "avg1-holo": 0.49,
+          "avg7-holo": 0.57,
+          "avg30-holo": 0.56
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "type": "reverse",
+      "size": "standard",
+      "thirdParty": {
+        "cardmarket": 279819,
+        "tcgplayer": 86798
+      },
+      "variantId": "cm4kqul3x1bwlz1f",
+      "pricing": {
+        "cardmarket": {
+          "updated": "2026-11-08T23:49:36.824Z",
+          "unit": "EUR",
+          "idProduct": 279819,
+          "avg": 0.12,
+          "low": 0.02,
+          "trend": 0.09,
+          "avg1": 0.02,
+          "avg7": 0.06,
+          "avg30": 0.13,
+          "avg-holo": 0.77,
+          "low-holo": 0.04,
+          "trend-holo": 1.08,
+          "avg1-holo": 0.5,
+          "avg7-holo": 0.86,
+          "avg30-holo": 0.93
+        },
+        "tcgplayer": {
+          "unit": "USD",
+          "updated": "2026-11-08T23:49:43.407Z",
+          "normal": {
+            "productId": 86798,
+            "lowPrice": 0.03,
+            "midPrice": 0.29,
+            "highPrice": 17.36,
+            "marketPrice": 0.32,
+            "directLowPrice": 0.19
+          },
+          "reverse-holofoil": {
+            "productId": 86798,
+            "lowPrice": 1.2,
+            "midPrice": 1.5,
+            "highPrice": 28.48,
+            "marketPrice": 1.66,
+            "directLowPrice": null
+          }
+        }
+      }
+    }
+  ],
+  "dexId": [
+    506
+  ],
+  "hp": 60,
+  "types": [
+    "Colorless"
+  ],
+  "description": "The long hair around its face provides an amazing radar that lets it sense subtle changes in its surroundings.",
+  "stage": "Basic",
+  "attacks": [
+    {
+      "cost": [
+        "Colorless"
+      ],
+      "name": "Collect",
+      "effect": "Draw a card."
+    },
+    {
+      "cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "name": "Tackle",
+      "damage": 20
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "\u00d72"
+    }
+  ],
+  "retreat": 1,
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-11-01T11:34:09Z",
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.824Z",
+      "unit": "EUR",
+      "idProduct": 279819,
+      "avg": 0.12,
+      "low": 0.02,
+      "trend": 0.09,
+      "avg1": 0.02,
+      "avg7": 0.06,
+      "avg30": 0.13,
+      "avg-holo": 0.77,
+      "low-holo": 0.04,
+      "trend-holo": 1.08,
+      "avg1-holo": 0.5,
+      "avg7-holo": 0.86,
+      "avg30-holo": 0.93
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:43.407Z",
+      "normal": {
+        "productId": 86798,
+        "lowPrice": 0.03,
+        "midPrice": 0.29,
+        "highPrice": 17.36,
+        "marketPrice": 0.32,
+        "directLowPrice": 0.19
+      },
+      "reverse-holofoil": {
+        "productId": 86798,
+        "lowPrice": 1.2,
+        "midPrice": 1.5,
+        "highPrice": 28.48,
+        "marketPrice": 1.66,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/bw1-81",
+  "_set_releaseDate": "2011-04-25",
+  "_set_name": "Black & White",
+  "_set_id": "bw1"
+}

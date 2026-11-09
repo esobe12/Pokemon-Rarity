@@ -1,0 +1,81 @@
+{
+  "category": "Trainer",
+  "id": "sv01-237",
+  "illustrator": "Akira Komayama",
+  "image": "https://assets.tcgdex.net/en/sv/sv01/237",
+  "localId": "237",
+  "name": "Katy",
+  "rarity": "Ultra Rare",
+  "set": {
+    "cardCount": {
+      "official": 198,
+      "total": 258
+    },
+    "id": "sv01",
+    "logo": "https://assets.tcgdex.net/en/sv/sv01/logo",
+    "name": "Scarlet & Violet",
+    "symbol": "https://assets.tcgdex.net/univ/sv/sv01/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": true,
+    "normal": false,
+    "reverse": false,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "holo",
+      "size": "standard",
+      "variantId": "jr7oetx1mqug9"
+    }
+  ],
+  "effect": "Shuffle your hand into your deck. Then, draw 8 cards. Your turn ends.",
+  "trainerType": "Supporter",
+  "regulationMark": "G",
+  "legal": {
+    "standard": false,
+    "expanded": true
+  },
+  "updated": "2026-08-20T01:44:01+01:00",
+  "thirdParty": {
+    "cardmarket": 702533,
+    "tcgplayer": 490095
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.802Z",
+      "unit": "EUR",
+      "idProduct": 702533,
+      "avg": 1.7,
+      "low": 0.5,
+      "trend": 1.81,
+      "avg1": 1.68,
+      "avg7": 1.82,
+      "avg30": 1.72,
+      "avg-holo": null,
+      "low-holo": null,
+      "trend-holo": 0,
+      "avg1-holo": null,
+      "avg7-holo": null,
+      "avg30-holo": null
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:50.355Z",
+      "holofoil": {
+        "productId": 490095,
+        "lowPrice": 1.14,
+        "midPrice": 2.1,
+        "highPrice": 24.99,
+        "marketPrice": 1.87,
+        "directLowPrice": 2.34
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/sv01-237",
+  "_set_releaseDate": "2023-03-31",
+  "_set_name": "Scarlet & Violet",
+  "_set_id": "sv01"
+}

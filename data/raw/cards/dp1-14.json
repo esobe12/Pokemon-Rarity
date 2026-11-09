@@ -1,0 +1,133 @@
+{
+  "category": "Pokemon",
+  "id": "dp1-14",
+  "illustrator": "Masakazu Fukuda",
+  "image": "https://assets.tcgdex.net/en/dp/dp1/14",
+  "localId": "14",
+  "name": "Shiftry",
+  "rarity": "Rare Holo",
+  "set": {
+    "cardCount": {
+      "official": 130,
+      "total": 130
+    },
+    "id": "dp1",
+    "logo": "https://assets.tcgdex.net/en/dp/dp1/logo",
+    "name": "Diamond & Pearl",
+    "symbol": "https://assets.tcgdex.net/univ/dp/dp1/symbol"
+  },
+  "variants": {
+    "firstEdition": false,
+    "holo": true,
+    "normal": false,
+    "reverse": true,
+    "wPromo": false
+  },
+  "variants_detailed": [
+    {
+      "type": "holo",
+      "size": "standard",
+      "variantId": "jr7oetx1mqug9"
+    },
+    {
+      "type": "reverse",
+      "size": "standard",
+      "variantId": "cm4kqul3x1bwlz1f"
+    }
+  ],
+  "dexId": [
+    275
+  ],
+  "hp": 120,
+  "types": [
+    "Darkness"
+  ],
+  "evolveFrom": "Nuzleaf",
+  "description": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
+  "stage": "Stage2",
+  "abilities": [
+    {
+      "type": "Poke-POWER",
+      "name": "Darkness Fan",
+      "effect": "Once during your turn (before your attack), you may flip a coin. If heads, choose 1 Evolved Pok\u00e9mon on your opponent's Bench, remove the highest Stage Evolution card from that Pok\u00e9mon, and put it back into his or her hand. This power can't be used if Shiftry is affected by a Special Condition."
+    }
+  ],
+  "attacks": [
+    {
+      "cost": [
+        "Darkness",
+        "Darkness",
+        "Colorless"
+      ],
+      "name": "Spirit Dance",
+      "effect": "Flip 2 coins. This attack does 50 damage plus 20 more damage for each heads.",
+      "damage": "50+"
+    }
+  ],
+  "weaknesses": [
+    {
+      "type": "Fighting",
+      "value": "+30"
+    }
+  ],
+  "resistances": [
+    {
+      "type": "Psychic",
+      "value": "-20"
+    }
+  ],
+  "retreat": 2,
+  "legal": {
+    "standard": false,
+    "expanded": false
+  },
+  "updated": "2026-08-15T23:30:13+01:00",
+  "thirdParty": {
+    "cardmarket": 277513,
+    "tcgplayer": 89157
+  },
+  "pricing": {
+    "cardmarket": {
+      "updated": "2026-11-08T23:49:36.795Z",
+      "unit": "EUR",
+      "idProduct": 277513,
+      "avg": 3.35,
+      "low": 0.25,
+      "trend": 1.45,
+      "avg1": 2.99,
+      "avg7": 3.11,
+      "avg30": 4.31,
+      "avg-holo": 4.06,
+      "low-holo": 0.25,
+      "trend-holo": 2.78,
+      "avg1-holo": 4.75,
+      "avg7-holo": 3.62,
+      "avg30-holo": 2.57
+    },
+    "tcgplayer": {
+      "unit": "USD",
+      "updated": "2026-11-08T23:49:41.069Z",
+      "holofoil": {
+        "productId": 89157,
+        "lowPrice": 5.6,
+        "midPrice": 11.59,
+        "highPrice": 99.68,
+        "marketPrice": 8.3,
+        "directLowPrice": null
+      },
+      "reverse-holofoil": {
+        "productId": 89157,
+        "lowPrice": 3.9,
+        "midPrice": 7.01,
+        "highPrice": 39.99,
+        "marketPrice": 6.28,
+        "directLowPrice": null
+      }
+    }
+  },
+  "_collected_at": "2026-11-09T03:32:52.460965+00:00",
+  "_source_url": "https://api.tcgdex.net/v2/en/cards/dp1-14",
+  "_set_releaseDate": "2007-05-01",
+  "_set_name": "Diamond & Pearl",
+  "_set_id": "dp1"
+}
