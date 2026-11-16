@@ -1,29 +1,37 @@
-# Data dictionary — cleaned Pokémon TCG sample
+# Data dictionary — cleaned Pokémon TCG tables
 
-File: [`sample/cards_clean_sample.csv`](sample/cards_clean_sample.csv)  
-Full tidy table (local / also committed when small): [`processed/cards_clean.csv`](processed/cards_clean.csv)
+## PokéWallet analysis table (this week)
 
-Each row is one English Pokémon TCG card from the collection snapshot, after cleaning.
+Files:
+- [`processed/cards_clean_pokewallet.csv`](processed/cards_clean_pokewallet.csv)
+- [`sample/cards_clean_pokewallet_sample.csv`](sample/cards_clean_pokewallet_sample.csv)
+
+Each row is one English Pokémon TCG **card** (not sealed product) from the PokéWallet snapshot, after cleaning.
 
 | Field | Type | Meaning |
 |-------|------|---------|
-| `card_id` | string | TCGdex card identifier (e.g. `base1-4`). |
-| `card_name` | string | Printed card name. |
-| `set_id` | string | TCGdex set identifier (e.g. `swsh1`). |
-| `set_name` | string | Expansion / set name. |
-| `release_date` | date (ISO `YYYY-MM-DD`) | Official set release date used as the card’s age anchor. |
-| `age_years` | number | Years between `release_date` and the project reference date (2026-11-09). |
-| `rarity` | string | Printed rarity label from TCGdex (e.g. Common, Rare, Ultra Rare). |
-| `category` | string | Card category (e.g. Pokemon, Trainer, Energy). |
-| `local_id` | string | Collector number within the set. |
-| `variant_price_source` | string | Which variant/finish the USD market price was taken from. |
-| `market_price_usd` | number | TCGPlayer market price in USD at collection time (snapshot). |
-| `collected_at_utc` | string (ISO datetime) | When this card record was downloaded. |
-| `source_url` | string | TCGdex API URL for the raw card JSON. |
+| `card_id` | string | PokéWallet card id (`pk_…` for TCGPlayer-linked cards). |
+| `card_name` | string | Card name from `card_info.name`. |
+| `set_id` | string | Numeric PokéWallet set id (stable join key). |
+| `set_code` | string | Short set code (e.g. `BS`, `FO`). |
+| `set_name` | string | Set name. |
+| `release_date` | date (`YYYY-MM-DD`) | Parsed set release date used for age. |
+| `age_years` | number | Years from `release_date` to collection/reference date. |
+| `rarity` | string | Printed rarity string from the API. |
+| `card_number` | string | Collector number when present. |
+| `variant_price_source` | string | TCGPlayer finish used for the price (e.g. Normal, Holofoil). |
+| `market_price_usd` | number | TCGPlayer `market_price` (USD) at snapshot time. |
+| `collected_at_utc` | string | Collection timestamp (UTC). |
+| `rarity_bucket` | string | Coarse rarity group for comparisons. |
+| `era` | string | Age band for release-period comparisons. |
 
-## Cleaning rules (summary)
+### Cleaning rules
 
-- Drop rows missing `card_id`, name, set, rarity, release date, or market price.
-- Drop non-positive prices.
-- Prefer TCGPlayer `marketPrice` from `variants_detailed`; otherwise use top-level pricing.
-- Age is derived from set release date, not from individual print variants.
+- Keep `product_type` cards only (exclude sealed).
+- Require `card_id`, name, set, rarity, release date, and positive TCGPlayer `market_price`.
+- Prefer the highest positive `market_price` across finish variants on the card.
+- Age comes from set release date, not print variant.
+
+## Earlier TCGdex table
+
+[`processed/cards_clean.csv`](processed/cards_clean.csv) / [`sample/cards_clean_sample.csv`](sample/cards_clean_sample.csv) use TCGdex ids and fields from the prior collection week.

@@ -1,0 +1,7224 @@
+[
+  {
+    "id": "pk_a8806bcab05619043ce9dccd6ba02e2eca082455dec5ed8c6fdabdc963c938296d2246f90d55275561a1592811",
+    "card_info": {
+      "name": "Alakazam",
+      "clean_name": "Alakazam",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "001/102",
+      "rarity": "Holo Rare",
+      "card_type": "Psychic",
+      "product_type": "card",
+      "hp": "80.0",
+      "stage": "Stage 2",
+      "card_text": "<strong>Pok\u00e9mon Power: Damage Swap</strong> As often as you like during your turn <em>(before your attack)</em>, you may move 1 damage counter from 1 of your Pok\u00e9mon to another as long as you don't Knock Out that Pok\u00e9mon. This power can't be used if Alakazam is Asleep, Confused, or Paralyzed.",
+      "attacks": [
+        "[PPP] Confuse Ray (30)\r\n<br>Flip a coin. If heads, the Defending Pok\u00e9mon is now Confused."
+      ],
+      "weakness": "P",
+      "resistance": null,
+      "retreat_cost": "3.0",
+      "variants": [
+        "1st Edition Holofoil",
+        "Unlimited Holofoil"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 599.99,
+          "mid_price": 999,
+          "high_price": 1299.95,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 323.42,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition Holofoil"
+        },
+        {
+          "low_price": 180,
+          "mid_price": 488.88,
+          "high_price": 1999.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 490.98,
+          "direct_low_price": null,
+          "sub_type_name": "Unlimited Holofoil"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/106996"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_3e162e125a7f67225183a6be0880822e93c69e3fb1c80fa37d5896787b6d44ac2eaf18ea4e5e83e68b3f272dad",
+    "card_info": {
+      "name": "Blastoise",
+      "clean_name": "Blastoise",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "002/102",
+      "rarity": "Holo Rare",
+      "card_type": "Water",
+      "product_type": "card",
+      "hp": "100.0",
+      "stage": "Stage 2",
+      "card_text": "<strong>Pok\u00e9mon Power: Rain Dance</strong> As often as you like during your turn <em>(before your attack)</em>, you may attach 1 Water Energy card to 1 of your Water Pok\u00e9mon. <em>(This doesn't use up your 1 Energy card attachment for the turn.)</em> This power can't be used if Blastoise is Asleep, Confused, or Paralyzed.",
+      "attacks": [
+        "[WWW] Hydro Pump (40+)\r\n<br>Does 40 damage plus 10 more damage for each Water Energy attached to Blastoise but not used to pay for this attack's Energy cost. Extra Water Energy after the 2nd doesn't count."
+      ],
+      "weakness": "L",
+      "resistance": null,
+      "retreat_cost": "3.0",
+      "variants": [
+        "1st Edition Holofoil",
+        "Unlimited Holofoil"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 998.13,
+          "mid_price": 1199.99,
+          "high_price": 1599.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": null,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition Holofoil"
+        },
+        {
+          "low_price": 500,
+          "mid_price": 725,
+          "high_price": 2420,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 896.06,
+          "direct_low_price": null,
+          "sub_type_name": "Unlimited Holofoil"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/106997"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_fe2811c381bb94e4a5438c1c1880b475cf625f209051f8574daf9b3af84b2c4f6b41365b870c7661ec57748eb2",
+    "card_info": {
+      "name": "Chansey",
+      "clean_name": "Chansey",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "003/102",
+      "rarity": "Holo Rare",
+      "card_type": "Psychic",
+      "product_type": "card",
+      "hp": "120.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[2] Scrunch\r\n<br>Flip a coin. If heads, prevent all damage done to Chansey during your opponent's next turn. <em>(Any other effects of attacks still happen.)</em>",
+        "[4] Double-edge (80)\r\n<br>Chansey does 80 damage to itself."
+      ],
+      "weakness": "F",
+      "resistance": "P-30",
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition Holofoil",
+        "Unlimited Holofoil"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 284.99,
+          "mid_price": 287.47,
+          "high_price": 499.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 349,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition Holofoil"
+        },
+        {
+          "low_price": 48,
+          "mid_price": 78.6,
+          "high_price": 1499.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 96.61,
+          "direct_low_price": null,
+          "sub_type_name": "Unlimited Holofoil"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/106998"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_45c1a24a969b0b3d66ca6e4aea705aef873bf7e07d43e3cf6a391e1c9e9b01d38a9a23b3953ff6fbcd17fffa77",
+    "card_info": {
+      "name": "Charizard",
+      "clean_name": "Charizard",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "004/102",
+      "rarity": "Holo Rare",
+      "card_type": "Fire",
+      "product_type": "card",
+      "hp": "120.0",
+      "stage": "Stage 2",
+      "card_text": "<strong>Pok\u00e9mon Power: Energy Burn</strong> As often as you like during your turn <em>(before your attack)</em>, you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed.",
+      "attacks": [
+        "[RRRR] Fire Spin (100)\r\n<br>Discard 2 Energy cards attached to Charizard in order to use this attack."
+      ],
+      "weakness": "W",
+      "resistance": "F-30",
+      "retreat_cost": "3.0",
+      "variants": [
+        "1st Edition Holofoil",
+        "Unlimited Holofoil"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 3187,
+          "mid_price": 5750,
+          "high_price": 10000,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 2172.24,
+          "direct_low_price": null,
+          "sub_type_name": "Unlimited Holofoil"
+        },
+        {
+          "low_price": 100000,
+          "mid_price": 100000,
+          "high_price": 100000,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": null,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition Holofoil"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/106999"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_1d5c2f742cbc7edb68fbb5dc376b22d63bd61337410db5477bbdf6833bf6e2a91719f0b075cd97c653a85b86cf",
+    "card_info": {
+      "name": "Gyarados",
+      "clean_name": "Gyarados",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "006/102",
+      "rarity": "Holo Rare",
+      "card_type": "Water",
+      "product_type": "card",
+      "hp": "100.0",
+      "stage": "Stage 1",
+      "card_text": null,
+      "attacks": [
+        "[WWW] Dragon Rage (50)",
+        "[WWWW] Bubblebeam (40)\r\n<br>Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed."
+      ],
+      "weakness": "G",
+      "resistance": "F-30",
+      "retreat_cost": "3.0",
+      "variants": [
+        "1st Edition Holofoil",
+        "Unlimited Holofoil"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 2380,
+          "mid_price": 4499.99,
+          "high_price": 14280,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 200,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition Holofoil"
+        },
+        {
+          "low_price": 89.95,
+          "mid_price": 124.99,
+          "high_price": 1185.77,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 116.59,
+          "direct_low_price": null,
+          "sub_type_name": "Unlimited Holofoil"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107000"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_7cd5fdef384e3c90c682c5f4ad38ab01c3290b760ff9c7eea740560f6dab3ce1e1bbc3bf33cf8ba06b0b0b444f",
+    "card_info": {
+      "name": "Clefairy",
+      "clean_name": "Clefairy",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "005/102",
+      "rarity": "Holo Rare",
+      "card_type": "Colorless",
+      "product_type": "card",
+      "hp": "40.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[1] Sing\r\n<br>Flip a coin. If heads, the Defending Pok\u00e9mon is now Asleep.",
+        "[3] Metronome\r\n<br>Choose 1 of the Defending Pok\u00e9mon's attacks. Metronome copies that attack except for its Energy costs and anything else required to use that attack, such as discarding Energy cards. <em>(No matter what type the Defending Pok\u00e9mon is, Clefairy's type is still Colorless.)</em>"
+      ],
+      "weakness": "F",
+      "resistance": "P-30",
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition Holofoil",
+        "Unlimited Holofoil"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 300,
+          "mid_price": 413.85,
+          "high_price": 750,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 379.98,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition Holofoil"
+        },
+        {
+          "low_price": 98.77,
+          "mid_price": 164.35,
+          "high_price": 1371.89,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 168.07,
+          "direct_low_price": 159.42,
+          "sub_type_name": "Unlimited Holofoil"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107001"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_4b5c57f4770c8903b4de0d311d5db1afa17266ebedeebb991460d6fdde44dded40aefed63b92402da948c5a35c",
+    "card_info": {
+      "name": "Hitmonchan",
+      "clean_name": "Hitmonchan",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "007/102",
+      "rarity": "Holo Rare",
+      "card_type": "Fighting",
+      "product_type": "card",
+      "hp": "70.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[F] Jab (20)",
+        "[1FF] Special Punch (40)"
+      ],
+      "weakness": "P",
+      "resistance": null,
+      "retreat_cost": "2.0",
+      "variants": [
+        "1st Edition Holofoil",
+        "Unlimited Holofoil"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 331.99,
+          "mid_price": 331.99,
+          "high_price": 331.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 225,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition Holofoil"
+        },
+        {
+          "low_price": 30,
+          "mid_price": 91.29,
+          "high_price": 919.68,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 103.74,
+          "direct_low_price": 54.95,
+          "sub_type_name": "Unlimited Holofoil"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107002"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_8f36df7cc11fc9869666501135a9160d8d36d9a55c70ef74c1deb1ce993d3ff513dc962bd110cdba1a1086a239",
+    "card_info": {
+      "name": "Magneton",
+      "clean_name": "Magneton",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "009/102",
+      "rarity": "Holo Rare",
+      "card_type": "Lightning",
+      "product_type": "card",
+      "hp": "60.0",
+      "stage": "Stage 1",
+      "card_text": null,
+      "attacks": [
+        "[1LL] Thunder Wave (30)\r\n<br>Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed.",
+        "[2LL] Selfdestruct (80)\r\n<br>Does 20 damage to each Pok\u00e9mon on each player's Bench. <em>(Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)</em> Magneton does 80 damage to itself."
+      ],
+      "weakness": "F",
+      "resistance": null,
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition Holofoil",
+        "Unlimited Holofoil"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 249,
+          "mid_price": 319.29,
+          "high_price": 500,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 367.5,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition Holofoil"
+        },
+        {
+          "low_price": 70,
+          "mid_price": 95,
+          "high_price": 354.53,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 87.09,
+          "direct_low_price": 94.99,
+          "sub_type_name": "Unlimited Holofoil"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107003"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_702061ebf1fe29ec06d352b16e2c664f58bd5bf0524978f778bf02d0800975dcb5731574a4b011254376db2d9581",
+    "card_info": {
+      "name": "Mewtwo",
+      "clean_name": "Mewtwo",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "010/102",
+      "rarity": "Holo Rare",
+      "card_type": "Psychic",
+      "product_type": "card",
+      "hp": "60.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[1P] Psychic (10+)\r\n<br>Does 10 damage plus 10 more damage for each Energy card attached to the Defending Pok\u00e9mon.",
+        "[PP] Barrier\r\n<br>Discard 1 Psychic Energy card attached to Mewtwo in order to prevent all effects of attacks, including damage, done to Mewtwo during your opponent's next turn."
+      ],
+      "weakness": "P",
+      "resistance": null,
+      "retreat_cost": "3.0",
+      "variants": [
+        "1st Edition Holofoil",
+        "Unlimited Holofoil"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 76,
+          "mid_price": 142.5,
+          "high_price": 1109.48,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 339.99,
+          "direct_low_price": null,
+          "sub_type_name": "Unlimited Holofoil"
+        },
+        {
+          "low_price": 449.99,
+          "mid_price": 449.99,
+          "high_price": 449.99,
+          "updated_at": "2026-11-11T12:53:26.62383",
+          "market_price": 358.01,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition Holofoil"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107005"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_e1894856c036efb023442775109cb661b39ece781da14b87e1683fc00aadef9ebd7fe7b46570410a4cbef58fa4e6",
+    "card_info": {
+      "name": "Nidoking",
+      "clean_name": "Nidoking",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "011/102",
+      "rarity": "Holo Rare",
+      "card_type": "Grass",
+      "product_type": "card",
+      "hp": "90.0",
+      "stage": "Stage 2",
+      "card_text": null,
+      "attacks": [
+        "[2G] Thrash (30+)\r\n<br>Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage plus Nidoking does 10 damage to itself.",
+        "[GGG] Toxic (20)\r\n<br>The Defending Pok\u00e9mon is now Poisoned. It now takes 20 Poison damage instead of 10 after each player's turn <em>(even if it was already Poisoned)</em>."
+      ],
+      "weakness": "P",
+      "resistance": null,
+      "retreat_cost": "3.0",
+      "variants": [
+        "1st Edition Holofoil",
+        "Unlimited Holofoil"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 346.94,
+          "mid_price": 488,
+          "high_price": 3599.64,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 349.96,
+          "direct_low_price": 3599.64,
+          "sub_type_name": "1st Edition Holofoil"
+        },
+        {
+          "low_price": 100,
+          "mid_price": 179.59,
+          "high_price": 1502.19,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 177.99,
+          "direct_low_price": 399.95,
+          "sub_type_name": "Unlimited Holofoil"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107006"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_67984ae39e60ac126fc0f25b2d39eb74390b09d91fd14135e2b47580f83496f1e9a2d8bafc15fe2d0bb2e45aa79b",
+    "card_info": {
+      "name": "Poliwrath",
+      "clean_name": "Poliwrath",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "013/102",
+      "rarity": "Holo Rare",
+      "card_type": "Water",
+      "product_type": "card",
+      "hp": "90.0",
+      "stage": "Stage 2",
+      "card_text": null,
+      "attacks": [
+        "[2W] Water Gun (30+)\r\n<br>Does 30 damage plus 10 more damage for each Water Energy attached to Poliwrath but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.",
+        "[2WW] Whirlpool (40)\r\n<br>If the Defending Pok\u00e9mon has any Energy cards attached to it, choose 1 of them and discard it."
+      ],
+      "weakness": "G",
+      "resistance": null,
+      "retreat_cost": "3.0",
+      "variants": [
+        "1st Edition Holofoil",
+        "Unlimited Holofoil"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 239.9,
+          "mid_price": 500,
+          "high_price": 2399.68,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 299.99,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition Holofoil"
+        },
+        {
+          "low_price": 80,
+          "mid_price": 153.89,
+          "high_price": 598.68,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 158.2,
+          "direct_low_price": 598.68,
+          "sub_type_name": "Unlimited Holofoil"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107007"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_46f5b37a04389c5dc045e027fac4161d4191f916605c7dca1973fcc0bd24289f3c7fb160642dd0c2df8fe99a8168",
+    "card_info": {
+      "name": "Ninetales",
+      "clean_name": "Ninetales",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "012/102",
+      "rarity": "Holo Rare",
+      "card_type": "Fire",
+      "product_type": "card",
+      "hp": "80.0",
+      "stage": "Stage 1",
+      "card_text": null,
+      "attacks": [
+        "[2] Lure\r\n<br>If your opponent has any Benched Pok\u00e9mon, choose 1 of them and switch it with the Defending Pok\u00e9mon.",
+        "[RRRR] Fire Blast (80)\r\n<br>Discard 1 Fire Energy card attached to Ninetales in order to use this attack."
+      ],
+      "weakness": "W",
+      "resistance": null,
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition Holofoil",
+        "Unlimited Holofoil"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 398,
+          "mid_price": 549,
+          "high_price": 699.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 350.5,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition Holofoil"
+        },
+        {
+          "low_price": 71.68,
+          "mid_price": 260,
+          "high_price": 5708.52,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 172.57,
+          "direct_low_price": null,
+          "sub_type_name": "Unlimited Holofoil"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107008"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_8ec6eb98122f9e504458916c7c461bb51b665d11bc290e39f90d350f43a6f2d228d6b5b639a9bedec1b63f3d985e",
+    "card_info": {
+      "name": "Raichu",
+      "clean_name": "Raichu",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "014/102",
+      "rarity": "Holo Rare",
+      "card_type": "Lightning",
+      "product_type": "card",
+      "hp": "80.0",
+      "stage": "Stage 1",
+      "card_text": null,
+      "attacks": [
+        "[2L] Agility (20)\r\n<br>Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Raichu.",
+        "[1LLL] Thunder (60)\r\n<br>Flip a coin. If tails, Raichu does 30 damage to itself."
+      ],
+      "weakness": "F",
+      "resistance": null,
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition Holofoil",
+        "Unlimited Holofoil"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 599.99,
+          "mid_price": 640.09,
+          "high_price": 1164.79,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 550,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition Holofoil"
+        },
+        {
+          "low_price": 225.5,
+          "mid_price": 898.98,
+          "high_price": 1498.64,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 244.83,
+          "direct_low_price": 898.98,
+          "sub_type_name": "Unlimited Holofoil"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107009"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_f69b20a763666ae195cc7483ba6b979eb777af894c307c15d64fd16f11c6f093dbfc08d753bd8077cca6af3d5fff",
+    "card_info": {
+      "name": "Venusaur",
+      "clean_name": "Venusaur",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "015/102",
+      "rarity": "Holo Rare",
+      "card_type": "Grass",
+      "product_type": "card",
+      "hp": "100.0",
+      "stage": "Stage 2",
+      "card_text": "<strong>Pok\u00e9mon Power: Energy Trans</strong> As often as you like during your turn <em>(before your attack)</em>, you may take 1 Grass Energy card attached to 1 of your Pok\u00e9mon and attach it to a different one. This power can't be used if Venusaur is Asleep, Confused, or Paralyzed.",
+      "attacks": [
+        "[GGGG] Solarbeam (60)"
+      ],
+      "weakness": "R",
+      "resistance": null,
+      "retreat_cost": "2.0",
+      "variants": [
+        "1st Edition Holofoil",
+        "Unlimited Holofoil"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 1099.99,
+          "mid_price": 1498,
+          "high_price": 2999.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 1000,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition Holofoil"
+        },
+        {
+          "low_price": 213.74,
+          "mid_price": 325,
+          "high_price": 519.95,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 490.65,
+          "direct_low_price": null,
+          "sub_type_name": "Unlimited Holofoil"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107010"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_25462c64c5dc2f50b22988cdf873b1cfe85cfc0ecc2119f0c73eb9eb341281c459f21bd38b16d19bad1f7bf3a644",
+    "card_info": {
+      "name": "Zapdos",
+      "clean_name": "Zapdos",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "016/102",
+      "rarity": "Holo Rare",
+      "card_type": "Lightning",
+      "product_type": "card",
+      "hp": "90.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[1LLL] Thunder (60)\r\n<br>Flip a coin. If tails, Zapdos does 30 damage to itself.",
+        "[LLLL] Thunderbolt (100)\r\n<br>Discard all Energy cards attached to Zapdos in order to use this attack."
+      ],
+      "weakness": null,
+      "resistance": "F-30",
+      "retreat_cost": "3.0",
+      "variants": [
+        "1st Edition Holofoil",
+        "Unlimited Holofoil"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 359.99,
+          "mid_price": 400,
+          "high_price": 645,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 300,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition Holofoil"
+        },
+        {
+          "low_price": 153.54,
+          "mid_price": 399.99,
+          "high_price": 1516.58,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 146.23,
+          "direct_low_price": null,
+          "sub_type_name": "Unlimited Holofoil"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107011"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_dbcc04c7a28fb5be8c0c06ae175b782f251343af5088440d3f579c8f6ca21b565054eab2dcb8edff4e10255bba1f",
+    "card_info": {
+      "name": "Beedrill",
+      "clean_name": "Beedrill",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "017/102",
+      "rarity": "Rare",
+      "card_type": "Grass",
+      "product_type": "card",
+      "hp": "80.0",
+      "stage": "Stage 2",
+      "card_text": null,
+      "attacks": [
+        "[3] Twineedle (30x)\r\n<br>Flip 2 coins. This attack does 30 damage times the number of heads.",
+        "[GGG] Poison Sting (40)\r\n<br>Flip a coin. If heads, the Defending Pok\u00e9mon is now Poisoned."
+      ],
+      "weakness": "R",
+      "resistance": "F-30",
+      "retreat_cost": "0.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 1499.58,
+          "mid_price": 1511.88,
+          "high_price": 1524.17,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 158.23,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 11.98,
+          "mid_price": 24,
+          "high_price": 136.34,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 21.38,
+          "direct_low_price": 34.99,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107012"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_1c0d0a6c8722a70e9acb76cab61ea9152a5b2741e609e8de5cce311da620a7a30d9f57b1eba59992cf62f489558a",
+    "card_info": {
+      "name": "Dragonair",
+      "clean_name": "Dragonair",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "018/102",
+      "rarity": "Rare",
+      "card_type": "Colorless",
+      "product_type": "card",
+      "hp": "80.0",
+      "stage": "Stage 1",
+      "card_text": null,
+      "attacks": [
+        "[3] Slam (30x)\r\n<br>Flip 2 coins. This attack does 30 damage times the number of heads.",
+        "[4] Hyper Beam (20)\r\n<br>If the Defending Pok\u00e9mon has any Energy cards attached to it, choose 1 of them and discard it."
+      ],
+      "weakness": null,
+      "resistance": "P-30",
+      "retreat_cost": "2.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 199.99,
+          "mid_price": 249.95,
+          "high_price": 1786.33,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 134.39,
+          "direct_low_price": 249.95,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 55,
+          "mid_price": 65,
+          "high_price": 199.73,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 59.26,
+          "direct_low_price": 199.73,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107013"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_496e04020746c2d6acc51a23da8f0a97054a19d95486cc8fe5671270b0c479f6ed2d04541114a8f4405bb9384bb0",
+    "card_info": {
+      "name": "Dugtrio",
+      "clean_name": "Dugtrio",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "019/102",
+      "rarity": "Rare",
+      "card_type": "Fighting",
+      "product_type": "card",
+      "hp": "70.0",
+      "stage": "Stage 1",
+      "card_text": null,
+      "attacks": [
+        "[1FF] Slash (40)",
+        "[FFFF] Earthquake (70)\r\n<br>Does 10 damage to each of your own Benched Pok\u00e9mon. <em>(Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)</em>"
+      ],
+      "weakness": "G",
+      "resistance": "L-30",
+      "retreat_cost": "2.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 116.07,
+          "mid_price": 137.24,
+          "high_price": 249.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 126.44,
+          "direct_low_price": 219.39,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 14.99,
+          "mid_price": 34,
+          "high_price": 149.98,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 29.59,
+          "direct_low_price": 149.98,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107014"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_d66f246c9daad3764b145b30c6730fb9c0a9744bb465d8d5bacb5848f4b0b0f6b67ac82ed7f65b55e38c22ba930f",
+    "card_info": {
+      "name": "Electabuzz",
+      "clean_name": "Electabuzz",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "020/102",
+      "rarity": "Rare",
+      "card_type": "Lightning",
+      "product_type": "card",
+      "hp": "70.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[L] Thundershock (10)\r\n<br>Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed.",
+        "[1L] Thunderpunch (30+)\r\n<br>Flip a coin. If heads, this attack does 30 more damage; if tails, this attack does 30 damage plus Electabuzz does 10 damage to itself."
+      ],
+      "weakness": "F",
+      "resistance": null,
+      "retreat_cost": "2.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 72,
+          "mid_price": 104,
+          "high_price": 749.68,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 160.4,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 21.77,
+          "mid_price": 40,
+          "high_price": 238.71,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 46.54,
+          "direct_low_price": null,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107015"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_b3bf398710a334f54639b4a29d45002cbcb617b88051313be5a6d776502500294d2a52d324b542c5f1944d23bed8",
+    "card_info": {
+      "name": "Electrode",
+      "clean_name": "Electrode",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "021/102",
+      "rarity": "Rare",
+      "card_type": "Lightning",
+      "product_type": "card",
+      "hp": "80.0",
+      "stage": "Stage 1",
+      "card_text": "<strong>Pok\u00e9mon Power: Buzzap</strong> At any time during your turn <em>(before your attack)</em>, you may Knock Out Electrode and attach it to 1 of your other Pok\u00e9mon. If you do, choose a type of Energy. Electrode is now an Energy card of that type (instead of a Pok\u00e9mon) that provides 2 Energy. This power can't be used if Electrode is Asleep, Confused, or Paralyzed.",
+      "attacks": [
+        "[LLL] Electric Shock (50)\r\n<br>Flip a coin. If tails, Electrode does 10 damage to itself."
+      ],
+      "weakness": "F",
+      "resistance": null,
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 80,
+          "mid_price": 328.64,
+          "high_price": 849.58,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 77.53,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 15,
+          "mid_price": 24.73,
+          "high_price": 136.76,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 24.49,
+          "direct_low_price": 136.76,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107016"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_83c9dca1518d3a56771f3e9823ad2ee8feac2cc3f0ac13047992246070990e4d39bf0fe3c78fe9138a8edbce9ea9",
+    "card_info": {
+      "name": "Pidgeotto",
+      "clean_name": "Pidgeotto",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "022/102",
+      "rarity": "Rare",
+      "card_type": "Colorless",
+      "product_type": "card",
+      "hp": "60.0",
+      "stage": "Stage 1",
+      "card_text": null,
+      "attacks": [
+        "[2] Whirlwind (20)\r\n<br>If your opponent has any Benched Pok\u00e9mon, he or she chooses 1 of them and switches it with the Defending Pok\u00e9mon. <em>(Do the damage before switching the Pok\u00e9mon.)</em>",
+        "[3] Mirror Move\r\n<br>If PIdgeotto was attacked last turn, do the final result of that attack on Pidgeotto to the Defending Pok\u00e9mon."
+      ],
+      "weakness": "L",
+      "resistance": "F-30",
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 109.99,
+          "mid_price": 498.98,
+          "high_price": 993.82,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 107.87,
+          "direct_low_price": 498.98,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 17.76,
+          "mid_price": 26.62,
+          "high_price": 151.98,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 26.81,
+          "direct_low_price": 25.85,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107017"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_3dbcc6dbe5fbfe82614e5222b80bfa46855b15545139ea137792e0d9c304a814aa1faefb34f685392b20582dc1fc",
+    "card_info": {
+      "name": "Arcanine",
+      "clean_name": "Arcanine",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "023/102",
+      "rarity": "Uncommon",
+      "card_type": "Fire",
+      "product_type": "card",
+      "hp": "100.0",
+      "stage": "Stage 1",
+      "card_text": null,
+      "attacks": [
+        "[1RR] Flamethrower (50)\r\n<br>Discard 1 Fire Energy card attached to Arcanine in order to use this attack.",
+        "[2RR] Take Down (80)\r\n<br>Arcanine does 30 damage to itself."
+      ],
+      "weakness": "W",
+      "resistance": null,
+      "retreat_cost": "3.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 88.62,
+          "mid_price": 215,
+          "high_price": 688.29,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 91.24,
+          "direct_low_price": 595.95,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 14.99,
+          "mid_price": 37.48,
+          "high_price": 95.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 36.77,
+          "direct_low_price": 92.87,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107018"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_739b5220163f6520567245d61245bf1702698ec4b6487dfea11c2074e2c532d122686c3c5bea61dbf308ec9a3e27",
+    "card_info": {
+      "name": "Charmeleon",
+      "clean_name": "Charmeleon",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "024/102",
+      "rarity": "Uncommon",
+      "card_type": "Fire",
+      "product_type": "card",
+      "hp": "80.0",
+      "stage": "Stage 1",
+      "card_text": null,
+      "attacks": [
+        "[3] Slash (30)",
+        "[1RR] Flamethrower (50)\r\n<br>Discard 1 Fire Energy card attached to Charmeleon in order to use this attack."
+      ],
+      "weakness": "W",
+      "resistance": null,
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 102.11,
+          "mid_price": 572.91,
+          "high_price": 1222.72,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 132.54,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 2.88,
+          "mid_price": 17.33,
+          "high_price": 145.49,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 21.77,
+          "direct_low_price": 20.8,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107021"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_aedb82b2ee4a191c8ba1ec1fc08bf7c62c100f360eeac62e476b6ea75e2e58f3185d0df429721a65d2ad2bc797e8",
+    "card_info": {
+      "name": "Dewgong",
+      "clean_name": "Dewgong",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "025/102",
+      "rarity": "Uncommon",
+      "card_type": "Water",
+      "product_type": "card",
+      "hp": "80.0",
+      "stage": "Stage 1",
+      "card_text": null,
+      "attacks": [
+        "[1WW] Aurora Beam (50)",
+        "[2WW] Ice Beam (30)\r\n<br>Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed."
+      ],
+      "weakness": "L",
+      "resistance": null,
+      "retreat_cost": "3.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 14.47,
+          "mid_price": 22.87,
+          "high_price": 499.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 30.5,
+          "direct_low_price": 17,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 3.78,
+          "mid_price": 6.95,
+          "high_price": 96.3,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 8.49,
+          "direct_low_price": 42.94,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107022"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_9b862678568f86af69889e1ab7d17d6cc817cf4ec1e3c6153df81a68bbd03fb8176aa4039b07c68b6523cb1b959f",
+    "card_info": {
+      "name": "Dratini",
+      "clean_name": "Dratini",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "026/102",
+      "rarity": "Uncommon",
+      "card_type": "Colorless",
+      "product_type": "card",
+      "hp": "40.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[1] Pound (10)"
+      ],
+      "weakness": null,
+      "resistance": "P-30",
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 59.99,
+          "mid_price": 91.7,
+          "high_price": 499.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 87.33,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 3.99,
+          "mid_price": 10.99,
+          "high_price": 96.81,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 16.48,
+          "direct_low_price": 46.56,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107023"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_ab1994e395ae3ce12c418376003a4ff5cb0039a175778d3d8302448fdb32ed4278ef5a1131b79466927e8809a0b0",
+    "card_info": {
+      "name": "Farfetch'd",
+      "clean_name": "Farfetchd",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "027/102",
+      "rarity": "Uncommon",
+      "card_type": "Colorless",
+      "product_type": "card",
+      "hp": "50.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[1] Leek Slap (30)\r\n<br>\r\nFlip a coin. If tails, this attack does nothing. Either way, you can't use this attack again as long as Farfetch'd stays in play (even putting Farfetch'd on the Bench won't let you use it again).",
+        "[3] Pot Smash (30)"
+      ],
+      "weakness": "L",
+      "resistance": "F-30",
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 28.81,
+          "mid_price": 140,
+          "high_price": 499.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 62.75,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 3.49,
+          "mid_price": 4.81,
+          "high_price": 141,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 5.68,
+          "direct_low_price": 3.98,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107024"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_34cd4ff172eabf9a3f6db245811e4ca72623a952083e0e235506977fb7032b901b94c2a46cb5e48d760bbe18f40b",
+    "card_info": {
+      "name": "Growlithe",
+      "clean_name": "Growlithe",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "028/102",
+      "rarity": "Uncommon",
+      "card_type": "Fire",
+      "product_type": "card",
+      "hp": "60.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[1R] Flare (20)"
+      ],
+      "weakness": "W",
+      "resistance": null,
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 52.16,
+          "mid_price": 74.64,
+          "high_price": 697.38,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 72.96,
+          "direct_low_price": 448.98,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 2.5,
+          "mid_price": 12,
+          "high_price": 93.2,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 12.77,
+          "direct_low_price": 14.64,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107025"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_2c4edc8cfe63b898bdf986eac5bb189576b2cd9b754afd0696d6daf8cd9ef8d85cf192db15da2a948015c253a929",
+    "card_info": {
+      "name": "Haunter",
+      "clean_name": "Haunter",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "029/102",
+      "rarity": "Uncommon",
+      "card_type": "Psychic",
+      "product_type": "card",
+      "hp": "60.0",
+      "stage": "Stage 1",
+      "card_text": null,
+      "attacks": [
+        "[P] Hypnosis\r\n<br>The Defending Pok\u00e9mon is now Asleep.",
+        "[PP] Dream Eater (50)\r\n<br>You can't use this attack unless the Defending Pok\u00e9mon is Asleep."
+      ],
+      "weakness": null,
+      "resistance": "F-30",
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 70,
+          "mid_price": 204.49,
+          "high_price": 701.17,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 63.13,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 6.51,
+          "mid_price": 22.45,
+          "high_price": 128.27,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 24.18,
+          "direct_low_price": 14.98,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107026"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_7d448d6021d86161b90cb6139a85b80674b3548a673b5e52f00b4621360efe6cd50b4b11038a4f77d3fb6b472dd0",
+    "card_info": {
+      "name": "Ivysaur",
+      "clean_name": "Ivysaur",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "030/102",
+      "rarity": "Uncommon",
+      "card_type": "Grass",
+      "product_type": "card",
+      "hp": "60.0",
+      "stage": "Stage 1",
+      "card_text": null,
+      "attacks": [
+        "[2G] Vine Whip (30)",
+        "[GGG] Poisonpowder (20)\r\n<br>The Defending Pok\u00e9mon is now Poisoned."
+      ],
+      "weakness": "R",
+      "resistance": null,
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 133.03,
+          "mid_price": 496.52,
+          "high_price": 999.25,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 86.82,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 8,
+          "mid_price": 14.99,
+          "high_price": 114.41,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 18.46,
+          "direct_low_price": 21.99,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107027"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_54fbbcc87140e629b20a8312feb9cee2a7aa63664a0463b05db22c2ad6750730477c9d9d32061a229c5ef38df22d",
+    "card_info": {
+      "name": "Jynx",
+      "clean_name": "Jynx",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "031/102",
+      "rarity": "Uncommon",
+      "card_type": "Psychic",
+      "product_type": "card",
+      "hp": "70.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[P] Doubleslap (10x)\r\n<br>Flip 2 coins. This attack does 10 times the number of heads.",
+        "[1PP] Meditate (20+)\r\n<br>Does 20 damage plus 10 more damage for each damage counter on the Defending Pok\u00e9mon."
+      ],
+      "weakness": "P",
+      "resistance": null,
+      "retreat_cost": "2.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 28.16,
+          "mid_price": 36.9,
+          "high_price": 422.98,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 57.51,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 2.03,
+          "mid_price": 8.97,
+          "high_price": 110.96,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 11.64,
+          "direct_low_price": 6.43,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107028"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_800e72bd2796440839dfae2a2907642d2f9eb3261ae0264e5625a2163df00983e6b681787848abd951a288c003ef",
+    "card_info": {
+      "name": "Kadabra",
+      "clean_name": "Kadabra",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "032/102",
+      "rarity": "Uncommon",
+      "card_type": "Psychic",
+      "product_type": "card",
+      "hp": "60.0",
+      "stage": "Stage 1",
+      "card_text": null,
+      "attacks": [
+        "[PP] Recover\r\n<br>Discard 1 Psychic Energy card attached to Kadabra in order to use this attack. Remove all damage counters from Kadabra.",
+        "[1PP] Super Psy (50)"
+      ],
+      "weakness": "P",
+      "resistance": null,
+      "retreat_cost": "3.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 150,
+          "mid_price": 203.75,
+          "high_price": 693.58,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 84.92,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 8,
+          "mid_price": 11.25,
+          "high_price": 117.05,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 14.71,
+          "direct_low_price": 11.17,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107029"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_19a72e7858b5a6d2d67556b5e65843ddc915f2809e27c90b70fd9b69ded182b673dba876f09e67a8b3f644b7e503",
+    "card_info": {
+      "name": "Kakuna",
+      "clean_name": "Kakuna",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "033/102",
+      "rarity": "Uncommon",
+      "card_type": "Grass",
+      "product_type": "card",
+      "hp": "80.0",
+      "stage": "Stage 1",
+      "card_text": null,
+      "attacks": [
+        "[2] Stiffen\r\n<br>Flip a coin. If heads, prevent all damage done to Kakuna during your opponent's next turn. <em>(Any other effects of attacks still happen.)</em>",
+        "[GG] Poisonpowder (20)\r\n<br>Flip a coin. If heads, the Defending Pok\u00e9mon is now Poisoned."
+      ],
+      "weakness": "R",
+      "resistance": null,
+      "retreat_cost": "2.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 14.94,
+          "mid_price": 19.99,
+          "high_price": 249.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 21.62,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 1.37,
+          "mid_price": 3,
+          "high_price": 39.98,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 3.01,
+          "direct_low_price": 4.18,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107030"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_e8264ba6888881e3c6196a10bd4d60944ddc9282211364bd099c0cf2bfd7c4b5b5b46719ccaa1625674392843c49",
+    "card_info": {
+      "name": "Machoke",
+      "clean_name": "Machoke",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "034/102",
+      "rarity": "Uncommon",
+      "card_type": "Fighting",
+      "product_type": "card",
+      "hp": "80.0",
+      "stage": "Stage 1",
+      "card_text": null,
+      "attacks": [
+        "[1FF] Karate Chop (50-)\r\n<br>Does 50 damage minus 10 damage for each damage counter on Machoke.",
+        "[2FF] Submission (60)\r\n<br>Machoke does 20 damage to itself."
+      ],
+      "weakness": "P",
+      "resistance": null,
+      "retreat_cost": "3.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 34.99,
+          "mid_price": 40.89,
+          "high_price": 2325.17,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 54.27,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 0.95,
+          "mid_price": 4.37,
+          "high_price": 96.95,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 5.14,
+          "direct_low_price": 5.93,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107031"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_d6eb837d3d775a0e68626e5f1e4b14864c029efc629bcc76c58060eaf672a7f099a4b3b8771d0c703e723f36f58d",
+    "card_info": {
+      "name": "Magikarp",
+      "clean_name": "Magikarp",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "035/102",
+      "rarity": "Uncommon",
+      "card_type": "Water",
+      "product_type": "card",
+      "hp": "30.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[1] Tackle (10)",
+        "[W] Flail (10x)\r\n<br>Does 10 damage times the number of damage counters on Magikarp."
+      ],
+      "weakness": "L",
+      "resistance": null,
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 115.99,
+          "mid_price": 132.11,
+          "high_price": 1979.67,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 164.99,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 8.27,
+          "mid_price": 19.84,
+          "high_price": 96.95,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 26.93,
+          "direct_low_price": 39.36,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107032"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_e7bca928312752d9b74fbe05cc0220a2799255b443c3ee77e28a1602ab9f89ce99aa802436723139b2a7b0c09f4b",
+    "card_info": {
+      "name": "Magmar",
+      "clean_name": "Magmar",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "036/102",
+      "rarity": "Uncommon",
+      "card_type": "Fire",
+      "product_type": "card",
+      "hp": "50.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[RR] Fire Punch (30)",
+        "[1RR] Flamethrower (50)\r\n<br>Discard 1 Fire Energy card attached to Magmar in order to use this attack."
+      ],
+      "weakness": "W",
+      "resistance": null,
+      "retreat_cost": "2.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 20,
+          "mid_price": 30,
+          "high_price": 276.79,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 33.73,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 2.65,
+          "mid_price": 5.77,
+          "high_price": 75.2,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 8.11,
+          "direct_low_price": null,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107033"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_c6c16aa8411523a230cdbd1eea497e5528d16c636f8093205fb4996b7d9e1df80b74adcc404f4f69058e2ae92f69",
+    "card_info": {
+      "name": "Nidorino",
+      "clean_name": "Nidorino",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "037/102",
+      "rarity": "Uncommon",
+      "card_type": "Grass",
+      "product_type": "card",
+      "hp": "60.0",
+      "stage": "Stage 1",
+      "card_text": null,
+      "attacks": [
+        "[1GG] Double Kick (30x)\r\n<br>Flip 2 coins. This attack does 30 damage times the number of heads.",
+        "[2GG] Horn Drill (50)"
+      ],
+      "weakness": "P",
+      "resistance": null,
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 14.99,
+          "mid_price": 26.73,
+          "high_price": 499.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 33.14,
+          "direct_low_price": 162.81,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 4.17,
+          "mid_price": 7.15,
+          "high_price": 95.51,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 8.7,
+          "direct_low_price": 95.5,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107034"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_bba2d49abacdff67dafdceb8103ead037217378268f944174ad1704d8d4f7a6b478c5447076927d91fae50e3fb31",
+    "card_info": {
+      "name": "Poliwhirl",
+      "clean_name": "Poliwhirl",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "038/102",
+      "rarity": "Uncommon",
+      "card_type": "Water",
+      "product_type": "card",
+      "hp": "60.0",
+      "stage": "Stage 1",
+      "card_text": null,
+      "attacks": [
+        "[WW] Amnesia\r\n<br>Choose 1 of the Defending Pok\u00e9mon's attacks. That Pok\u00e9mon can't use that attack during your opponent's next turn.",
+        "[1WW] Doubleslap (30x)\r\n<br>Flip 2 coins. This attack does 30 damage times the number of heads."
+      ],
+      "weakness": "G",
+      "resistance": null,
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 20.02,
+          "mid_price": 30.48,
+          "high_price": 195.6,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 36.29,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 2.81,
+          "mid_price": 6.69,
+          "high_price": 102.68,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 8.33,
+          "direct_low_price": null,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107035"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_840cba5332b05317f7fe23a6b352da3bf22548f659261fc5cbb9c5384fe9f95863831c9eefebe2a1d4cae8402c41",
+    "card_info": {
+      "name": "Porygon",
+      "clean_name": "Porygon",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "039/102",
+      "rarity": "Uncommon",
+      "card_type": "Colorless",
+      "product_type": "card",
+      "hp": "30.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[1] Conversion 1\r\n<br>If the Defending Pok\u00e9mon has a Weakness, you may change it to a type of your choice other than Colorless.",
+        "[2] Conversion 2\r\n<br>Change Porygon's Resistance to a type of your choice other than Colorless."
+      ],
+      "weakness": "F",
+      "resistance": "P-30",
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 15.64,
+          "mid_price": 23.99,
+          "high_price": 499.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 36.84,
+          "direct_low_price": 282.74,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 5,
+          "mid_price": 7.14,
+          "high_price": 96.95,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 7.92,
+          "direct_low_price": 94.2,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107036"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_40baa60b275581a8744179fc6d28e7c4bfe6a5fbb54ffa5701c9bcd4b5a4078abb3222b2f038bc7e8bf718774a37",
+    "card_info": {
+      "name": "Raticate",
+      "clean_name": "Raticate",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "040/102",
+      "rarity": "Uncommon",
+      "card_type": "Colorless",
+      "product_type": "card",
+      "hp": "60.0",
+      "stage": "Stage 1",
+      "card_text": null,
+      "attacks": [
+        "[1] Bite (20)",
+        "[3] Super Fang (?)\r\n<br>Does damage to the Defending Pok\u00e9mon equal to half the Defending Pok\u00e9mon's remaining HP (rounded up to the nearest 10)."
+      ],
+      "weakness": "F",
+      "resistance": "P-30",
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 9.98,
+          "mid_price": 18.99,
+          "high_price": 610.79,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 26.17,
+          "direct_low_price": 96.78,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 1.97,
+          "mid_price": 6.38,
+          "high_price": 96.95,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 7.95,
+          "direct_low_price": 19.99,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107037"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_40fc2f733d1de7d373a111fae8d9cf754a6287c29a3674160c86261694cfc833b6421e34c81971ead31e2eb1e44e",
+    "card_info": {
+      "name": "Seel",
+      "clean_name": "Seel",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "041/102",
+      "rarity": "Uncommon",
+      "card_type": "Water",
+      "product_type": "card",
+      "hp": "60.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[W] Headbutt (10)"
+      ],
+      "weakness": "L",
+      "resistance": null,
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 13.96,
+          "mid_price": 21.5,
+          "high_price": 202.8,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 24.67,
+          "direct_low_price": 14.95,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 1.99,
+          "mid_price": 4.97,
+          "high_price": 96.81,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 6.55,
+          "direct_low_price": 9.58,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107038"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_0456bc3e6c261bcea3deb7533c685a6d121478009453803c0330c2dc35e0894912fabea42c4aa90dbe62fb146f50",
+    "card_info": {
+      "name": "Wartortle",
+      "clean_name": "Wartortle",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "042/102",
+      "rarity": "Uncommon",
+      "card_type": "Water",
+      "product_type": "card",
+      "hp": "70.0",
+      "stage": "Stage 1",
+      "card_text": null,
+      "attacks": [
+        "[1W] WIthdraw\r\n<br>Flip a coin. If heads, prevent all damage done to Wartortle during your opponent's next turn. <em>(Any other effects of attacks still happen.)</em>",
+        "[2W] Bite (40)"
+      ],
+      "weakness": "L",
+      "resistance": null,
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 87.25,
+          "mid_price": 108.07,
+          "high_price": 849.58,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 119.75,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 11.99,
+          "mid_price": 30.08,
+          "high_price": 193.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 38.21,
+          "direct_low_price": 34.96,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107039"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_07f8c22e91c91c4b5e5517754c312411131e21b5d867c929070515938c0d0c5940534719e5d62870ae80c495cafb",
+    "card_info": {
+      "name": "Abra",
+      "clean_name": "Abra",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "043/102",
+      "rarity": "Common",
+      "card_type": "Psychic",
+      "product_type": "card",
+      "hp": "30.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[P] Psyshock (10)\r\n<br>Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed."
+      ],
+      "weakness": "P",
+      "resistance": null,
+      "retreat_cost": "0.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 21.83,
+          "mid_price": 199.99,
+          "high_price": 903,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 44.6,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 0.9,
+          "mid_price": 5.27,
+          "high_price": 96.95,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 10.81,
+          "direct_low_price": 5.27,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107040"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_694a18a476e4c8a7323e8f6ee4a43dc63843abc2949a9a9f946ec53ac321f664e5a1934c6e7d4e8384a737c6c6da",
+    "card_info": {
+      "name": "Bulbasaur",
+      "clean_name": "Bulbasaur",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "044/102",
+      "rarity": "Common",
+      "card_type": "Grass",
+      "product_type": "card",
+      "hp": "40.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[GG] Leech Seed (20)\r\n<br>Unless all damage from this attack is prevented, you may remove 1 damage counter from Bulbasaur."
+      ],
+      "weakness": "R",
+      "resistance": null,
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 184.99,
+          "mid_price": 316.29,
+          "high_price": 549.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 287.57,
+          "direct_low_price": 389.72,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 9.98,
+          "mid_price": 20.06,
+          "high_price": 181.79,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 22.9,
+          "direct_low_price": 74.46,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107041"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_42d5b93663eb77dc4c1e4359d30f98a4807ff486c3b806637e93d0c55c662af19738218af55283936d7e56df31ff",
+    "card_info": {
+      "name": "Caterpie",
+      "clean_name": "Caterpie",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "045/102",
+      "rarity": "Common",
+      "card_type": "Grass",
+      "product_type": "card",
+      "hp": "40.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[G] String Shot (10)\r\n<br>Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed."
+      ],
+      "weakness": "R",
+      "resistance": null,
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 32.49,
+          "mid_price": 53.46,
+          "high_price": 247.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 53.82,
+          "direct_low_price": 246.45,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 1.69,
+          "mid_price": 4.52,
+          "high_price": 50.48,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 4.43,
+          "direct_low_price": 5.06,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107042"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_1a1202f16975307974413f8acce3de75c02ec9c5cfe69b39d90218a80b4d19d23194d50f796f873f90ac772eca3e",
+    "card_info": {
+      "name": "Charmander",
+      "clean_name": "Charmander",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "046/102",
+      "rarity": "Common",
+      "card_type": "Fire",
+      "product_type": "card",
+      "hp": "50.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[1] Scratch (10)",
+        "[1R] Ember (30)\r\n<br>Discard 1 Fire Energy card attached to Charmander in order to use this attack."
+      ],
+      "weakness": "W",
+      "resistance": null,
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 120,
+          "mid_price": 228.51,
+          "high_price": 4411.11,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 198.22,
+          "direct_low_price": 500,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 3.5,
+          "mid_price": 10,
+          "high_price": 124.98,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 14.43,
+          "direct_low_price": 5.4,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107043"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_cbc5c78ebff01656dcdf60e91d7c8661520d50821e3e923e67d2bd62254f96a9df33cb94802a5e2474ffb17ad15d",
+    "card_info": {
+      "name": "Diglett",
+      "clean_name": "Diglett",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "047/102",
+      "rarity": "Common",
+      "card_type": "Fighting",
+      "product_type": "card",
+      "hp": "30.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[F] Dig (10)",
+        "[FF] Mud Slap (30)"
+      ],
+      "weakness": "G",
+      "resistance": "L-30",
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 12.89,
+          "mid_price": 22.25,
+          "high_price": 399.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 27.27,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 0.5,
+          "mid_price": 1.64,
+          "high_price": 95,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 1.63,
+          "direct_low_price": 2.63,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107044"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_8e761f6cbf3a29be8acd800bb972393cf5f79831f7b4bdcdc9f0f664f5937a9070183a1325ee2f4190441cc01091",
+    "card_info": {
+      "name": "Doduo",
+      "clean_name": "Doduo",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "048/102",
+      "rarity": "Common",
+      "card_type": "Colorless",
+      "product_type": "card",
+      "hp": "50.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[1] Fury Attack (10x)\r\n<br>Flip 2 coins. This attack does 10 damage times the number of heads."
+      ],
+      "weakness": "L",
+      "resistance": "F-30",
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 12.76,
+          "mid_price": 17.49,
+          "high_price": 249.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 20.87,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 1,
+          "mid_price": 2.2,
+          "high_price": 29.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 2.29,
+          "direct_low_price": null,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107045"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_211b82498a7a2047f0bb44319919d2732acc3e528c77e5795cb7bae1104e2592ed220781bd1b4b76684459c5f4b7",
+    "card_info": {
+      "name": "Drowzee",
+      "clean_name": "Drowzee",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "049/102",
+      "rarity": "Common",
+      "card_type": "Psychic",
+      "product_type": "card",
+      "hp": "50.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[1] Pound (10)",
+        "[PP] Confuse Ray (10)\r\n<br>Flip a coin. If heads, the Defending Pok\u00e9mon is now Confused."
+      ],
+      "weakness": "P",
+      "resistance": null,
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 11.5,
+          "mid_price": 23.09,
+          "high_price": 412.68,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 26.2,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 1.32,
+          "mid_price": 3.32,
+          "high_price": 96.94,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 5.93,
+          "direct_low_price": 2.05,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107046"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_aed2557f0753515bbe3e2535118af103e81000d049378a170626fb2b8d47178144bb8dc4401ba2c5ec21215d3ebe",
+    "card_info": {
+      "name": "Gastly",
+      "clean_name": "Gastly",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "050/102",
+      "rarity": "Common",
+      "card_type": "Psychic",
+      "product_type": "card",
+      "hp": "30.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[P] Sleeping Gas\r\n<br>Flip a coin. If heads, the Defending Pok\u00e9mon is now Asleep.",
+        "[1P] Destiny Bond\r\n<br>Discard 1 Psychic Energy card attached to Gastly in order to use this attack. If a Pok\u00e9mon Knocks Out Gastly during your opponent's next turn, Knock Out that Pok\u00e9mon."
+      ],
+      "weakness": null,
+      "resistance": "F-30",
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 26.01,
+          "mid_price": 41.91,
+          "high_price": 499.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 47.96,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 1.35,
+          "mid_price": 6.5,
+          "high_price": 96.95,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 8.12,
+          "direct_low_price": 15.99,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107047"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_f3a74035ba9dfa2a846f2f23a05851c7a8a21740a4530f80adb3d40ce6095ccd711c5935ab53035ab728aec323fe",
+    "card_info": {
+      "name": "Koffing",
+      "clean_name": "Koffing",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "051/102",
+      "rarity": "Common",
+      "card_type": "Grass",
+      "product_type": "card",
+      "hp": "50.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[GG] Foul Gas (10)\r\n<br>Flip a coin. If heads, the Defending Pok\u00e9mon is now Poisoned; if tails, it is now Confused."
+      ],
+      "weakness": "P",
+      "resistance": null,
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 13.5,
+          "mid_price": 30,
+          "high_price": 509.08,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 31.84,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 1.42,
+          "mid_price": 6.28,
+          "high_price": 311.14,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 7.79,
+          "direct_low_price": 7.46,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107048"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_2c15752762daf96a57a0660d2fbd46042ed23917b6c308d91613666a5708ae2a1a5dacb39ea8993cf464bd7bbb92",
+    "card_info": {
+      "name": "Machop",
+      "clean_name": "Machop",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "052/102",
+      "rarity": "Common",
+      "card_type": "Fighting",
+      "product_type": "card",
+      "hp": "50.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[F] Low Kick (20)"
+      ],
+      "weakness": "P",
+      "resistance": null,
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 9.5,
+          "mid_price": 15,
+          "high_price": 899.68,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 23.48,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 0.5,
+          "mid_price": 1.82,
+          "high_price": 96.95,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 1.71,
+          "direct_low_price": 1.74,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107049"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_a0fbdc1a247efb36e90fe1118a6ef38d09f877831ee7b9885664475e176efc338d55e80a2b5e41bbb3a42e45c37d",
+    "card_info": {
+      "name": "Magnemite",
+      "clean_name": "Magnemite",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "053/102",
+      "rarity": "Common",
+      "card_type": "Lightning",
+      "product_type": "card",
+      "hp": "40.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[L] Thunder Wave (10)\r\n<br>Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed.",
+        "[1L] Selfdestruct (40)\r\n<br>Does 10 damage to each Pok\u00e9mon on each player's Bench. <em>(Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)</em> Magnemite does 40 damage to itself."
+      ],
+      "weakness": "F",
+      "resistance": null,
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 10.96,
+          "mid_price": 17.5,
+          "high_price": 271.98,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 21.2,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 0.74,
+          "mid_price": 2.95,
+          "high_price": 96.95,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 3.19,
+          "direct_low_price": 2.99,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107050"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_72b049043150830c421fdf894f2ff63039fac18b2e365d699855a84259855c02977957eaeab2255ee1f6055dbecf",
+    "card_info": {
+      "name": "Metapod",
+      "clean_name": "Metapod",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "054/102",
+      "rarity": "Common",
+      "card_type": "Grass",
+      "product_type": "card",
+      "hp": "70.0",
+      "stage": "Stage 1",
+      "card_text": null,
+      "attacks": [
+        "[2] Stiffen\r\n<br>Flip a coin. If heads, prevent all damage done to Metapod during your opponent's next turn. <em>(Any other effects of attacks still happen.)</em>",
+        "[GG] Stun Spore (20)\r\n<br>Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed."
+      ],
+      "weakness": "R",
+      "resistance": null,
+      "retreat_cost": "2.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 14.91,
+          "mid_price": 21,
+          "high_price": 999.58,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 27.12,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 2,
+          "mid_price": 4.75,
+          "high_price": 96.4,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 4.87,
+          "direct_low_price": 3.45,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107051"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_38f0743c03a06c9a089150944c18983a8c18b4f464e6b437620307e30431f0ffe3a16dca08d56a05a8345e463e33",
+    "card_info": {
+      "name": "Nidoran M",
+      "clean_name": "Nidoran M",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "055/102",
+      "rarity": "Common",
+      "card_type": "Grass",
+      "product_type": "card",
+      "hp": "40.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[G] Horn Hazard (30)\r\n<br>Flip a coin. If tails, this attack does nothing."
+      ],
+      "weakness": "P",
+      "resistance": null,
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 11.5,
+          "mid_price": 21.69,
+          "high_price": 249.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 30.41,
+          "direct_low_price": 247.94,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 0.99,
+          "mid_price": 2.69,
+          "high_price": 96.95,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 2.75,
+          "direct_low_price": 2.79,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107052"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_665fbcddffbf8d7d1d1d5b1cdf3e6cea34149c07b8ff0279a73b068b0a72825bf1d7a35edb13aff7b629e9e2e2c4",
+    "card_info": {
+      "name": "Onix",
+      "clean_name": "Onix",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "056/102",
+      "rarity": "Common",
+      "card_type": "Fighting",
+      "product_type": "card",
+      "hp": "90.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[F] Rock Throw (10)",
+        "[FF] Harden\r\n<br>\r\nDuring your opponent's next turn, whenever 30 or less damage is done to Onix <em>(after applying Weakness and Resistance)</em>, prevent that damage. <em>(Any other effects of attacks still happen.)</em>"
+      ],
+      "weakness": "G",
+      "resistance": null,
+      "retreat_cost": "3.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 12.99,
+          "mid_price": 30.45,
+          "high_price": 662.34,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 32.3,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 0.99,
+          "mid_price": 3.38,
+          "high_price": 96.62,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 3.69,
+          "direct_low_price": 4.75,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107053"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_bda4ad87d19a5fa885eb02250ea2a1ffce7853de48f18db5aa2308203b10193510e0b0f1011fb2a2e1fcba4fb843",
+    "card_info": {
+      "name": "Pidgey",
+      "clean_name": "Pidgey",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "057/102",
+      "rarity": "Common",
+      "card_type": "Colorless",
+      "product_type": "card",
+      "hp": "40.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[2] Whirlwind (10)\r\n<br>If your opponent has any Benched Pok\u00e9mon, he or she chooses 1 of them and switches it with the Defending Pok\u00e9mon. <em>(Do the damage before switching the Pok\u00e9mon.)</em>"
+      ],
+      "weakness": "L",
+      "resistance": "F-30",
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 16.87,
+          "mid_price": 44.49,
+          "high_price": 300,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 41,
+          "direct_low_price": 29.8,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 1.98,
+          "mid_price": 4.67,
+          "high_price": 96.74,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 5.12,
+          "direct_low_price": 5.3,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107054"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_3309c7788c840aa4d87fdb49a2d9952b77147f906298be6af44d0dc2de6c7e2c9ed60bd058b156ff67123d64ac35",
+    "card_info": {
+      "name": "Pikachu",
+      "clean_name": "Pikachu",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "058/102",
+      "rarity": "Common",
+      "card_type": "Lightning",
+      "product_type": "card",
+      "hp": "40.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[1] Gnaw (10)",
+        "[1L] Thunder Jolt (30)\r\n<br>Flip a coin. If tails, Pikachu does 10 damage to itself."
+      ],
+      "weakness": "F",
+      "resistance": null,
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 197.88,
+          "mid_price": 198.99,
+          "high_price": 899,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 195.66,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 25,
+          "mid_price": 81.97,
+          "high_price": 292.3,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 48.21,
+          "direct_low_price": 192.98,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107055"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_a5527f5d4f9443d70779d04d368c75214a9653aaf1675a5a77c977be6dd8b20a65a1ea3884b144f3531d3f11188c",
+    "card_info": {
+      "name": "Poliwag",
+      "clean_name": "Poliwag",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "059/102",
+      "rarity": "Common",
+      "card_type": "Water",
+      "product_type": "card",
+      "hp": "40.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[W] Water Gun (10+)\r\n<br>Does 10 damage plus 10 more damage for each Water Energy attached to Poliwag but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+      ],
+      "weakness": "G",
+      "resistance": null,
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 14.99,
+          "mid_price": 27.54,
+          "high_price": 699.96,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 29.84,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 1.22,
+          "mid_price": 3.5,
+          "high_price": 55.88,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 6.3,
+          "direct_low_price": 13.48,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107056"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_1183b4db0dd0c388c7f217edcc12c9767f60bd1511cdbbd3bc8c9dc6cdd40240c1000160b1242a4e0349e79028fc",
+    "card_info": {
+      "name": "Ponyta",
+      "clean_name": "Ponyta",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "060/102",
+      "rarity": "Common",
+      "card_type": "Fire",
+      "product_type": "card",
+      "hp": "40.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[2] Smash Kick (20)",
+        "[RR] Flame Tail (30)"
+      ],
+      "weakness": "W",
+      "resistance": null,
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 12.01,
+          "mid_price": 21.84,
+          "high_price": 249.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 32.82,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 0.85,
+          "mid_price": 3.14,
+          "high_price": 92.75,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 9.91,
+          "direct_low_price": 89.97,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107057"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_a766cfa652a2163d4b5c909159d70931d88b2e88b67da4034702bfee41b6a137d73b386b18895b776b0eb13d6b30",
+    "card_info": {
+      "name": "Rattata",
+      "clean_name": "Rattata",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "061/102",
+      "rarity": "Common",
+      "card_type": "Colorless",
+      "product_type": "card",
+      "hp": "30.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[1] Bite (20)"
+      ],
+      "weakness": "F",
+      "resistance": "P-30",
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 17.99,
+          "mid_price": 36.99,
+          "high_price": 899.04,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 31.01,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 0.58,
+          "mid_price": 2.99,
+          "high_price": 95.61,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 3.69,
+          "direct_low_price": 2.99,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107058"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_efe133ffb9788f65fda86678cf485157874aa870721d25d6364d103d20931dacf4f5024b3fe36627417dbb902ca4",
+    "card_info": {
+      "name": "Sandshrew",
+      "clean_name": "Sandshrew",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "062/102",
+      "rarity": "Common",
+      "card_type": "Fighting",
+      "product_type": "card",
+      "hp": "40.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[F] Sand-attack (10)\r\n<br>If the Defending Pok\u00e9mon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, this attack does nothing."
+      ],
+      "weakness": "G",
+      "resistance": "L-30",
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 14.46,
+          "mid_price": 34.99,
+          "high_price": 9999,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 36.07,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 1.09,
+          "mid_price": 3,
+          "high_price": 96.12,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 3.13,
+          "direct_low_price": 4.8,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107059"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_68619252de9c9b75664a78488c5c1c87b47ee95703e3f5db0d5f94c180fad80cf4f39a44960923c6ef0b77129760",
+    "card_info": {
+      "name": "Squirtle",
+      "clean_name": "Squirtle",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "063/102",
+      "rarity": "Common",
+      "card_type": "Water",
+      "product_type": "card",
+      "hp": "40.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[W] Bubble (10)\r\n<br> Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed.",
+        "[1W] Withdraw\r\n<br>Flip a coin. If heads, prevent all damage done to Squirtle during your opponent's next turn. <em>(Any other effects of attacks still happen.)</em>"
+      ],
+      "weakness": "L",
+      "resistance": null,
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 94.99,
+          "mid_price": 225,
+          "high_price": 844.38,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 143.69,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 12,
+          "mid_price": 20.25,
+          "high_price": 145.49,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 36.17,
+          "direct_low_price": 34.89,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107060"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_9a2d83b70dd8ad0a2e502cd2a06be3b408aa435cb18d835c030d4acf634b44582df2cf31c5b4a4e4a8bc2cbf9797",
+    "card_info": {
+      "name": "Starmie",
+      "clean_name": "Starmie",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "064/102",
+      "rarity": "Common",
+      "card_type": "Water",
+      "product_type": "card",
+      "hp": "60.0",
+      "stage": "Stage 1",
+      "card_text": null,
+      "attacks": [
+        "[WW] Recover\r\n<br>Discard 1 Water Energy card attached to Starmie in order to use this attack. Remove all damage counters from Starmie.",
+        "[2W] Star Freeze (20)\r\n<br>Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed."
+      ],
+      "weakness": "L",
+      "resistance": null,
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 49.99,
+          "mid_price": 74.03,
+          "high_price": 99.66,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 48.48,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 1.48,
+          "mid_price": 3.2,
+          "high_price": 67.06,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 6.95,
+          "direct_low_price": 3.5,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107061"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_623355d2e09fa24251f3f75a6ce6f100c4d8f1e26e43619bc4e5d886943a463446b60405cf8d8193b2ce1006b4ee",
+    "card_info": {
+      "name": "Staryu",
+      "clean_name": "Staryu",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "065/102",
+      "rarity": "Common",
+      "card_type": "Water",
+      "product_type": "card",
+      "hp": "40.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[W] Slap (20)"
+      ],
+      "weakness": "L",
+      "resistance": null,
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 11,
+          "mid_price": 21.66,
+          "high_price": 179.28,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 21.02,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 0.95,
+          "mid_price": 1.58,
+          "high_price": 96.93,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 1.59,
+          "direct_low_price": 1.56,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107062"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_96a97def99facb167fefb6282f5fb77aeb34510605c4eb63bbd66352353e9029cebee0dddd2dd2cdb3222600951c",
+    "card_info": {
+      "name": "Tangela",
+      "clean_name": "Tangela",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "066/102",
+      "rarity": "Common",
+      "card_type": "Grass",
+      "product_type": "card",
+      "hp": "50.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[1G] Bind (20)\r\n<br>Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed.",
+        "[GGG] Poisonpowder (20)\r\n<br>The Defending Pok\u00e9mon is now Poisoned."
+      ],
+      "weakness": "R",
+      "resistance": null,
+      "retreat_cost": "2.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 12.04,
+          "mid_price": 27,
+          "high_price": 9999,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 28.67,
+          "direct_low_price": 21.86,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 0.95,
+          "mid_price": 2.96,
+          "high_price": 42.98,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 4,
+          "direct_low_price": 3.6,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107063"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_023516763ef3c20e42bfdea46cbbbe8e4a4b5c387b2e9fc2621030954e3c1134b4015b605672475d6200ecdd4185",
+    "card_info": {
+      "name": "Voltorb",
+      "clean_name": "Voltorb",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "067/102",
+      "rarity": "Common",
+      "card_type": "Lightning",
+      "product_type": "card",
+      "hp": "40.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[1] Tackle (10)"
+      ],
+      "weakness": "F",
+      "resistance": null,
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 11.53,
+          "mid_price": 26.99,
+          "high_price": 2499.58,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 29.41,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 3.49,
+          "mid_price": 5.6,
+          "high_price": 1184.3,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 10.74,
+          "direct_low_price": 258.4,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107064"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_cce01967bcab2d5561ad1d21ec9fb409e353052946dc3011a4f9cad6c4fceb5c6b17db4c7c6e2a93c8e545509cc5",
+    "card_info": {
+      "name": "Vulpix",
+      "clean_name": "Vulpix",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "068/102",
+      "rarity": "Common",
+      "card_type": "Fire",
+      "product_type": "card",
+      "hp": "50.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[RR] Confuse Ray (10)\r\n<br>Flip a coin. If heads, the Defending Pok\u00e9mon is now Confused."
+      ],
+      "weakness": "W",
+      "resistance": null,
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 23,
+          "mid_price": 43.39,
+          "high_price": 221.58,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 43.39,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 2.74,
+          "mid_price": 5.14,
+          "high_price": 4316.65,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 8.26,
+          "direct_low_price": 55.87,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107065"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_1bd5ea41a6e45db1f788df08ed641aff0b42072c3ffb0ace8157640e20ad47984883213a5cc9f2e17f72b866e4c3",
+    "card_info": {
+      "name": "Weedle",
+      "clean_name": "Weedle",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "069/102",
+      "rarity": "Common",
+      "card_type": "Grass",
+      "product_type": "card",
+      "hp": "40.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[G] Poison Sting (10)\r\n<br>Flip a coin. If heads, the Defending Pok\u00e9mon is now Poisoned."
+      ],
+      "weakness": "R",
+      "resistance": null,
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 27.01,
+          "mid_price": 40.14,
+          "high_price": 699.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 61.28,
+          "direct_low_price": 48.52,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 1,
+          "mid_price": 2.59,
+          "high_price": 96.95,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 3.25,
+          "direct_low_price": 3.31,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107066"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_364016e9061ec0fb7dd71b72e016ba69a4021e49da9732e6fc514cf5e6f662c73e0f5fa6f077c587e86d1f8de24f",
+    "card_info": {
+      "name": "Clefairy Doll",
+      "clean_name": "Clefairy Doll",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "070/102",
+      "rarity": "Rare",
+      "card_type": "Trainer",
+      "product_type": "card",
+      "hp": "10.0",
+      "stage": null,
+      "card_text": "Play Clefairy Doll as if it were a Basic Pok\u00e9mon. While in play, Clefairy Doll counts as a Pok\u00e9mon (instead of a Trainer card). Clefairy Doll has no attacks, can't retreat, and can't be Asleep, Confused, Paralyzed, or Poisoned. If Clefairy Doll is Knocked Out, it doesn't count as a Knocked Out Pok\u00e9mon. At any time during your turn before your attack, you may discard Clefairy Doll.",
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 33.99,
+          "mid_price": 54.99,
+          "high_price": 455.18,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 87.26,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 7.49,
+          "mid_price": 17.25,
+          "high_price": 108.49,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 11.93,
+          "direct_low_price": 39.98,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107067"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_c5a4602cc06ccffce41c1afbf56b9ba70b3453128315c74218e338acb9ec89dfea579a4da3cb50a808186e2e6726",
+    "card_info": {
+      "name": "Computer Search",
+      "clean_name": "Computer Search",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "071/102",
+      "rarity": "Rare",
+      "card_type": "Trainer",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": "Discard 2 of the other cards from your hand in order to search your deck for any card and put it into your hand. Shuffle your deck afterward.",
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 119.97,
+          "mid_price": 140.39,
+          "high_price": 1174.38,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 148.99,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 2.97,
+          "mid_price": 5.38,
+          "high_price": 96.74,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 9.51,
+          "direct_low_price": 10.03,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107068"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_7196a8ea0a769a8eab0d37e8f342b963ff2341c0bec3e8df441e32d3cae6e25a2bff6d5103d59529ebd60432793e",
+    "card_info": {
+      "name": "Devolution Spray",
+      "clean_name": "Devolution Spray",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "072/102",
+      "rarity": "Rare",
+      "card_type": "Trainer",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": "Choose 1 of your own Pok\u00e9mon in play and a Stage of Evolution. Discard all Evolution cards of that Stage or higher attached to that Pok\u00e9mon. That Pok\u00e9mon is no longer Asleep, Confused, Paralyzed, Poisoned or anything else that might be the result of an attack (just as if you had evolved it).",
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 42,
+          "mid_price": 49.99,
+          "high_price": 1012.68,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 58.93,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 4,
+          "mid_price": 11.99,
+          "high_price": 62.23,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 14.13,
+          "direct_low_price": 45.59,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107069"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_c9173e8c64495e48c4727ac5f5d50ac2c436d32ff27dbf4a5e27e5082a6ada3a91fcdf6d59a8f087aba5119c3c92",
+    "card_info": {
+      "name": "Impostor Professor Oak",
+      "clean_name": "Impostor Professor Oak",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "073/102",
+      "rarity": "Rare",
+      "card_type": "Trainer",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": "Your opponent shuffles his or her hand into his or her deck, then draws 7 cards.",
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 44.09,
+          "mid_price": 62.5,
+          "high_price": 521.38,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 69.13,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 11.99,
+          "mid_price": 24.36,
+          "high_price": 129.88,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 24.46,
+          "direct_low_price": null,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107070"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_e58cfcd0bcc7b5614dfa37adc88a234c2ad8494ed12aa6c7521e33e948af8b9f4057f97636905061cdc31602c283",
+    "card_info": {
+      "name": "Lass",
+      "clean_name": "Lass",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "075/102",
+      "rarity": "Rare",
+      "card_type": "Trainer",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": "You and your opponent show each other your hands, then shuffle all the Trainer cards from your hands into your decks.",
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 83,
+          "mid_price": 92.18,
+          "high_price": 992.3,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 251.5,
+          "direct_low_price": 899.99,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 4,
+          "mid_price": 9.68,
+          "high_price": 96.94,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 9.39,
+          "direct_low_price": 46.56,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107071"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_a674ce48b5250780e5eb11ef78d7ed912b6a8f5f856c56a5fe8ba88236a47e0280d90dfdac07e3d367394ebaf453",
+    "card_info": {
+      "name": "Item Finder",
+      "clean_name": "Item Finder",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "074/102",
+      "rarity": "Rare",
+      "card_type": "Trainer",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": "Discard 2 of the other cards from your hand in order to put a Trainer card from your discard pile into your hand.",
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 63.99,
+          "mid_price": 76,
+          "high_price": 1599.58,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 64.73,
+          "direct_low_price": 499.99,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 9.26,
+          "mid_price": 10.61,
+          "high_price": 147.39,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 14.7,
+          "direct_low_price": 10.61,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107072"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_d9bf004e659929e99ce803df890999198702a53f2ed7f59b47cf86eaa3df74d582037d8a473ef8a47a6f4cf27deb",
+    "card_info": {
+      "name": "Pokemon Trader",
+      "clean_name": "Pokemon Trader",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "077/102",
+      "rarity": "Rare",
+      "card_type": "Trainer",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": "Trade 1 of the Basic Pok\u00e9mon or Evolution cards in your hand for 1 of the Basic Pok\u00e9mon or Evolution cards from your deck. Show both cards to your opponent. Shuffle your deck afterward.",
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 48.96,
+          "mid_price": 123.48,
+          "high_price": 9999,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 51.23,
+          "direct_low_price": 248.98,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 5.4,
+          "mid_price": 17.84,
+          "high_price": 96.14,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 19.19,
+          "direct_low_price": 96.13,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107073"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_432db0a9d9e87d4213cadc9427ee3fc6345cec18558605ccfcdf3fb323ca73240ce3fd15f79bd4d9a5e36b7a22cb",
+    "card_info": {
+      "name": "Pokemon Breeder",
+      "clean_name": "Pokemon Breeder",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "076/102",
+      "rarity": "Rare",
+      "card_type": "Trainer",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": "Put a Stage 2 Evolution card from your hand on the matching Basic Pok\u00e9mon. You can only play this card when you would be allowed to evolve that Pok\u00e9mon anyway.",
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 38.04,
+          "mid_price": 75,
+          "high_price": 999.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 76.26,
+          "direct_low_price": 138.39,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 7.25,
+          "mid_price": 15.35,
+          "high_price": 530.79,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 17.25,
+          "direct_low_price": 9.97,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107074"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_c91fdc3af45f65b1b219abb774782c14b32ab49794999a6e5d1e19c4457a0a00b3ae6869388ca7648af2d5fa6cd4",
+    "card_info": {
+      "name": "Scoop Up",
+      "clean_name": "Scoop Up",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "078/102",
+      "rarity": "Rare",
+      "card_type": "Trainer",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": "Choose 1 of your Pok\u00e9mon in play and return its Basic Pok\u00e9mon card to your hand. <em>(Discard all cards attached to that card.)</em>",
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 40,
+          "mid_price": 54.22,
+          "high_price": 699.48,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 66.29,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 8,
+          "mid_price": 16.36,
+          "high_price": 314.22,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 16.45,
+          "direct_low_price": 11.54,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107075"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_18d718d236be75cbb82a4af99c7b627bfded9b81f60ffac78f7aee6770a0c9b3a9a8fdfc49b04fcaba370f056ea5",
+    "card_info": {
+      "name": "Super Energy Removal",
+      "clean_name": "Super Energy Removal",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "079/102",
+      "rarity": "Rare",
+      "card_type": "Trainer",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": "Discard 1 Energy card attached to 1 of your own Pok\u00e9mon in order to choose 1 of your opponent's Pok\u00e9mon and up to 2 Energy cards attached to it. Discard those Energy cards.",
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 102.01,
+          "mid_price": 134.07,
+          "high_price": 160,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 135.6,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 3,
+          "mid_price": 7.3,
+          "high_price": 589.63,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 9.22,
+          "direct_low_price": 7.97,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107076"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_42acd2beeaf04d7766de2c0bfab979fcdb5e2296f2b6f6f245db817e83c423c7820d10424e8e6c6321a170c0d1d8",
+    "card_info": {
+      "name": "Defender",
+      "clean_name": "Defender",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "080/102",
+      "rarity": "Uncommon",
+      "card_type": "Trainer",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": "Attach Defender to 1 of your Pok\u00e9mon. At the end of your opponent's next turn, discard Defender. Damage done to that Pok\u00e9mon by attacks is reduced by 20 <em>(after applying Weakness and Resistance)</em>.",
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 10.04,
+          "mid_price": 25,
+          "high_price": 1489.68,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 28.81,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 1,
+          "mid_price": 2.68,
+          "high_price": 96.98,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 2.93,
+          "direct_low_price": 4.96,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107077"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_c1c3f343213dc2efee32a9652d5d4ae20241a85ac265132ee58c5d766475b441e2aa7a65522d7f976ccf4ef7a3a5",
+    "card_info": {
+      "name": "Energy Retrieval",
+      "clean_name": "Energy Retrieval",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "081/102",
+      "rarity": "Uncommon",
+      "card_type": "Trainer",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": "Trade 1 of the other cards in your hand for up to 2 basic Energy cards from your discard pile.",
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 8.02,
+          "mid_price": 30.16,
+          "high_price": 189.48,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 36.9,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 0.34,
+          "mid_price": 0.98,
+          "high_price": 14.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 1.02,
+          "direct_low_price": 0.63,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107078"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_f67fff24f0c427de71df1cf617b0359a8aa007e7addb4818ba08040f18687faefea05d80fcdbf17cfe3a3b232750",
+    "card_info": {
+      "name": "Full Heal",
+      "clean_name": "Full Heal",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "082/102",
+      "rarity": "Uncommon",
+      "card_type": "Trainer",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": "Your Active Pok\u00e9mon is no longer Asleep, Confused, Paralyzed, or Poisoned.",
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 4.68,
+          "mid_price": 10,
+          "high_price": 158.28,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 16.74,
+          "direct_low_price": 21.91,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 0.6,
+          "mid_price": 1.98,
+          "high_price": 20.94,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 2.08,
+          "direct_low_price": 1.56,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107079"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_efb3348f17ac47db599af9db14dcafdf304bc09a7c129c3c6c17dd954456def880c364b13ce28dc9b27b3842cebf",
+    "card_info": {
+      "name": "Maintenance",
+      "clean_name": "Maintenance",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "083/102",
+      "rarity": "Uncommon",
+      "card_type": "Trainer",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": "Shuffle 2 of the other cards from your hand into your deck in order to draw a card.",
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 4.79,
+          "mid_price": 9.24,
+          "high_price": 183,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 9.91,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 1,
+          "mid_price": 2,
+          "high_price": 96.56,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 2.43,
+          "direct_low_price": 3,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107080"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_05910c2f7191afb971f834ab37a0bd7d86f31d6558ebae26daf5e7f230d64e8ca4aaa56533eb416ea15d6459fd93",
+    "card_info": {
+      "name": "PlusPower",
+      "clean_name": "PlusPower",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "084/102",
+      "rarity": "Uncommon",
+      "card_type": "Trainer",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": "Attach PlusPower to your Active Pok\u00e9mon. At the end of your turn, discard PlusPower. If this Pok\u00e9mon's attack does damage to the Defending Pok\u00e9mon <em>(after applying Weakness and Resistance)</em>, the attack does 10 more damage to the Defending Pok\u00e9mon.",
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 10.59,
+          "mid_price": 16.25,
+          "high_price": 324.48,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 15.68,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 0.75,
+          "mid_price": 2.09,
+          "high_price": 26.22,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 2.17,
+          "direct_low_price": 1.52,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107081"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_9cf9cafaa1f97ce8a42630b0b9e41e9b46612d4f1a7ebff17e0e9f396707775ce2e24e0d0d7788ec5cc2c73ec24e",
+    "card_info": {
+      "name": "Pokemon Center",
+      "clean_name": "Pokemon Center",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "085/102",
+      "rarity": "Uncommon",
+      "card_type": "Trainer",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": "Remove all damage counters from all of your own Pok\u00e9mon with damage counters on them, then discard all Energy cards attached to those Pok\u00e9mon.",
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 4.99,
+          "mid_price": 9.99,
+          "high_price": 134.48,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 10.98,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 0.82,
+          "mid_price": 3,
+          "high_price": 38,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 3.19,
+          "direct_low_price": 1.55,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107082"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_a7392cbc3213e37fff652c5e589281357aa721eaf6550752bd810cf05245e34ee6ad9bd567bd2553042ef93c3e91",
+    "card_info": {
+      "name": "Pokemon Flute",
+      "clean_name": "Pokemon Flute",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "086/102",
+      "rarity": "Uncommon",
+      "card_type": "Trainer",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": "Choose 1 Basic Pok\u00e9mon card from your opponent's discard pile and put it onto his or her Bench. <em>(You can't play Pok\u00e9mon Flute if your opponent's Bench is full.)</em>",
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 19.31,
+          "mid_price": 37.25,
+          "high_price": 499.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 38.45,
+          "direct_low_price": 499.98,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 3,
+          "mid_price": 4.3,
+          "high_price": 96.95,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 6.7,
+          "direct_low_price": 4.38,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107083"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_a0ce3792c035d2334ba784cf054e564c4792d5eeee140e4ebf849b94e0231917ba99c9e8069cd63261bf1843a79c",
+    "card_info": {
+      "name": "Pokedex",
+      "clean_name": "Pokedex",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "087/102",
+      "rarity": "Uncommon",
+      "card_type": "Trainer",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": "Look at up to 5 cards from the top of your deck and rearrange them as you like.",
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 14.34,
+          "mid_price": 25.91,
+          "high_price": 155.08,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 30.12,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 0.35,
+          "mid_price": 1.75,
+          "high_price": 14,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 2.15,
+          "direct_low_price": 0.92,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107084"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_cfbeb4d9f1c842c11b7901190bc81f19830eeb886148d54eee7f9564eca2ed29e9a5311bbf1a120c9d715f5cce06",
+    "card_info": {
+      "name": "Professor Oak",
+      "clean_name": "Professor Oak",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "088/102",
+      "rarity": "Uncommon",
+      "card_type": "Trainer",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": "Discard your hand, then draw 7 cards.",
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 29.99,
+          "mid_price": 41.38,
+          "high_price": 499.98,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 67.39,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 1.49,
+          "mid_price": 3.78,
+          "high_price": 39.06,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 4.35,
+          "direct_low_price": 2.2,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107085"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_530d4dd1504470de52516b152b607d6123f610f3de3a36b66d9f6bcf50c8e22cd7fd982cba674c2d8df430082033",
+    "card_info": {
+      "name": "Revive",
+      "clean_name": "Revive",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "089/102",
+      "rarity": "Uncommon",
+      "card_type": "Trainer",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": "Put 1 Basic Pok\u00e9mon card from your discard pile onto your Bench. Put damage counters on that Pok\u00e9mon equal to half its HP (rounded down to the nearest 10). <em>(You can't play Revive if your Bench is full.)</em>",
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 12.99,
+          "mid_price": 39.5,
+          "high_price": 305.48,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 38.36,
+          "direct_low_price": 228.64,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 2.99,
+          "mid_price": 3.99,
+          "high_price": 95.2,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 8.67,
+          "direct_low_price": 3.31,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107086"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_f6d8cb3276d2ebd1b3cfeceb1ae4e58748eb3aea692266759801f5b90d413a7ad86ba24675d89211787ff9d655c0",
+    "card_info": {
+      "name": "Super Potion",
+      "clean_name": "Super Potion",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "090/102",
+      "rarity": "Uncommon",
+      "card_type": "Trainer",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": "Discard 1 Energy card attached to 1 of your own Pok\u00e9mon in order to remove up to 4 damage counters from that Pok\u00e9mon.",
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 12.99,
+          "mid_price": 30,
+          "high_price": 614.72,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 26.59,
+          "direct_low_price": 59.98,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 0.25,
+          "mid_price": 1.29,
+          "high_price": 96.95,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 1.38,
+          "direct_low_price": 0.8,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107087"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_b9ad964f83a6169a1dfcfe9ff7225f4bb74aa7517d48d0153bf043c7c1a708faaf852c12c941ccc0d82a2c4857da",
+    "card_info": {
+      "name": "Bill",
+      "clean_name": "Bill",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "091/102",
+      "rarity": "Common",
+      "card_type": "Trainer",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": "Draw 2 cards.",
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 21,
+          "mid_price": 27.25,
+          "high_price": 278.58,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 29.83,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 0.33,
+          "mid_price": 1.29,
+          "high_price": 79.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 1.26,
+          "direct_low_price": 0.92,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107088"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_5eb7559fe45f2d7e925b3ba2176dae2c368f2637516a976678b3d6efcfbed26858b5ac035ecea4840d11493c6f65",
+    "card_info": {
+      "name": "Energy Removal",
+      "clean_name": "Energy Removal",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "092/102",
+      "rarity": "Common",
+      "card_type": "Trainer",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": "Choose 1 Energy card attached to 1 of your opponent's Pok\u00e9mon and discard it.",
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 11.16,
+          "mid_price": 15.74,
+          "high_price": 129.48,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 20.56,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 0.17,
+          "mid_price": 0.75,
+          "high_price": 24.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 0.82,
+          "direct_low_price": 0.82,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107089"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_c88a234e0edc707cc6452afb7dccaeb8607ad8e9f3d7d227b6b2a669334c847d2d0b0544a056f9e5c68859483b31",
+    "card_info": {
+      "name": "Gust of Wind",
+      "clean_name": "Gust of Wind",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "093/102",
+      "rarity": "Common",
+      "card_type": "Trainer",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": "Choose 1 of your opponent's Benched Pok\u00e9mon and switch it with his or her Active Pok\u00e9mon.",
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 11.44,
+          "mid_price": 23.38,
+          "high_price": 256.9,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 25.65,
+          "direct_low_price": 256.9,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 0.25,
+          "mid_price": 0.7,
+          "high_price": 25.01,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 0.82,
+          "direct_low_price": 0.47,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107090"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_52b603a76955657fcd1b407c5c0a1bea618712fd61c8ece154fce9ce81e73f7d73d92f08afdbc50bfef4c460a987",
+    "card_info": {
+      "name": "Potion",
+      "clean_name": "Potion",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "094/102",
+      "rarity": "Common",
+      "card_type": "Trainer",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": "Remove up to 2 damage counters from 1 of your Pok\u00e9mon.",
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 9.19,
+          "mid_price": 15,
+          "high_price": 187.18,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 17.94,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 0.19,
+          "mid_price": 0.6,
+          "high_price": 24.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 0.66,
+          "direct_low_price": 0.42,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107091"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_ffca658316e61796d170eb0ca414869df88337cdcaad892c280d8e7e51f87ba0cc607cb1c48f36b2f174c7d1196e",
+    "card_info": {
+      "name": "Switch",
+      "clean_name": "Switch",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "095/102",
+      "rarity": "Common",
+      "card_type": "Trainer",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": "Switch 1 of your Benched Pok\u00e9mon with your Active Pok\u00e9mon.",
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 9.1,
+          "mid_price": 16.94,
+          "high_price": 75.85,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 27.38,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 0.2,
+          "mid_price": 0.86,
+          "high_price": 21.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 1.04,
+          "direct_low_price": 1.06,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107092"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_0cbec10feaf022a3d1be73c38e050458fbf07bee7dacb09c3d6359e0bd4cb84b3d7ce341a045524007bda4e51623",
+    "card_info": {
+      "name": "Fighting Energy",
+      "clean_name": "Fighting Energy",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "097/102",
+      "rarity": "Common",
+      "card_type": "Basic Energy",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": null,
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 2.99,
+          "mid_price": 4.5,
+          "high_price": 193.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 6.22,
+          "direct_low_price": 6.6,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 0.2,
+          "mid_price": 0.56,
+          "high_price": 19.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 0.69,
+          "direct_low_price": 0.3,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107093"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_5355114d4e1562d69116cd43966cb0acbe51a2a269a9a4b36dc873bebaa8f18216d50fba1250235fb1c1574f0179",
+    "card_info": {
+      "name": "Fire Energy",
+      "clean_name": "Fire Energy",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "098/102",
+      "rarity": "Common",
+      "card_type": "Basic Energy",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": null,
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 2.99,
+          "mid_price": 7.96,
+          "high_price": 9999,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 9.99,
+          "direct_low_price": 192.98,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 0.17,
+          "mid_price": 0.5,
+          "high_price": 14.42,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 0.63,
+          "direct_low_price": 0.4,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107094"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_38b176fa16c7e9d3ed7c477a8b6c6cdfbe0646fdc4f7410131bc9327ac08caf5e8d11d5018176bcfc278b8d81d1b",
+    "card_info": {
+      "name": "Grass Energy",
+      "clean_name": "Grass Energy",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "099/102",
+      "rarity": "Common",
+      "card_type": "Basic Energy",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": null,
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 10.99,
+          "mid_price": 26.81,
+          "high_price": 136.26,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 28.22,
+          "direct_low_price": 136.26,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 0.15,
+          "mid_price": 0.73,
+          "high_price": 96.95,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 1.52,
+          "direct_low_price": 0.5,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107095"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_0f8b5de25c363da929fdfb9a83e8333e1fb62388a600944fc7adfcf339c8a925b65393cf76ef4c5253a49b5b6c5ffe",
+    "card_info": {
+      "name": "Psychic Energy",
+      "clean_name": "Psychic Energy",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "101/102",
+      "rarity": "Common",
+      "card_type": "Basic Energy",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": null,
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 4.15,
+          "mid_price": 8.48,
+          "high_price": 9999,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 9.55,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 0.45,
+          "mid_price": 0.87,
+          "high_price": 24.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 1.33,
+          "direct_low_price": 0.61,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107096"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_a7d935395b1f34566d5ced0ead1fd080447f5290a7e3750778b9f50a7e5d1ba19b11ec63d5395a691b9ca5d3e8456f",
+    "card_info": {
+      "name": "Lightning Energy",
+      "clean_name": "Lightning Energy",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "100/102",
+      "rarity": "Common",
+      "card_type": "Basic Energy",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": null,
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 2.99,
+          "mid_price": 7.1,
+          "high_price": 99.38,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 8.58,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 0.35,
+          "mid_price": 0.79,
+          "high_price": 10.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 1.47,
+          "direct_low_price": 0.69,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107097"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_b138f4d2dc5e669031d9156206e22dd331be2d62a5c505a99fcc3a881d25f78f3c5e885ca22dce769ed18c9665a390",
+    "card_info": {
+      "name": "Water Energy",
+      "clean_name": "Water Energy",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "102/102",
+      "rarity": "Common",
+      "card_type": "Basic Energy",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": null,
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 5.11,
+          "mid_price": 8.1,
+          "high_price": 196.38,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 13.89,
+          "direct_low_price": null,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 0.38,
+          "mid_price": 0.88,
+          "high_price": 24.99,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 1.89,
+          "direct_low_price": 0.63,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107098"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_35a92a534c497b71c209fb6fcb933bb870c9a1e5d4eeb8c8f31fb6c91abd7614d97390dfab7e5b38600ad7c91d18",
+    "card_info": {
+      "name": "Double Colorless Energy",
+      "clean_name": "Double Colorless Energy",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "096/102",
+      "rarity": "Uncommon",
+      "card_type": "Special Energy",
+      "product_type": "card",
+      "hp": null,
+      "stage": null,
+      "card_text": "Provides 2 Colorless energy.\r\n<br>Doesn't count as a basic Energy card.",
+      "attacks": [],
+      "weakness": null,
+      "resistance": null,
+      "retreat_cost": null,
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 16.86,
+          "mid_price": 38.64,
+          "high_price": 489.58,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 46.63,
+          "direct_low_price": 27.06,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 5.86,
+          "mid_price": 7.76,
+          "high_price": 198.87,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 20.04,
+          "direct_low_price": 55.87,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/107099"
+    },
+    "cardmarket": null
+  },
+  {
+    "id": "pk_78b67d2306c60e343d2a59c5dd09b9e2515bf5e071f7c181b0e78ee9be4aa1188079660bef754699ed732ada8860",
+    "card_info": {
+      "name": "Pikachu (Red Cheeks)",
+      "clean_name": "Pikachu Red Cheeks",
+      "set_name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "card_number": "058/102",
+      "rarity": "Common",
+      "card_type": "Lightning",
+      "product_type": "card",
+      "hp": "40.0",
+      "stage": "Basic",
+      "card_text": null,
+      "attacks": [
+        "[1] Gnaw (10)",
+        "[1L] Thunder Jolt (30)\r\n<br>Flip a coin. If tails, Pikachu does 10 damage to itself."
+      ],
+      "weakness": "F",
+      "resistance": null,
+      "retreat_cost": "1.0",
+      "variants": [
+        "1st Edition",
+        "Unlimited"
+      ],
+      "languages": {
+        "en": [
+          "data",
+          "image"
+        ],
+        "de": [
+          "data"
+        ],
+        "fr": [
+          "data"
+        ],
+        "it": [
+          "data"
+        ]
+      }
+    },
+    "images": {
+      "languages": [
+        "en"
+      ]
+    },
+    "tcgplayer": {
+      "prices": [
+        {
+          "low_price": 684,
+          "mid_price": 1499,
+          "high_price": 3590.54,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 510.95,
+          "direct_low_price": 2299.99,
+          "sub_type_name": "1st Edition"
+        },
+        {
+          "low_price": 54.77,
+          "mid_price": 98.56,
+          "high_price": 795.82,
+          "updated_at": "2026-11-16T05:01:19.961619",
+          "market_price": 106.9,
+          "direct_low_price": 299.99,
+          "sub_type_name": "Unlimited"
+        }
+      ],
+      "url": "https://www.tcgplayer.com/product/147229"
+    },
+    "cardmarket": null
+  }
+]

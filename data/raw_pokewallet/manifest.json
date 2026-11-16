@@ -1,0 +1,67 @@
+{
+  "source": "Pok\u00e9Wallet API",
+  "base_url": "https://api.pokewallet.io",
+  "docs": "https://pokewallet.io/api-docs",
+  "collector": "Edgar Soberon <edgar.soberonmunoz@colorado.edu>",
+  "user_agent": "WebDataScience/1.0 (edgar.soberonmunoz@colorado.edu)",
+  "collected_at_utc": "2026-11-16T05:51:45.704216+00:00",
+  "n_cards_raw": 569,
+  "sets": [
+    {
+      "name": "Base Set",
+      "set_code": "BS",
+      "set_id": "604",
+      "release_date": "9th January, 1999",
+      "card_count": 103
+    },
+    {
+      "name": "Base Set (Shadowless)",
+      "set_code": "BSS",
+      "set_id": "1663",
+      "release_date": "9th January, 1999",
+      "card_count": 102
+    },
+    {
+      "name": "XY Base Set",
+      "set_code": "XY",
+      "set_id": "1387",
+      "release_date": "9th January, 1999",
+      "card_count": 147
+    },
+    {
+      "name": "SM Base Set",
+      "set_code": "SM01",
+      "set_id": "1863",
+      "release_date": "9th January, 1999",
+      "card_count": 172
+    },
+    {
+      "name": "Jungle",
+      "set_code": "JU",
+      "set_id": "635",
+      "release_date": "16th June, 1999",
+      "card_count": 64
+    },
+    {
+      "name": "Fossil",
+      "set_code": "FO",
+      "set_id": "630",
+      "release_date": "10th October, 1999",
+      "card_count": 62
+    },
+    {
+      "name": "Base Set 2",
+      "set_code": "BS2",
+      "set_id": "605",
+      "release_date": "24th February, 2000",
+      "card_count": 130
+    },
+    {
+      "name": "Expedition",
+      "set_code": "EX",
+      "set_id": "1375",
+      "release_date": "15th September, 2002",
+      "card_count": 165
+    }
+  ]
+}
